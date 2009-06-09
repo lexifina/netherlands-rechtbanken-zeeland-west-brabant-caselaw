@@ -1,0 +1,133 @@
+---
+ecli: "ECLI:NL:RBMID:2009:BJ5397"
+court: "Rechtbank Middelburg"
+court_code: "RBMID"
+docket: "67401/ KG ZA  09-66"
+decided: "2009-06-09"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Kort geding"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMID:2009:BJ5397"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBMID:2009:BJ5397 Rechtbank Middelburg , 09-06-2009 / 67401/ KG ZA  09-66
+
+## Inhoudsindicatie
+
+Gedaagde is in het bezit van een auto die hij geleverd heeft gekregen van een garage te Goes. Eiseres is een financieringsmaatschappij, met name gespecialiseerd in het financieren van dealerbedrijven in de autobranche. Eiseres en een andere automobielhandel hebben met de betreffende garage te Goes een overeenkomst gesloten, waarvan de registratie op 1 december 1997 heeft plaatsgevonden. Middels genoemde overeenkomst wordt er per demonstratie auto een Financial lease- overeenkomst afgesloten tussen een andere automobielhandel en de garage te Goes. Op 26 januari 2009 heeft de voorzieningen rechter eiseres verlof verleend strekkende tot afgifte/inbeslagname van stil verpande auto s aan eiseres. De garage te Goes is op 30 januari 2009 in staat van faillissement verklaard. Gedaagde weigert tot op heden de auto aan eiseres af te geven.
+
+## Uitspraak
+
+Uitspraak
+
+vonnis
+
+RECHTBANK MIDDELBURG
+
+67401 / KG ZA 09-66
+
+Sector civiel recht, voorzieningenrechter
+
+zaaknummer / rolnummer: 67401 / KG ZA 09-66
+
+Vonnis van 9 juni 2009
+
+in de zaak van
+
+de naamloze vennootschap
+
+DFM N.V.,
+
+gevestigd te Amersfoort,
+
+eiseres,
+
+advocaat: mr. R. Imhof,
+
+tegen
+
+[gedaagde],
+
+wonende te ’s-Heer Arendskerke,
+
+gedaagde,
+
+advocaat: mr. J.B. de Meester.
+
+Partijen zullen hierna DFM en [gedaagde] genoemd worden.
+
+1. Het procesverloop
+
+Het verloop van de procedure blijkt uit:
+
+- de dagvaarding met producties 1 tot en met 6;
+
+- de mondelinge behandeling van 14 mei 2009 ter gelegenheid waarvan namens DFM mevrouw [A] is verschenen, bijgestaan door mr. T.M. Penninks, kantoorgenote van mr. Imhof voornoemd. Namens [gedaagde] is mevrouw [echtgenote van gedaagde], zijnde de echtgenote van [gedaagde] verschenen, bijgestaan door mr. De Meester voornoemd;
+
+- de pleitaantekeningen van mrs. Penninks en De Meester;
+
+- de zijdens DFM ter zitting overgelegde productie.
+
+2. De feiten
+
+2.1 [gedaagde] is in het bezit van de auto met kenteken [kenteken auto] (Volkswagen Golf), hierna: de auto. Hij heeft de [V]erd gekregen va[V]V]
+
+2.2 DFM is een financieringsmaatschappij, met name gespecialiseerd in het financieren van dealerbedrijven in de autobranche.
+
+2.3 Op 14 mei 1997 hebben DFM en Pon’s Automobielhandel B.V. (hierna: Pon) met [V] een (financierings)overeenkomst gesloten, genaamd Raamovereenkomst Demonstratie Modellen (hierna: de Raamovereenkomst). De registratie van deze Raamovereenkomst heeft plaatsgevonden op 1 december 1997. Middels genoemde overeenkomst wordt er per demonstratieauto (demo) een financial lease-overeenkomst afgesloten tussen Pon en [V], ook wel demo leenovereenkomst (hierna: DLO) genoemd.
+
+2.4 In artikel 2.8 van genoemde Raamovereenkomst is bepaald dat tot meerdere zekerheid van al hetgeen [V] uit hoofde van de DLO aan Pon verschuldigd is en/of in de toekomst verschuldigd mocht worden, Pon bij voorbaat ex artikel 2.8 van de Raamovereenkomst een bezitloos pandrecht verkrijgt op de auto’s die in het kader van de DLO aan [V] zijn of zullen worden geleverd.
+
+2.5 Middels artikel 3.1 van de Raamovereenkomst verkoopt en draagt Pon de uit de DLO voortvloeiende rechten en vorderingen over aan DFM ten gevolge waarvan ook het bij voorbaat voorbehouden bezitloos pandrecht ex artikel 2.8 van de Raamovereenkomst overgaat op DFM. Effectuering hiervan vindt plaats gelijk met een aan [V] ter beschikking gestelde auto.
+
+2.6 In artikel 3.3. van de Raamovereenkomst is bepaald dat DFM de koopprijs, zijnde de op het moment van levering van de demonstratieautomobiel geldende inkoopprijs voor [V], op eerste verzoek van Pon aan Pon zal voldoen. Mede in dit kader zijn er tussen DFM en [V] kredietovereenkomsten gesloten.
+
+2.7 Artikel 3.5 van de Raamovereenkomst bepaalt dat het bezitloos pandrecht van DFM komt te vervallen indien en zodra [V] alle aan DFM verschuldigde bedragen volledig heeft voldaan.
+
+2.8 Op 26 januari 2009 heeft de voorzieningenrechter DFM verlof verleend strekkende tot afgifte/in beslagname van stil verpande auto’s aan DFM.
+
+2.9 [V] is op 30 januari 2009 in staat van faillissement verklaard.
+
+2.10 [gedaagde] weigert tot op heden, ondanks sommaties van DFM, de auto aan DFM af te geven.
+
+3. Het geschil
+
+3.1 DFM vordert, voor zover mogelijk uitvoerbaar bij voorraad, [gedaagde] te veroordelen tot afgifte van de auto aan haar binnen 24 uur na betekening van dit vonnis, op straffe van een direct opeisbare en niet voor matiging vatbare boete van € 10.000,-- per dag dat [gedaagde] geheel of gedeeltelijk in gebreke blijft aan het vonnis te voldoen, zulks met veroordeling van [gedaagde] in de buitengerechtelijke kosten ad € 1.158,-- en in de proceskosten.
+
+Ter onderbouwing van haar vordering voert zij aan dat [V] de auto onbevoegd, en zonder te beschikken over het overschrijvingsbewijs, aan [gedaagde] heeft verkocht en geleverd, zulks terwijl de auto nog met DFM moest worden afgerekend onder de Raamovereenkomst/ Kredietovereenkomst. Betwist wordt dat [gedaagde] ten tijde van de bezitsverkrijging te goeder trouw was. [gedaagde] had als verkrijger van een (tweedehands) auto op grond van de jurisprudentie tenminste de autopapieren moeten onderzoeken. [gedaagde] heeft aan deze (minimale) onderzoeksplicht niet voldaan, aangezien DFM in het bezit is van het overschrijvingsbewijs. Nu het overschrijvingsbewijs ontbrak en [gedaagde] wist dat de auto een demo betrof, had [gedaagde] kunnen dan wel behoren te weten dat er sprake was van een gefinancierde auto waarop een beperkt recht rust. Daarbij komt dat de echtgenote van [gedaagde] als werknemer van [V] een goede bekende is van het autobedrijf en op de hoogte was van de financiële problemen. [gedaagde] kan zich dan ook niet beroepen op verkrijging van de auto te goeder trouw en het pandrecht van DFM is derhalve op de auto blijven rusten.
+
+3.2 [gedaagde] voert verweer strekkende tot afwijzing van de vorderingen van DFM, met veroordeling van DFM in de kosten van het geding. De vordering leent zich niet voor een behandeling in kort geding. Niet is komen vast te staan dat [V] de auto onbevoegd aan hem heeft geleverd en dat de auto niet werd betaald aan DFM. Los daarvan komt hem een beroep op de goede trouw toe. [V] was een eersteklas en gerespecteerd autobedrijf. Zij heeft de auto aan [gedaagde] verkocht en op 15 december 2008 gefactureerd. Op 20 december 2008 heeft [gedaagde] de koopsom betaald. Het kenteken van deze auto stond op naam van [V], zijnde de eerste kentekenhouder. Er was geen reden te denken dat [V] de auto niet mocht verkopen en/of dat [V] beschikkingsonbevoegd zou zijn geweest ten tijde van de verkoop. Betwist wordt dat er voor de koper van een auto een onderzoeksverplichting rust naar de bevoegdheid van de verkoper. Bovendien betreft het in onderhavige zaak geen tweedehands auto. Tenslotte wordt de verschuldigdheid van de gevorderde buitengerechtelijke incassokosten betwist.
+
+4. De beoordeling
+
+4.1 De aard van de zaak waarvan in onderhavige procedure afgifte wordt verzocht, brengt met zich mee dat DFM een spoedeisend belang heeft bij haar vordering. De voorzieningenrechter acht zich dan ook bevoegd kennis te nemen van onderhavig geschil.
+
+4.2 Naar het oordeel van de voorzieningenrechter is het voorshands aannemelijk dat [V] onbevoegd was de auto onbezwaard aan [gedaagde] te verkopen en leveren. In artikel 3.5 van de Raamovereenkomst is bepaald dat het in artikel 2.8 genoemde voorbehouden bezitloos pandrecht op een auto slechts dan komt te vervallen indien en zodra alle door [V] aan DFM voor die betreffende auto verschuldigde bedragen volledig zijn betaald. DFM heeft, mede gelet op het door de voorzieningenrechter verleende verlof tot afgifte/inbeslagname van aan DFM stil verpande zaken, voldoende aannemelijk gemaakt [V] haar betalingsverplichtingen jegens DFM niet volledig is nagekomen en dat een deel van het nog openstaande bedrag betrekking heeft op de aan [gedaagde] geleverde auto. Gelet op het vorenstaande moet worden geconcludeerd dat het aan DFM voorbehouden bezitloos pandrecht op de door [V] aan [gedaagde] geleverde auto niet is komen te vervallen. Voor het geval er op een auto een voorbehouden bezitloos pandrecht rust, bepaalt artikel 6.3 van de Raamovereenkomst dat het [V] nimmer is toegestaan (delen van) de auto uit te lenen, te vervreemden, te verhuren en/of op enigerlei andere wijze aan derden in gebruik te geven dan wel ten gunste van derden met enig beperkt recht te bezwaren. [V] mag de auto in een dergelijk geval enkel en alleen gebruiken voor demonstratiedoeleinden. [V] heeft de auto desondanks aan [gedaagde] verkocht en geleverd, zulks terwijl zij daartoe op grond van voornoemde artikelen in de Raamovereenkomst niet bevoegd was.
+
+4.3 Nu er aan de zijde van [V] sprake is van beschikkingsonbevoegdheid, kan er slechts dan sprake zijn van een geldige overdracht indien de overdracht anders dan om niet geschiedt en [gedaagde] als verkrijger van de auto op het moment van de bezitsverkrijging te goeder trouw was.
+
+Vast staat dat [gedaagde] de koopprijs op 20 december 2008 heeft voldaan.
+
+De voorzieningenrechter is voorshands van oordeel dat niet kan worden aangenomen dat [gedaagde] als verkrijger van de auto niet te goeder trouw was. Onbetwist is dat [V] een gerenommeerd autobedrijf was dat al vele jaren bestond. [gedaagde] heeft de auto gekocht voordat het autobedrijf in staat van faillissement werd verklaard, namelijk op 15 december 2008. Onder die omstandigheden kon niet van [gedaagde] verwacht worden dat hij, ondanks dat het kenteken van de auto op naam van [V] stond, nader onderzoek zou doen naar de beschikkingsbevoegdheid van [V]. [gedaagde] mocht er op vertrouwen dat [V] het kenteken van de auto alsnog op zijn naam zou zetten. Dat de echtgenote van [gedaagde] bij [V] werkzaam was doet daaraan niet af, aangezien zij in dienst was als schoonmaakster en derhalve niets van doen had met de bedrijfsvoering van het bedrijf.
+
+Gelet op het vorenoverwogene moet vooralsnog worden geconcludeerd dat [gedaagde] de auto te goeder trouw heeft verkregen. De vordering van DFM strekkende tot afgifte van de auto zal derhalve worden afgewezen.
+
+4.5 DFM zal als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld. De kosten van [gedaagde] worden vastgesteld op:
+
+- vast recht 262,00
+
+- salaris advocaat 1.054,00
+
+Totaal EUR 1.316,00
+
+5. De beslissing
+
+De voorzieningenrechter:
+
+wijst de vordering af;
+
+veroordeelt DFM in de kosten van het geding, tot op heden aan de zijde van [gedaagde] begroot op EUR 1.316,--.
+
+Dit vonnis is gewezen door mr. E.K. van der Lende-Mulder Smit en in het openbaar uitgesproken op 9 juni 2009.

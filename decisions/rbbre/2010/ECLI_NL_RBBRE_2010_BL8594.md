@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBBRE:2010:BL8594"
-published_in: ["Rechtspraak.nl", "V-N 2010/25.2.2", "FutD 2010-0791"]
+published_in: ["Rechtspraak.nl", "V-N 2010/25.2.2", "FutD 2010-0791", "Viditax (FutD) 2011012106", "Viditax (FutD) 2010032407", "Viditax (FutD) 2011051307"]
 relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2011:BP1527, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie in (sprong)cassatie: ECLI:NL:PHR:2011:BP1527"]]
 ---
 

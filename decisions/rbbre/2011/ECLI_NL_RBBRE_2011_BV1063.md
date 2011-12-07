@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBBRE:2011:BV1063"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/192", "Vp-bulletin 2012/11", "V-N 2012/13.3.2", "FutD 2012-0192", "NTFR 2012/1287 met annotatie van mr. J.M. Sitsen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/192", "Vp-bulletin 2012/11 met annotatie van Kluwer", "V-N 2012/13.3.2", "NTFR 2012/1287 met annotatie van mr. J.M. Sitsen", "FutD 2012-0192", "Viditax (FutD) 2012011702"]
 ---
 
 # ECLI:NL:RBBRE:2011:BV1063 Rechtbank Breda , 07-12-2011 / 11/1595

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBBRE:2012:BW0426"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/921", "FutD 2012-0922"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/921", "FutD 2012-0922", "Viditax (FutD) 2012040207"]
 ---
 
 # ECLI:NL:RBBRE:2012:BW0426 Rechtbank Breda , 29-02-2012 / 11/5076

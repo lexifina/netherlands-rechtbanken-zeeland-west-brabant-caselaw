@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBBRE:2012:BX1980"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1628", "V-N 2012/37.13 met annotatie van Redactie", "NTFR 2012/2004 met annotatie van Mr. L.E.C. Neve"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1628", "V-N 2012/37.13", "NTFR 2012/2004 met annotatie van Mr. L.E.C. Neve"]
 ---
 
 # ECLI:NL:RBBRE:2012:BX1980 Rechtbank Breda , 25-05-2012 / AWB 12/1495 VV, 12/1496, 12/1497 VV, 12/1498, 12/1499 VV, 12/1500

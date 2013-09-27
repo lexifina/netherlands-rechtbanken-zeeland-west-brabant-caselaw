@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2013:7111"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/2333", "V-N 2013/59.23.26", "FutD 2013-2686"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/2333", "V-N 2013/59.23.26", "FutD 2013-2686", "Viditax (FutD) 2013102801"]
 ---
 
 # ECLI:NL:RBZWB:2013:7111 Rechtbank Zeeland-West-Brabant , 27-09-2013 / AWB-12_2341

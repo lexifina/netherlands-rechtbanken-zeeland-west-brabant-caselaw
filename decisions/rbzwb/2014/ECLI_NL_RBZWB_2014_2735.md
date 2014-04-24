@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2014:2735"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1022", "V-N 2014/35.3.3", "V-N 2014/45.10 met annotatie van Redactie", "FutD 2014-1212", "NTFR 2014/1930 met annotatie van mr. F. van Horzen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1022", "V-N 2014/35.3.3", "V-N 2014/45.10 met annotatie van Redactie", "NTFR 2014/1930 met annotatie van mr. F. van Horzen", "FutD 2014-1212", "Viditax (FutD) 2014052002"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2020:4019, Bekrachtiging/bevestiging"]]
 ---
 

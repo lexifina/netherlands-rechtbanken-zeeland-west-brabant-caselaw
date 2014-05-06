@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2014:3332"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1218", "V-N 2014/47.22.1", "FutD 2014-1381"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2017:4323, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2019:2385, Overig"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1218", "V-N 2014/47.22.1", "FutD 2014-1381", "Viditax (FutD) 2014061102"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2017:4323, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2019:2385, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2022:2458, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2014:3332 Rechtbank Zeeland-West-Brabant , 06-05-2014 / AWB-12_155

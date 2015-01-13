@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2015:109"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/936", "Belastingadvies 2015/13.4", "FutD 2015-1079", "NTFR 2015/1525"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/936", "Belastingadvies 2015/13.4", "FutD 2015-1079", "Viditax (FutD) 2015042303"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2016:907, Bekrachtiging/bevestiging"]]
 ---
 

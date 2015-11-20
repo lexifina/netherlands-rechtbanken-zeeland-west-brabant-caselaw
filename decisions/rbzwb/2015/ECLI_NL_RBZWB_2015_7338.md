@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2015:7338"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2627", "V-N 2016/6.17.18", "FutD 2015-2977", "NTFR 2016/657 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2627", "V-N 2016/6.17.18", "NTFR 2016/657 met annotatie van mr. J. Nieuwenhuizen", "FutD 2015-2977", "Viditax (FutD) 2015121114"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-019.md"]
 ---
 

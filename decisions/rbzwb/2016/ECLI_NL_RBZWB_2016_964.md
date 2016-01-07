@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:964"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/838", "FutD 2016-0993", "NTFR 2016/1420"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/838", "FutD 2016-0993", "Viditax (FutD) 2016041203"]
 ---
 
 # ECLI:NL:RBZWB:2016:964 Rechtbank Zeeland-West-Brabant , 07-01-2016 / BRE - 12 _ 5953

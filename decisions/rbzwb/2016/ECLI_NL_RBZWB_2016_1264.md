@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:1264"
-published_in: ["Rechtspraak.nl", "AR 2016/912", "PJ 2016/77", "AR-Updates.nl 2016-0302", "PR-Updates.nl AR-2016-0302"]
+published_in: ["Rechtspraak.nl", "AR 2016/912", "PJ 2016/77", "AR-Updates.nl 2016-0302", "PR-Updates.nl AR-2016-0302", "PR-Updates.nl 2016-0302"]
 ---
 
 # ECLI:NL:RBZWB:2016:1264 Rechtbank Zeeland-West-Brabant , 04-03-2016 / 4701631 AZ VERZ 15-158

@@ -1,0 +1,162 @@
+---
+ecli: "ECLI:NL:RBZWB:2016:3195"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "BRE - 15 _ 6764"
+decided: "2016-05-24"
+published: "2016-05-30"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:3195"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/1643", "V-N 2016/39.23.10", "Belastingblad 2016/447", "FutD 2016-1871", "NTFR 2016/2090"]
+cites_law: ["netherlands/national/acts/awb/art-07-015.md"]
+---
+
+# ECLI:NL:RBZWB:2016:3195 Rechtbank Zeeland-West-Brabant , 24-05-2016 / BRE - 15 _ 6764
+
+## Inhoudsindicatie
+
+In het kader van een WOZ-procedure is aan belanghebbenden een kostenvergoeding toegekend. Hierbij is voor de telefonische hoorzitting 0,5 punt meegenomen.
+
+Ter zitting is vast komen te staan dat de hoorzitting niet anders zou zijn geweest als de gemachtigde lijfelijk bij de hoorzitting aanwezig was geweest, ook al bestond het telefoongesprek inhoudelijk slechts uit één zin.
+
+De rechtbank is van oordeel dat telefonisch horen dan een volwaardige proceshandeling is waarvoor belanghebbenden recht hebben op proceskostenvergoeding (1 punt).
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Belastingrecht, enkelvoudige kamer
+
+Locatie: Breda
+
+Zaaknummer BRE 15/6764
+
+uitspraak van 24 mei 2016
+
+Proces-verbaal van de mondelinge uitspraak als bedoeld in afdeling 8.2.6 van de Algemene wet bestuursrecht (Awb) en artikel 27d van de Algemene wet inzake rijksbelastingen (AWR) in het geding tussen
+
+[belanghebbenden], wonende te [plaats A],
+
+belanghebbenden,
+
+en
+
+de heffingsambtenaar van Sabewa Zeeland,
+
+de heffingsambtenaar.
+
+De bestreden uitspraken op bezwaar
+
+De uitspraken van de heffingsambtenaar van 25 september 2015 op het bezwaar van belanghebbenden tegen de beschikking waarbij de onroerende zaak, plaatselijk bekend als [adres] te [plaats A] (hierna: de woning), is gewaardeerd op grond van de Wet waardering onroerende zaken en de met die beschikking in één geschrift bekendgemaakte aanslag onroerendezaakbelastingen.
+
+Zitting
+
+Het onderzoek ter zitting heeft plaatsgevonden op 10 mei 2016 te Middelburg.
+
+Aldaar zijn verschenen en gehoord, namens belanghebbenden, de gemachtigde [gemachtigde], verbonden aan [kantoornaam gemachtigde] te Enschede, en namens de heffingsambtenaar,
+
+[verweerder] en [taxateur] (taxateur).
+
+1.	Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond, doch uitsluitend voor zover het de vergoeding van kosten van de bezwaarfase betreft;
+
+vernietigt het besluit inzake de vergoeding van kosten van de bezwaarfase;
+
+verklaart het beroep voor het overige ongegrond;
+
+- veroordeelt de heffingsambtenaar in de proceskosten van belanghebbenden ten bedrage van € 988;
+
+- gelast dat de heffingsambtenaar het door belanghebbenden betaalde griffierecht van
+
+€ 45 aan deze vergoedt.
+
+2.	Gronden
+
+2.1.
+
+Belanghebbenden zijn erfgenamen van [A] die op 1 januari 2015 eigenaar was van de woning. De woning is een twee-onder-een-kapwoning met berging, vrijstaande garage, tuin en ondergrond (bouwjaar 1925). De inhoud van de woning is ongeveer 237m³. Het geheel is gelegen op een perceel van 333m².
+
+2.2.
+
+De heffingsambtenaar heeft bij beschikking op grond van artikel 22 van de Wet waardering onroerende zaken (hierna: Wet WOZ) de waarde van de woning, per waardepeildatum 1 januari 2014 (hierna: de waardepeildatum), vastgesteld voor het kalenderjaar 2015 op € 107.000. In de uitspraken op bezwaar heeft de heffingsambtenaar de waarde verminderd tot € 91.000 en de aanslag onroerendezaakbelastingen dienovereenkomstig verminderd. Aan belanghebbenden is een kostenvergoeding van € 366 toegekend, zijnde 1 punt voor het indienen van het bezwaarschrift en een 0,5 punt voor de telefonische hoorzitting met een waarde per punt van € 244.
+
+2.3.
+
+In geschil is de waarde van het pand op de waardepeildatum en de hoogte van de proceskostenvergoeding. Belanghebbenden bepleiten een waarde van € 80.000. De heffingsambtenaar bepleit bevestiging van de door hem in de uitspraken op bezwaar vastgestelde waarde.
+
+2.4.
+
+Ingevolge artikel 17, eerste lid, van de Wet WOZ, wordt aan een onroerende zaak een waarde toegekend. Ingevolge het tweede lid van dit artikel wordt deze waarde bepaald op de waarde die aan de onroerende zaak dient te worden toegekend indien de volle en onbezwaarde eigendom daarvan zou kunnen worden overgedragen en de verkrijger de zaak in de staat waarin die zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen. Daarbij heeft als waarde te gelden de waarde in het economische verkeer. Dit is de prijs, die bij aanbieding ten verkoop op de voor die onroerende zaak meest geschikte wijze na de beste voorbereiding door de meest biedende gegadigde voor de onroerende zaak zou zijn betaald.
+
+2.5.
+
+De heffingsambtenaar, op wie de bewijslast rust om aannemelijk te maken dat de waarde van de woning niet te hoog is vastgesteld, heeft een taxatierapport overgelegd, opgemaakt op 14 december 2015 door [taxateur], en ter ondersteuning daarvan gewezen op de opbrengst behaald bij verkoop van een aantal ter vergelijking met de woning opgevoerde objecten, te weten [vergelijkingsobject 1], [vergelijkingsobject 2] en [vergelijkingsobject 3]. Deze vergelijkingsobjecten zijn alle gelegen te [plaats A]. Naast beeldmateriaal van de woning, bevat dit taxatierapport een matrix en gegevens en beeldmateriaal van de vergelijkingsobjecten. In het taxatierapport is de waarde van de woning bepaald op € 95.000.
+
+2.6.
+
+Belanghebbenden stellen dat de woning zeer gedateerd is. De woning beschikt niet over een badkamer en heeft geen centrale verwarming. Op de eerste verdieping is helemaal geen verwarming aanwezig. De woning is niet geïsoleerd en er is asbest aanwezig. Hiermee heeft de heffingsambtenaar, volgens belanghebbenden, onvoldoende rekening gehouden.
+
+2.7.
+
+De rechtbank is van oordeel dat de heffingsambtenaar met het overgelegde taxatierapport aannemelijk heeft gemaakt dat de waarde niet te hoog is vastgesteld. Hiertoe heeft zij het volgende in aanmerking genomen. Alle vergelijkingsobjecten zijn gelegen in dezelfde straat als de woning en hebben allemaal dezelfde uitstraling. De rechtbank acht alle objecten goed vergelijkbaar. Weliswaar vertonen de vergelijkingsobjecten verschillen met de woning, maar de heffingsambtenaar heeft aannemelijk gemaakt dat met deze verschillen, met name de ligging, de grootte en de onderhoudstoestand, in het taxatierapport voldoende rekening is gehouden.
+
+Het object [vergelijkingsobject 1] is, evenals de woning, intern eenvoudig en gedateerd. Wel beschikt het object over een grotere garage. Met dit verschil is naar het oordeel van de rechtbank voldoende rekening gehouden nu de garage apart in de waardering is betrokken. De prijs per m³ en de waarde van de grond per m² is voor beide panden hetzelfde.
+
+Ook het object [vergelijkingsobject 3] is intern eenvoudig en gedateerd. Het perceel van dit object (161m²) is kleiner dan het perceel van de woning. Hiermee acht de rechtbank de lagere waarde van dit object ten opzichte van de woning voldoende aannemelijk gemaakt.
+
+[vergelijkingsobject 2] is intern beter dan de woning en het object beschikt over een betere garage welke apart in de waardering is betrokken. De prijs per m³ van dit object is beduidend hoger dan de prijs per m³ van de overige, gedateerde, objecten en de woning.
+
+2.8.
+
+Gelet op het vorenstaande is de rechtbank van oordeel dat de waarde van de woning alsmede de daarop gebaseerde aanslag niet te hoog is vastgesteld.
+
+2.9.
+
+Vaststaat dat op 23 september 2015 een telefonische hoorzitting heeft plaatsgevonden. Voor deze telefonische hoorzitting is door de heffingsambtenaar in de uitspraken op bezwaar geen vergoeding toegekend. Ter zitting heeft hij hierover verklaard dat het telefoongesprek slechts twee minuten duurde en dat de gemachtigde van belanghebbenden slechts een zin uit het bezwaarschrift heeft herhaald. Ook heeft hij in een email van 21 september 2015 aangegeven dat voor een telefonische hoorzitting een 0,5 punt in het kader van de proceskostenvergoeding zal worden toegekend. De gemachtigde heeft hierop niet gereageerd en de heffingsambtenaar is ervan uitgegaan dat hij daarmee akkoord is. Ter zitting is verder vast komen te staan dat de hoorzitting niet anders zou zijn geweest als de gemachtigde lijfelijk bij de hoorzitting aanwezig was geweest.
+
+2.10.
+
+Gelet op de genoemde feiten en omstandigheden is de rechtbank van oordeel dat de in dit geval gehouden telefonische hoorzitting op een zodanig wijze heeft plaatsgevonden dat deze zich, afgezien van de lijfelijke aanwezigheid, materieel niet onderscheidt van een hoorzitting in de zin van Afdeling 7.2 Awb. Ingevolge het arrest van de Hoge Raad van 1 juni 2012 (nr. 11/04661, ECLI:NL:HR:2012:BW7081, BNB 2012/235), is telefonisch horen dan een volwaardige proceshandeling waarvoor belanghebbenden recht hebben op proceskostenvergoeding.
+
+2.11.
+
+Gelet op het vorenstaande is het beroep gegrond verklaard voor zover het de proceskostenvergoeding betreft. Voor het overige worden de uitspraken op bezwaar in stand gelaten.
+
+2.12.
+
+De rechtbank vindt aanleiding de heffingsambtenaar te veroordelen in de kosten die belanghebbenden in verband met de behandeling van het bezwaar en het beroep redelijkerwijs hebben moeten maken. Deze kosten zijn op de voet van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 988 (1 punt voor het indienen van het bezwaarschrift, 1 punt voor de telefonische hoorzitting met een waarde per punt van € 246 met een wegingsfactor 1,
+
+1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 496 met een wegingsfactor 0,5). Op dit bedrag mag de heffingsambtenaar het bedrag dat al in de bezwaarfase is betaald in mindering brengen. De rechtbank acht het gewicht van het beroep ‘licht’ nu het beroep alleen gegrond is verklaard vanwege de te lage vergoeding van kosten van de bezwaarfase. Om die reden is in beroep een wegingsfactor van 0,5 toegekend.
+
+Deze uitspraak is gedaan op 24 mei 2016 door mr. A.F.M.Q. Beukers-van Dooren, rechter, en op dezelfde dag in het openbaar uitgesproken in tegenwoordigheid van
+
+mr. W.C.C. Koreman-de Bok, griffier.
+
+De griffier,	De rechter,
+
+Afschrift aangetekend verzonden aan partijen op:
+
+Aan deze uitspraak hoeft eerst uitvoering te worden gegeven als de uitspraak onherroepelijk is geworden. De uitspraak is onherroepelijk als niet binnen zes weken na verzending van de uitspraak een rechtsmiddel is aangewend of onherroepelijk op het aangewende rechtsmiddel is beslist (artikel 27h, derde lid en artikel 28, zevende lid AWR).
+
+Rechtsmiddel
+
+Tegen deze uitspraak kunnen partijen binnen zes weken na de verzenddatum hoger beroep instellen bij het gerechtshof te ‘s-Hertogenbosch (belastingkamer), Postbus 70583,
+
+5201 CZ ’s-Hertogenbosch.
+
+Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:
+
+1. bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd.2 - het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden: 	a. de naam en het adres van de indiener;
+
+b. een dagtekening;
+
+c. een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;
+
+d. de gronden van het hoger beroep.
+
+Voor burgers is het mogelijk hoger beroep digitaal in te stellen. Hiervoor kan gebruik worden gemaakt van de formulieren op Rechtspraak.nl / Digitaal loket bestuursrecht.

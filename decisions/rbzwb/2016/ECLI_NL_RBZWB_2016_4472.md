@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:4472"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2390", "V-N 2016/64.16.12", "Vp-bulletin 2017/6", "FutD 2016-2751", "NTFR 2017/66 met annotatie van mr. H.A. Elbert", "NLF 2016/0606 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2390", "V-N 2016/64.16.12", "Vp-bulletin 2017/6", "NLF 2016/0606", "NTFR 2017/66 met annotatie van mr. H.A. Elbert", "FutD 2016-2751", "Viditax (FutD) 2016111005"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-111.md"]
 ---
 

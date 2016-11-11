@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:7322"
-published_in: ["Rechtspraak.nl", "V-N 2017/38.22.6", "V-N Vandaag 2017/1623", "FutD 2017-1708", "NTFR 2017/1844", "NLF 2017/1733 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N 2017/38.22.6", "V-N Vandaag 2017/1623", "NLF 2017/1733", "FutD 2017-1708", "Viditax (FutD) 2017070615"]
 ---
 
 # ECLI:NL:RBZWB:2016:7322 Rechtbank Zeeland-West-Brabant , 11-11-2016 / BRE - 15 _ 4751

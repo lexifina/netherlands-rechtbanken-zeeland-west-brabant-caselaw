@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2016:8093"
-published_in: ["Rechtspraak.nl", "AR 2016/3916", "PJ 2017/5 met annotatie van M.J.C.M. van der Poel", "AR-Updates.nl 2016-1466", "PR-Updates.nl AR-2016-1466"]
+published_in: ["Rechtspraak.nl", "AR 2016/3916", "PJ 2017/5 met annotatie van M.J.C.M. van der Poel", "AR-Updates.nl 2016-1466", "PR-Updates.nl AR-2016-1466", "PR-Updates.nl 2016-1466"]
 ---
 
 # ECLI:NL:RBZWB:2016:8093 Rechtbank Zeeland-West-Brabant , 01-12-2016 / C/02/321264/ KG ZA 16-625

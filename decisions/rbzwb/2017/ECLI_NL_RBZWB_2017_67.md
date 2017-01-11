@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2017:67"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/68", "V-N 2017/14.2.3", "FutD 2017-0125 met annotatie van Fiscaal up to Date", "NTFR 2017/786 met annotatie van mr. J. Nieuwenhuizen", "NLF 2017/0133 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/68", "V-N 2017/14.2.3", "NLF 2017/0133", "NTFR 2017/786 met annotatie van mr. J. Nieuwenhuizen", "FutD 2017-0125", "Viditax (FutD) 2017011101"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2018:2589, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-002.md"]
 ---

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2017:207"
-published_in: ["Rechtspraak.nl", "Belastingadvies 2017/8.7", "V-N Vandaag 2017/355", "V-N 2017/15.25.18", "FutD 2017-0439", "NTFR 2017/582", "NLF 2017/0412 met annotatie van"]
+published_in: ["Rechtspraak.nl", "Belastingadvies 2017/8.7", "V-N Vandaag 2017/355", "V-N 2017/15.25.18", "NLF 2017/0412", "FutD 2017-0439", "Viditax (FutD) 2017021725"]
 ---
 
 # ECLI:NL:RBZWB:2017:207 Rechtbank Zeeland-West-Brabant , 12-01-2017 / AWB - 15 _ 8293

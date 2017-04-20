@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2017:2454"
-published_in: ["Rechtspraak.nl", "NLF 2017/0980 met annotatie van Peter Kavelaars", "RSV 2017/138", "V-N Vandaag 2017/925", "V-N 2017/24.13 met annotatie van Redactie", "FutD 2017-0990", "Viditax (FutD), 11-08-2017", "Viditax (FutD), 27-10-2017", "NTFR 2017/1440 met annotatie van mr. A.H.W. Steijn"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0980 met annotatie van Peter Kavelaars", "RSV 2017/138", "V-N Vandaag 2017/925", "V-N 2017/24.13 met annotatie van Redactie", "NTFR 2017/1440 met annotatie van mr. A.H.W. Steijn", "FutD 2017-0990", "Viditax (FutD) 2017042119", "Viditax (FutD) 2017081109", "Viditax (FutD) 2017102709"]
 relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2017:2681"]]
 ---
 

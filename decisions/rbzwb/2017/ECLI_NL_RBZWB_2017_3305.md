@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2017:3305"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1751", "V-N 2017/42.23.11", "Viditax (FutD), 17-07-2017", "FutD 2017-1841", "NTFR 2017/1877", "NLF 2017/1786 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1751", "V-N 2017/42.23.11", "NLF 2017/1786", "FutD 2017-1841", "Viditax (FutD) 2017071707"]
 ---
 
 # ECLI:NL:RBZWB:2017:3305 Rechtbank Zeeland-West-Brabant , 24-05-2017 / BRE - 14 _ 4739

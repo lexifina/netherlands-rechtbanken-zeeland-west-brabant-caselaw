@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2017:5809"
-published_in: ["Rechtspraak.nl", "NLF 2017/2327 met annotatie van Nicole Gubbels", "Vp-bulletin 2017/59", "V-N Vandaag 2017/2237", "RN 2017/101", "Belastingadvies 2017/24.1", "Viditax (FutD), 28-09-2017", "FutD 2017-2398 met annotatie van Fiscaal up to Date", "NTFR 2017/2680 met annotatie van R.S. Bekker"]
+published_in: ["Rechtspraak.nl", "NLF 2017/2327 met annotatie van Nicole Gubbels", "Vp-bulletin 2017/59 met annotatie van Redactie", "V-N Vandaag 2017/2237", "RN 2017/101", "Belastingadvies 2017/24.1", "NTFR 2017/2680 met annotatie van R.S. Bekker", "FutD 2017-2398", "Viditax (FutD) 2017092806"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2018:3682, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-092.md", "netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-001.md"]
 ---

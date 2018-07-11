@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2018:5058"
-published_in: ["Rechtspraak.nl", "PJ 2018/158", "AR-Updates.nl 2018-0990", "PR-Updates.nl PR-2018-0103"]
+published_in: ["Rechtspraak.nl", "PJ 2018/158", "AR-Updates.nl 2018-0990", "PR-Updates.nl PR-2018-0103", "VAAN-AR-Updates.nl 2018-0990", "PR-Updates.nl 2018-0103"]
 ---
 
 # ECLI:NL:RBZWB:2018:5058 Rechtbank Zeeland-West-Brabant , 11-07-2018 / 6661854 CV EXPL 18-753

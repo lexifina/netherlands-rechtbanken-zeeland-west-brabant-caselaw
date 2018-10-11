@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2018:7012"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1411", "PR-Updates.nl PR-2018-0153"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1411", "PR-Updates.nl PR-2018-0153", "VAAN-AR-Updates.nl 2018-1411", "PR-Updates.nl 2018-0153"]
 ---
 
 # ECLI:NL:RBZWB:2018:7012 Rechtbank Zeeland-West-Brabant , 11-10-2018 / 7038455 AZ VERZ 18-47

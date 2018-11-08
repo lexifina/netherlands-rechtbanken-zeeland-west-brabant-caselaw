@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2018:6269"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-02-2019", "FutD 2019-0519", "V-N Vandaag 2019/448", "V-N 2019/18.2.2", "NTFR 2019/586", "NLF 2019/0480 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/448", "V-N 2019/18.2.2", "NLF 2019/0480", "FutD 2019-0519", "Viditax (FutD) 2019022229"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2019:3773, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-002.md"]
 ---

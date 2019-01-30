@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:599"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0165", "PJ 2019/45", "PR-Updates.nl PR-2019-0033"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0165", "PJ 2019/45", "PR-Updates.nl PR-2019-0033", "VAAN-AR-Updates.nl 2019-0165", "PR-Updates.nl 2019-0033"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2022:1849"]]
 ---
 
 # ECLI:NL:RBZWB:2019:599 Rechtbank Zeeland-West-Brabant , 30-01-2019 / 7123813 CV EXPL 18-3479

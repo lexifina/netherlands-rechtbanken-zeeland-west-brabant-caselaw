@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:1631"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1523", "FutD 2019-1791", "Viditax (FutD), 08-07-2019", "V-N 2019/38.2.5", "NTFR 2019/1839", "NLF 2019/1629 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1523", "V-N 2019/38.2.5", "NLF 2019/1629", "FutD 2019-1791", "Viditax (FutD) 2019070808"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2020:237, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-004.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-015.md"]
 ---

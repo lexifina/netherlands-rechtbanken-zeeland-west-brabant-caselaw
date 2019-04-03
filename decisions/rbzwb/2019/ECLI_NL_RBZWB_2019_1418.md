@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:1418"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0090"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0090", "PR-Updates.nl 2020-0090"]
 ---
 
 # ECLI:NL:RBZWB:2019:1418 Rechtbank Zeeland-West-Brabant , 03-04-2019 / C/02/274066 / HA ZA 13-949

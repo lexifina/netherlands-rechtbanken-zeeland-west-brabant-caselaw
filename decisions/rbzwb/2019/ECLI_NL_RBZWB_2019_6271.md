@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:6271"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0706", "PR-Updates.nl PR-2020-0123", "PJ 2020/117"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0706", "PR-Updates.nl PR-2020-0123", "PJ 2020/117", "VAAN-AR-Updates.nl 2020-0706", "PR-Updates.nl 2020-0123"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2021:3722"]]
 ---
 
 # ECLI:NL:RBZWB:2019:6271 Rechtbank Zeeland-West-Brabant , 15-05-2019 / 6218728 CV EXPL 17-3657 en 6512642 CV EXPL 17-5617

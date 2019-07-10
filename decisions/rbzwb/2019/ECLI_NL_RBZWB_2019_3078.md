@@ -1,0 +1,270 @@
+---
+ecli: "ECLI:NL:RBZWB:2019:3078"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "02-261451-18"
+decided: "2019-07-10"
+published: "2019-07-10"
+type: "uitspraak"
+procedure: "Op tegenspraak"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:3078"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2019:3078 Rechtbank Zeeland-West-Brabant , 10-07-2019 / 02-261451-18
+
+## Inhoudsindicatie
+
+Veroordeling ivm een ramkraak op een kledingwinkel, gepleegd met een gestolen auto. Veroordeeld tot 15 maanden gevangenisstraf met aftrek, waarvan 5 maanden voorwaardelijk. Vrijspraak diefstal kentekenplaat. Toewijzing vorderingen benadeelde partijen.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Strafrecht
+
+Zittingsplaats: Breda
+
+parketnummer: 02/261451-18
+
+vonnis van de meervoudige kamer van 10 juli 2019
+
+in de strafzaak tegen
+
+[verdachte]
+
+geboren op [geboortedag] 1997 te [geboorteplaats]
+
+wonende te [adres 1]
+
+gedetineerd in de Penitentiaire Inrichting Nieuw Vosseveld te Vught
+
+raadsman mr. P.A. van Dokkum, advocaat te ʼs-Gravenhage.
+
+1
+Onderzoek van de zaak
+
+De zaak is inhoudelijk behandeld op de zitting van 26 juni 2019, waarbij de officier van justitie, mr. Bezem, en de verdediging hun standpunten kenbaar hebben gemaakt.
+
+2
+De tenlastelegging
+
+Verdachte staat terecht, ter zake dat:
+
+1
+
+hij op of omstreeks 20 december 2018 te Waalwijk, tezamen en in vereniging met een ander of anderen, met het oogmerk van wederrechtelijke toe-eigening uit een pand waarin was gevestigd [naam 1] [adres 2] , heeft weggenomen een (grote) hoeveelheid kleding, toebehorende aan [naam 2] en/of [naam 1] , waarbij verdachte en/of zijn mededader(s) zich de toegang tot de plaats des misdrijfs heeft/hebben verschaft en die/die weg te nemen goed(eren) onder zijn/hun bereik heeft gebracht door middel van braak en verbreking;
+
+(Artikel art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht)
+
+2
+
+hij op of omstreeks 20 december 2018 te Waalwijk en/of Tilburg, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, een goed, te weten
+
+- ( een) Pools(e) kentekenpla(a)t(en) ( [kenteken] ) en/of
+
+- een BMW ( [nummer] )
+
+heeft/hebben verworven, voorhanden gehad en/of overgedragen, terwijl hij en zijn mededader(s) ten tijde van de verwerving of het voorhanden krijgen van dit/deze goed(eren) wist(en), althans redelijkerwijs had/hadden moeten vermoeden, dat het een door misdrijf verkregen goed betrof;
+
+(Artikel art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht, art 416 lid 1 ahf/ond a Wetboek van
+
+Strafrecht).
+
+3
+De voorvragen
+
+De dagvaarding is geldig.
+
+De rechtbank is bevoegd.
+
+De officier van justitie is ontvankelijk in de vervolging.
+
+Er is geen reden voor schorsing van de vervolging.
+
+4
+De beoordeling van het bewijs
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht wettig en overtuigend bewezen dat verdachte beide feiten heeft gepleegd en baseert zich daarbij op het navolgende.
+
+Op grond van de gedane aangifte, de verklaring van getuige [naam 3] , de camerabeelden en de bekennende verklaring van verdachte, de rechtbank zal hem voor de leesbaarheid verder aanduiden als [verdachte] , en zijn mededader (hierna aan te duiden als [naam 4] ) is wettig en overtuigend bewezen dat [naam 4] , [verdachte] en een derde dader samen de als feit 1 omschreven ramkraak hebben gepleegd.
+
+Voor de officier van justitie staat vast dat het [naam 4] was die de vluchtauto bestuurde, gelet op de bevindingen van de politie, met name de waarnemingen vanuit de politiehelikopter en de bevindingen van verbalisant [naam 5] . [verdachte] en de derde dader zaten in die auto als passagiers. De vluchtauto betrof een in Duitsland gestolen auto, waarop later een in Nederland gestolen (Poolse) kentekenplaat was gemonteerd, zodat aan zowel [naam 4] als zijn mededaders op grond van de gedane aangiftes en de bevindingen van de politie de heling van die auto en van die kentekenplaat kan worden verweten.
+
+4.2
+
+Het standpunt van de verdediging
+
+De verdediging is van mening dat de rechtbank niet tot een volledige bewezenverklaring kan komen. [verdachte] heeft bekend dat hij betrokken is geweest bij de ramkraak, zodat de raadsman zich ten aanzien van feit 1 heeft gerefereerd aan het oordeel van de rechtbank.
+
+Ten aanzien van de onder 2 omschreven heling van een kentekenplaat en van de in Duitsland gestolen auto was geen sprake van een bewuste en nauwe samenwerking. [verdachte] wist op het moment van instappen niet dat het een gestolen auto was. Aan uiterlijke kenmerken van de auto, zoals braaksporen of het al of niet gebruiken van een autosleutel, was niet zichtbaar dat het om een gestolen auto zou kunnen gaan.
+
+[verdachte] kon evenmin weten dat er een gestolen kentekenplaat op die auto was aangebracht. Hij was op de dag van de diefstal van die plaat niet eens in Tilburg en bovendien had hij helemaal niet gezien wat voor kentekenplaat er op de auto zat. Van feit 2 dient [verdachte] dan ook volgens zijn raadsman te worden vrijgesproken.
+
+4.3
+
+Het oordeel van de rechtbank
+
+Indien hoger beroep wordt ingesteld zullen de bewijsmiddelen worden uitgewerkt en opgenomen in een bijlage die aan het vonnis zal worden gehecht.
+
+4.3.1
+
+De bewijsoverwegingen
+
+Nu verdachte en zijn medeverdachte [naam 4] beiden hebben bekend dat zij het onder 1 tenlastegelegde feit hebben begaan zal de rechtbank dit feit bewezen verklaren. Naast de bekentenissen bevinden zich in het dossier een getuigenverklaring en processen-verbaal van bevindingen van politie met betrekking tot de aanhouding van verdachten.
+
+De rechtbank acht op grond hiervan wettig en overtuigend bewezen dat [naam 4] en [verdachte] samen de onder 1 omschreven ramkraak hebben gepleegd.
+
+Ten aanzien van de heling van gemelde vluchtauto en de daarop gemonteerde kentekenplaat, zoals omschreven onder feit 2, hebben beide verdachten niet willen verklaren. De auto bleek te zijn gestolen op 21 februari 2018 in Mönchengladbach (Duitsland). Het is een feit van algemene bekendheid dat voor een ramkraak in de regel wordt gewerkt met gestolen voertuigen. Deze worden immers als een soort gereedschap gebruikt om een bedrijfspand binnen te kunnen komen en daarna met de buit te kunnen vluchten, waarbij nagenoeg altijd forse schade aan de auto ontstaat. Bij zowel [naam 4] als bij [verdachte] kan daarom als vaststaand worden aangenomen dat zij, ook al was er geen braakschade aan die auto en zij beschikten over de autosleutel, wisten of minstens moesten vermoeden dat zij gebruik maakten van een gestolen auto. Dat deel van feit 2 acht de rechtbank daarom wettig en overtuigend bewezen.
+
+Ten aanzien van de kentekenplaat is onduidelijk op welk moment en op welke wijze deze op de auto terecht is gekomen. Ook bevat het dossier geen informatie over de rol die verdachten daarin gespeeld zouden hebben. Het enkele feit dat de kentekenplaat gestolen blijkt, is onvoldoende om te komen tot bewezenverklaring van dit onderdeel van het tweede feit.
+
+De rechtbank spreekt verdachte dan ook van dit onderdeel vrij.
+
+4.4
+
+De bewezenverklaring
+
+De rechtbank acht wettig en overtuigend bewezen dat verdachte
+
+1
+
+op 20 december 2018 te Waalwijk, tezamen en in vereniging met een ander, met het oogmerk van wederrechtelijke toe-eigening uit een pand waarin was gevestigd [naam 1] ( [adres 2] , heeft weggenomen een grote hoeveelheid kleding, toebehorende aan [naam 2] of [naam 1] , waarbij verdachte en zijn mededader zich de toegang tot de plaats des misdrijfs hebben verschaft en die weg te nemen goederen onder hun bereik hebben gebracht door middel van braak;
+
+2
+
+op 20 december 2018 te Waalwijk en Tilburg,  tezamen en in vereniging met een ander een goed, te weten
+
+- een BMW ( [nummer] )
+
+heeft voorhanden gehad, terwijl hij en zijn mededader ten tijde van het voorhanden krijgen van dit goed  redelijkerwijs hadden moeten vermoeden, dat het een door misdrijf verkregen goed betrof;
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten in de bewezenverklaring cursief verbeterd. Verdachte is daardoor niet in zijn verdediging geschaad.
+
+De rechtbank acht niet bewezen hetgeen meer of anders is ten laste gelegd. Verdachte zal daarvan worden vrijgesproken.
+
+5
+De strafbaarheid
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. Dit levert de in de beslissing genoemde strafbare feiten op.
+
+Verdachte is strafbaar, omdat niet is gebleken van een omstandigheid die zijn strafbaarheid uitsluit.
+
+6
+De strafoplegging
+
+6.1
+
+De vordering van de officier van justitie
+
+De officier van justitie vordert aan verdachte op te leggen een gevangenisstraf van 24 maanden, waarvan 8 maanden voorwaardelijk, proeftijd 2 jaar, met aftrek van voorarrest.
+
+6.2
+
+Het standpunt van de verdediging
+
+De raadsman voert aan dat hier geen sprake was van een standaard ramkraak, nu daarmee extreem goed beveiligde bedrijven, zoals juweliers en bankgebouwen, worden bedoeld. Het enkele paaltje voor de deur was onvoldoende om van een constructieve beveiliging te spreken. Daarnaast wijst de verdediging op de gedateerdheid van de recidive, memoreert de raadsman dat [verdachte] juist bezig was zijn leven meer op orde te krijgen en dat hij spijt heeft van zijn daden. Tot slot is strafverminderend dat de politie bij de aanhouding het grondrecht dat iedere verdachte toekomt, te weten het recht op onaantastbaarheid van het menselijk lichaam, niet heeft gerespecteerd. De politie heeft immers geprobeerd om [verdachte] , terwijl hij al geboeid was, over een schutting een tuin uit te geleiden. [verdachte] is daarbij ten val gekomen en heeft zijn arm gekneusd.
+
+6.3
+
+Het oordeel van de rechtbank
+
+Vast is komen te staan dat [naam 4] en [verdachte] met een auto de voorpui van een kledingwinkel zijn binnengereden en dat zij vervolgens in die winkel zo snel mogelijk de dure kleding hebben weggenomen. In de volksmond wordt dat een ramkraak genoemd. De schade aan de voorgevel van het bedrijf bedroeg nagenoeg € 20.000,-- en de waarde van de gestolen kleding bedroeg ruim € 22.000,--.
+
+Het feit werd in het openbaar gepleegd, in de nacht en werd ook door burgers waargenomen. Dergelijk bruut geweld schokt de burger in hoge mate en draagt bij aan een enorm gevoel van onveiligheid.
+
+Volgens de oriëntatiepunten voor straftoemeting van het Landelijk Overleg Vakinhoud Strafrecht is het uitgangspunt voor de bestraffing van een ramkraak een gevangenisstraf van negen maanden onvoorwaardelijk. In dit geval was echter sprake van strafverzwarende omstandigheden. Het betrof immers een goed georganiseerde actie. Er werd een geschikte winkel uitgezocht, een gestolen auto geregeld en verdachten waren zelfs zo goed voorbereid dat zij ook een oplossing wisten voor de getroffen maatregelen om een ramkraak te voorkomen. Een voor de winkel speciaal daarvoor geplaatste stalen paal, zodat men de voorpui niet met een auto zou kunnen bereiken, werd immers omzeild doordat zij eerst een rolcontainer naast die paal plaatsten. Vervolgens kon met de auto die container door de pui worden geduwd.
+
+Natuurlijk zijn er gradaties en worden er soms zwaardere middelen op brutalere wijze ingezet om nog beter beveiligde winkels, inderdaad met bijvoorbeeld rolluiken zoals de raadsman opperde, binnen te kunnen komen. Maar dat laat onverlet dat deze brute, professioneel uitgevoerde, ramkraak tot grote verontwaardiging heeft geleid, niet alleen onder de winkeliers, maar onder de burger in zijn algemeenheid.
+
+Ook aan de heling van de auto waarmee de ramkraak werd gepleegd, tilt de rechtbank zwaar.
+
+Verdachte was pas 21 jaar oud, maar was al eerder met justitie in aanraking geweest, ook voor bedrijfsinbraken en andere vermogensdelicten.
+
+De rechtbank ziet geen reden om de wijze waarop [verdachte] door de politie vanuit de achtertuin waarnaar hij was gevlucht via een schutting af te voeren strafverminderend mee te wegen. Het was ook voor politiemensen een buitengewoon hectische, gevaarlijke achtervolging. Bovendien koos [verdachte] er zelf voor om, toen na de aanrijding de vlucht niet meer met de auto kon worden voortgezet, zich niet gewoon gewonnen te geven.
+
+Door ook nog te voet een heenkomen te zoeken heeft hij over zichzelf afgeroepen dat de politie bij zijn arrestatie meer oog had voor het voorkomen van nog een mogelijke vluchtpoging. In de hectiek van het geheel kon de politie niet anders dan besluiten om te proberen hem geboeid en wel over de schutting van de achtertuin te geleiden. Zijn val daarbij heeft hij daarom helemaal aan zichzelf te wijten.
+
+Het proces-verbaal geeft blijk van zorgvuldig handelen aan de zijde van de politie.
+
+Verdachte zit inmiddels 203 dagen in voorlopige hechtenis. De rechtbank is van oordeel dat daarmee niet kan worden volstaan. Daarvoor waren de feiten te ernstig. Aan de andere kant acht de rechtbank bij deze jonge verdachte, die al vaker vergelijkbare feiten heeft gepleegd, een forse stok achter de deur noodzakelijk. Alles afwegend zal de rechtbank een gevangenisstraf opleggen van 15 maanden, waarvan 5 maanden voorwaardelijk met een proeftijd van 2 jaar. Dit met aftrek van de tijd die verdachte in voorarrest heeft gezeten.
+
+7
+De benadeelde partij
+
+De benadeelde partij [naam 6] vordert namens [naam 1] een schadevergoeding van (uiteindelijk) € 1.000,-- voor feit 1. Het betreft materiële schade, te weten het deel “eigen risico” dat niet door de verzekering is uitgekeerd.
+
+De rechtbank is van oordeel dat de schade een rechtstreeks gevolg is van dit bewezenverklaarde feit en acht verdachte aansprakelijk voor die schade.
+
+Het gevorderde is voldoende aannemelijk gemaakt, zodat de vordering zal worden toegewezen. Nu het feit is gepleegd door twee verdachten zal deze vordering hoofdelijk worden toegewezen. Dit betekent dat indien de schade door de een is betaald, de ander het al  betaalde bedrag niet meer hoeft te betalen.
+
+Met betrekking tot deze toegekende vordering zal de rechtbank tevens de schadevergoedingsmaatregel opleggen.
+
+8
+De wettelijke voorschriften
+
+De beslissing berust op de artikelen 14a, 14b, 36f, 47, 57, 311 en 416 van het Wetboek van Strafrecht zoals deze artikelen luidden ten tijde van het bewezen verklaarde.
+
+9
+De beslissing
+
+De rechtbank:
+
+Bewezenverklaring
+
+- verklaart het ten laste gelegde bewezen, zodanig als hierboven onder 4.4 is omschreven;
+
+- spreekt verdachte vrij van wat meer of anders is ten laste gelegd;
+
+Strafbaarheid
+
+- verklaart dat het bewezen verklaarde de volgende strafbare feiten oplevert:
+
+feit 1: Diefstal door twee of meer verenigde personen waarbij de schuldige zich de
+
+toegang tot de plaats van het misdrijf heeft verschaft door middel van braak;
+
+feit 2: Medeplegen van opzetheling;
+
+- verklaart verdachte strafbaar;
+
+Strafoplegging
+
+- veroordeelt verdachte tot een gevangenisstraf van 15 maanden, waarvan 5 maanden voorwaardelijk met een proeftijd van twee jaar;
+
+- bepaalt dat het voorwaardelijke deel van de straf niet ten uitvoer wordt gelegd, tenzij de rechter tenuitvoerlegging gelast, omdat verdachte voor het einde van de proeftijd de hierna vermelde voorwaarden niet heeft nageleefd;
+
+- stelt als algemene voorwaarde dat verdachte zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit;
+
+- bepaalt dat verdachte ten behoeve van het vaststellen van zijn identiteit, medewerking verleent aan het nemen van vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage biedt;
+
+- bepaalt dat de tijd die verdachte voor de tenuitvoerlegging van deze uitspraak in voorarrest heeft doorgebracht in mindering wordt gebracht bij de tenuitvoerlegging van de opgelegde gevangenisstraf;
+
+Benadeelde partij
+
+- veroordeelt verdachte tot betaling aan de benadeelde partij [naam 1] . van
+
+€ 1.000,-- ter zake van materiële schade en vermeerderd met de wettelijke rente, berekend vanaf 20 december 2018 tot aan de dag der algehele voldoening;
+
+- veroordeelt verdachte in de kosten van de benadeelde partij tot nu toe gemaakt en ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+- bepaalt dat voor zover dit bedrag door één of meer mededaders is betaald, verdachte niet gehouden is dit bedrag aan de benadeelde partij te betalen;
+
+- legt aan verdachte de verplichting op aan de Staat, ten behoeve van het hierna te noemen slachtoffer het daarbij vermelde bedrag te betalen, bij niet betaling te vervangen door het daarbij vermelde aantal dagen hechtenis:
+
+- benadeelde partij [naam 1] (feit 1), € 1.000,--, 20 dagen hechtenis, en vermeerderd met de wettelijke rente, berekend vanaf 20 december 2018 tot aan de dag der algehele voldoening;
+
+met dien verstande dat toepassing van de vervangende hechtenis de betalingsverplichting niet opheft;
+
+- bepaalt dat voor zover het bedrag ad € 1.000,-- ten behoeve van [naam 1] door één of meer mededaders is betaald, verdachte niet gehouden is dit bedrag aan de Staat te betalen;
+
+- bepaalt dat bij voldoening van de schadevergoedingsmaatregel de betalingsverplichting aan de benadeelde partij vervalt en omgekeerd.
+
+Dit vonnis is gewezen door mr. Feraaune, voorzitter, mr. Van Bergen en mr. Wiersum, rechters, in tegenwoordigheid van Mertens, griffier, en is uitgesproken op de openbare zitting van 10 juli 2019.
+
+Mr. Wiersum is niet in de gelegenheid dit vonnis mede te ondertekenen.

@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2019:6112"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 24-04-2020", "FutD 2020-1293", "V-N Vandaag 2020/1143", "V-N 2020/25.2.1", "NTFR 2020/1427"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2020:2000, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1143", "V-N 2020/25.2.1", "FutD 2020-1293", "Viditax (FutD) 2020042416"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2020:2000, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2022:4030, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2019:6112 Rechtbank Zeeland-West-Brabant , 18-11-2019 / AWB - 17 _ 7583

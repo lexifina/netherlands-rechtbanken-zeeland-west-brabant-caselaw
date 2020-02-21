@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:864"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0074", "EB 2020/43"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0074", "EB 2020/43", "PR-Updates.nl 2020-0074"]
 ---
 
 # ECLI:NL:RBZWB:2020:864 Rechtbank Zeeland-West-Brabant , 21-02-2020 /  C/02/352112 / FA RK 18-6250 (echtscheiding) & C/02/360258 / FA RK 19-3295 (afwikkeling huwelijkse voorwaarden)

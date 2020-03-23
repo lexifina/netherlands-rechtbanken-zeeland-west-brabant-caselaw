@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:1388"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0068"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0068", "PR-Updates.nl 2020-0068"]
 ---
 
 # ECLI:NL:RBZWB:2020:1388 Rechtbank Zeeland-West-Brabant , 23-03-2020 / AWB - 19 _ 2376

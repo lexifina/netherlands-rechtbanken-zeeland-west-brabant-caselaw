@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:6929"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2021-0039", "RN 2021/51", "Jurisprudentie Erfrecht 2021/61"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2021-0039", "RN 2021/51", "Jurisprudentie Erfrecht 2021/61", "JERF 2021/61", "JERF Actueel 2021/66", "VEAN-ERF-Updates.nl 2021-0039"]
 ---
 
 # ECLI:NL:RBZWB:2020:6929 Rechtbank Zeeland-West-Brabant , 15-05-2020 / 7866884 OV VERZ 19-4407

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:2373"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 08-09-2020", "V-N Vandaag 2020/2129", "FutD 2020-2695", "V-N 2020/52.33.4", "NTFR 2020/2681", "NLF 2020/2000 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2129", "V-N 2020/52.33.4", "NLF 2020/2000", "FutD 2020-2695", "Viditax (FutD) 2020090804"]
 ---
 
 # ECLI:NL:RBZWB:2020:2373 Rechtbank Zeeland-West-Brabant , 28-05-2020 / BRE 18/7488

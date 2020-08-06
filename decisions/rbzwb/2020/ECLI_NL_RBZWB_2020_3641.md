@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:3641"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-10-2020", "V-N Vandaag 2020/2450", "FutD 2020-2997 met annotatie van Fiscaal up to Date", "V-N 2020/55.2.1", "NTFR 2020/3022", "NLF 2020/2265 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2450", "V-N 2020/55.2.1", "NLF 2020/2265", "FutD 2020-2997", "Viditax (FutD) 2020101401"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
 

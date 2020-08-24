@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:3956"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 16-10-2020", "FutD 2020-3027", "V-N Vandaag 2020/2494", "NTFR 2020/3346 met annotatie van mr. dr. J. Gooijer", "NLF 2020/2306 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2494", "NLF 2020/2306", "NTFR 2020/3346 met annotatie van mr. dr. J. Gooijer", "FutD 2020-3027", "Viditax (FutD) 2020101604"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2022:4471, Overig"]]
 cites_law: ["netherlands/national/acts/wet-op-de-dividendbelasting-1965/art-010.md"]
 ---
 

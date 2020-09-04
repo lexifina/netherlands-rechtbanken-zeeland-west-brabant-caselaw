@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:7037"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CRVB:2026:579, Overig"]]
 ---
 
 # ECLI:NL:RBZWB:2020:7037 Rechtbank Zeeland-West-Brabant , 04-09-2020 / AWB- 19_6098

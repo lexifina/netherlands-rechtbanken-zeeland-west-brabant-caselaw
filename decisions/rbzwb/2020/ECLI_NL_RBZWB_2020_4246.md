@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:4246"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 10-09-2020", "V-N Vandaag 2020/2130", "FutD 2020-2656 met annotatie van Fiscaal up to Date", "NLF 2020/2235 met annotatie van Tom Noë", "V-N 2020/60.29.1", "NTFR 2020/2682"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2130", "NLF 2020/2235 met annotatie van Tom Noë", "V-N 2020/60.29.1", "FutD 2020-2656", "Viditax (FutD) 2020091002"]
 ---
 
 # ECLI:NL:RBZWB:2020:4246 Rechtbank Zeeland-West-Brabant , 09-09-2020 / BRE - 19 _ 5183

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:5148"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 08-12-2020", "V-N Vandaag 2020/3079", "FutD 2020-3865 met annotatie van Fiscaal up to Date", "NTFR 2021/321 met annotatie van mr. H.A. Elbert", "V-N 2021/8.2.1", "NLF 2020/2737 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/3079", "V-N 2021/8.2.1", "NLF 2020/2737", "NTFR 2021/321 met annotatie van mr. H.A. Elbert", "FutD 2020-3865", "Viditax (FutD) 2020120803"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-111.md"]
 ---
 

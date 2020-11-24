@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:5809"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2020-0015"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2020-0015", "JR-Updates.nl 2020-0015", "PFR-Updates.nl 2020-0015"]
 ---
 
 # ECLI:NL:RBZWB:2020:5809 Rechtbank Zeeland-West-Brabant , 24-11-2020 / 02-130436-20

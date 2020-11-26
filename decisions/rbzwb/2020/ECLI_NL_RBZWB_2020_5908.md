@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2020:5908"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/66", "FutD 2021-0161", "Viditax (FutD), 14-01-2021", "V-N 2021/7.2.1", "NTFR 2021/682 met annotatie van Mr. A.A. Fase", "NLF 2021/0195 met annotatie van Reinier Kooiman"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/66", "V-N 2021/7.2.1", "NLF 2021/0195 met annotatie van Reinier Kooiman", "NTFR 2021/682 met annotatie van Mr. A.A. Fase", "FutD 2021-0161", "Viditax (FutD) 2021011401"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2022:4440, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7348, Overig"]]
 ---
 
 # ECLI:NL:RBZWB:2020:5908 Rechtbank Zeeland-West-Brabant , 26-11-2020 / BRE - 17 _ 1364

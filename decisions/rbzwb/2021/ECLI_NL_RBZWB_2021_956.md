@@ -1,0 +1,91 @@
+---
+ecli: "ECLI:NL:RBZWB:2021:956"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "AWB- 20_6861"
+decided: "2021-03-02"
+published: "2021-03-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:956"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2021:956 Rechtbank Zeeland-West-Brabant , 02-03-2021 / AWB- 20_6861
+
+## Inhoudsindicatie
+
+WABOA
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Bestuursrecht
+
+zaaknummer: BRE 20/6861 WABOA
+
+uitspraak van 2 maart 2021 van de enkelvoudige kamer in de zaak tussen
+
+[naam eiser] , te [plaatsnaam] , eiser,
+
+en
+
+het college van burgemeester en wethouders van de gemeente Breda, verweerder.
+
+Procesverloop
+
+Eiser heeft bij brief van 28 mei 2020 bij het college bezwaar gemaakt tegen het besluit van 20 mei 2020 (bestreden besluit) van het college inzake de verlening van een omgevingsvergunning aan [naam vergunninghouder] (vergunninghouder) voor het wijzigen van de bestemming kantoor naar onderwijs en dagverblijf op de locatie [adres] te [plaatsnaam] . Het college heeft het bezwaarschrift als beroepschrift doorgezonden aan de rechtbank. De rechtbank heeft het beroepschrift op 5 juni 2020 ontvangen.
+
+De rechtbank heeft eiser bij brief van 24 juni 2020 gevraagd aan te geven waarom er geen zienswijze is ingediend tegen het ontwerpbesluit. Hierop heeft eiser bij brief van 15 juli 2020 gereageerd.
+
+De rechtbank heeft toepassing gegeven aan artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb), zodat een behandeling ter zitting achterwege is gebleven.
+
+Overwegingen
+
+1. Op grond van de gedingstukken gaat de rechtbank uit van de volgende feiten en omstandigheden.
+
+Op 13 januari 2020 heeft vergunningshouder een aanvraag ingediend voor een omgevingsvergunning voor het wijzigen van de bestemming kantoor naar onderwijs en dagverblijf op de locatie [adres] te [plaatsnaam] .
+
+Eiser is eigenaar van het aangrenzende pand [adres 2] te [plaatsnaam] .
+
+Het college heeft het ontwerpbesluit ter inzage gelegd in het gemeentehuis vanaf 25 maart 2020 gedurende zes weken, tot en met 6 mei 2020. Voorafgaand aan de terinzagelegging heeft het college op 24 maart 2020 in het Gemeenteblad nr. [bladnummer] kennis gegeven van het ontwerpbesluit. Daarbij is vermeld dat het ontwerpbesluit en de stukken ter inzage liggen en dat daartegen zienswijzen kenbaar kunnen worden gemaakt.
+
+Eiser heeft geen zienswijze naar voren gebracht.
+
+Bij het bestreden besluit heeft het college de omgevingsvergunning verleend aan vergunninghouder.
+
+Eiser heeft bij brief van 28 mei 2020 beroep ingesteld tegen het bestreden besluit.
+
+2. Ingevolge artikel 8:1, eerste lid, van de Awb kan een belanghebbende tegen een besluit beroep instellen bij de rechtbank.
+
+In artikel 6:13 van de Awb is – voor zover relevant – bepaald dat geen beroep bij de bestuursrechter kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in artikel 3:15 naar voren heeft gebracht.
+
+Artikel 3:15, eerste lid, van de Awb bepaalt dat belanghebbenden bij het bestuursorgaan naar keuze schriftelijk of mondeling hun zienswijze over het ontwerp naar voren kunnen brengen.
+
+3. Niet in geschil is dat het college bij de voorbereiding van het bestreden besluit de uitgebreide procedure van paragraaf 3.3 van de Wabo heeft gevolgd. Conform de vereisten van deze procedure heeft het college het ontwerpbesluit tot verlening van de vergunning zes weken ter inzage gelegd en daarvan kennis gegeven in het Gemeenteblad. Verder staat vast dat eiser geen zienswijze heeft ingediend tegen het ontwerpbesluit.
+
+De rechtbank ziet zich eerst voor de vraag gesteld of eiser ontvankelijk is in zijn beroep. In dat kader dient de rechtbank te beoordelen, of eiser redelijkerwijs kan worden verweten, dat hij geen zienswijze naar voren heeft gebracht.
+
+Eiser voert hiertoe aan dat hij niet op de hoogte was van de aangevraagde omgevingsvergunning en het ontwerpbesluit. Alhoewel eiser weet dat hij via de daartoe bestemde sites kennis van de vergunning had kunnen nemen, stelt eiser zich op het standpunt dat hij als direct belanghebbende door het college rechtstreeks geïnformeerd had moeten worden.
+
+De rechtbank is van oordeel dat eiser redelijkerwijs kan worden verweten dat hij geen zienswijze naar voren heeft gebracht, zodat eiser geen beroep kan instellen tegen het bestreden besluit. Daartoe overweegt de rechtbank dat het college het ontwerpbesluit op de juiste wijze ter inzage heeft gelegd en dat het college op de juist wijze kennis heeft gegeven van de terinzagelegging. De wet kent geen verplichting voor het college om eiser (of eventuele andere (direct) belanghebbenden) persoonlijk op de hoogte te stellen van de aanvraag en de terinzagelegging van een ontwerpbesluit. Het is de eigen verantwoordelijkheid van eiser om ervoor te zorgen dat hij op de hoogte is van de kennisgevingen, zodat het missen van de kennisgeving dan ook voor zijn rekening en risico dient te komen.
+
+Het Verdrag van Aarhus is in deze zaak niet van toepassing, omdat het bestreden besluit niet ziet op een activiteit vermeld in bijlage I van het Verdrag van Aarhus en ook niet op een activiteit met een aanzienlijk effect op het milieu. Het arrest van het Europese Hof van Justitie van 14 januari 2021 (ECLI:EU:C:2021:7) leidt daarom niet tot een ander oordeel.
+
+5. Gelet op het voorgaande zal het beroep kennelijk niet-ontvankelijk worden verklaard.
+
+Beslissing
+
+De rechtbank verklaart het beroep niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. L.P. Hertsig, rechter, in aanwezigheid van D. Alblas, griffier, op 2 maart 2021 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+griffier rechter
+
+Afschrift verzonden aan partijen op:
+
+Wat kunt u doen als u het niet eens bent met deze uitspraak?
+
+Tegen deze uitspraak kunnen partijen en andere belanghebbenden verzet doen bij de rechtbank. De termijn voor het indienen van een verzetschrift bedraagt zes weken en vangt aan op de dag na de verzending van deze uitspraak.

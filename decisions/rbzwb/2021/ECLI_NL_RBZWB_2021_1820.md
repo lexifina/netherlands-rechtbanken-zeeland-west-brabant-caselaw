@@ -1,0 +1,70 @@
+---
+ecli: "ECLI:NL:RBZWB:2021:1820"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "AWB- 20_8954"
+decided: "2021-04-09"
+published: "2021-04-14"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:1820"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2021:1820 Rechtbank Zeeland-West-Brabant , 09-04-2021 / AWB- 20_8954
+
+## Inhoudsindicatie
+
+WVW
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Bestuursrecht
+
+zaaknummer: BRE 20/8954 WVW
+
+uitspraak van 9 april 2021 van de enkelvoudige kamer op het verzoek om veroordeling in de proceskosten in de zaak tussen
+
+[naam verzoeker] , te [plaatsnaam] , verzoeker,
+gemachtigde: mr. Akbaba,
+
+en
+
+de algemeen directeur van het Centraal Bureau Rijvaardigheidsbewijzen (CBR), verweerder.
+
+Procesverloop
+
+Verzoeker heeft beroep ingesteld tegen het besluit van 31 augustus 2020 (bestreden besluit) van het CBR inzake het ongeldig verklaren van zijn rijbewijs.
+
+Bij besluit van 12 januari 2021 heeft het CBR het bestreden besluit ingetrokken.
+
+Vervolgens heeft de gemachtigde van verzoeker het beroep ingetrokken, met het verzoek het CBR te veroordelen in de proceskosten. Het CBR heeft op 15 maart 2021 gereageerd.
+
+De rechtbank heeft, met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb), een behandeling van het verzoek ter zitting achterwege gelaten.
+
+Overwegingen
+
+1. Op grond van artikel 8:75a, eerste lid, van de Awb kan de rechtbank, indien het beroep wordt ingetrokken omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, het bestuursorgaan veroordelen in de proceskosten.
+
+2. Naar het oordeel van de rechtbank blijkt uit het besluit van 12 januari 2021 dat het CBR door het intrekken van het bestreden besluit aan verzoeker is tegemoetgekomen. Hierin ziet de rechtbank aanleiding het CBR te veroordelen in de door verzoeker gemaakte proceskosten.
+
+Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 534,- (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 534,‑ en wegingsfactor 1).
+
+3. De rechtbank overweegt ten overvloede dat het CBR op grond van artikel 8:41, zevende lid, van de Awb het griffierecht van € 178,- aan verzoeker dient te vergoeden, zodat een veroordeling daartoe niet nodig is.
+
+Beslissing
+
+De rechtbank veroordeelt het CBR in de proceskosten van verzoeker tot een bedrag van € 534,-.
+
+Deze uitspraak is gedaan door mr. L.P. Hertsig, rechter, in aanwezigheid van J.J.P.M. van Gestel, griffier, op 9 april 2021 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+griffier	rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan verzet worden gedaan bij de rechtbank.

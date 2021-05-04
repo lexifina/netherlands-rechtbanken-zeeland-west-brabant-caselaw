@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:2280"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1180", "NLF 2021/1085 met annotatie van", "V-N 2021/30.2.2", "Belastingadvies 2021/16-17.4", "NTFR 2021/1794 met annotatie van M. el Manouzi LLM MSc", "Viditax (FutD) 2021051719", "FutD 2021-1600"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1180", "NLF 2021/1085", "V-N 2021/30.2.2", "Belastingadvies 2021/16-17.4", "NTFR 2021/1794 met annotatie van M. el Manouzi LLM MSc", "Viditax (FutD) 2021051719", "FutD 2021-1600"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:47, Bekrachtiging/bevestiging"]]
 ---
 

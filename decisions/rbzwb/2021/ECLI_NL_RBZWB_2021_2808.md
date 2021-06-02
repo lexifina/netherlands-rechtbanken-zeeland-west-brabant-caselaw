@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:2808"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1473", "V-N 2021/33.24.3", "Vp-bulletin 2021/47 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "Viditax (FutD) 2021061510", "FutD 2021-1909"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1473", "V-N 2021/33.24.3", "Vp-bulletin 2021/47 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "Viditax (FutD) 2021061510", "FutD 2021-1909"]
 ---
 
 # ECLI:NL:RBZWB:2021:2808 Rechtbank Zeeland-West-Brabant , 02-06-2021 / AWB - 20 _ 5999

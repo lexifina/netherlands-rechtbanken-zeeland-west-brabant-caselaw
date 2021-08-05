@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:4008"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2009", "NLF 2021/1717", "V-N 2021/39.2.4", "NTFR 2021/3312 met annotatie van dr. mr. M van Dun", "Viditax (FutD) 2021082006", "FutD 2021-2673"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2672, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2021:4008 Rechtbank Zeeland-West-Brabant , 05-08-2021 / AWB - 20 _ 7293

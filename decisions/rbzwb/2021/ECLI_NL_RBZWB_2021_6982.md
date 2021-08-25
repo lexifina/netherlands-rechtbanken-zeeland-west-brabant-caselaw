@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:6982"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0139"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0139", "PR-Updates.nl 2022-0139"]
 ---
 
 # ECLI:NL:RBZWB:2021:6982 Rechtbank Zeeland-West-Brabant , 25-08-2021 / 8460620 CV EXPL 20-1274

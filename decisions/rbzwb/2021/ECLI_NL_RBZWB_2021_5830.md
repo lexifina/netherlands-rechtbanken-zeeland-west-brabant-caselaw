@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2021:5830"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3001", "Belastingblad 2022/12 met annotatie van Redactie", "V-N 2022/2.22.38", "NTFR 2021/4405 met annotatie van mr. V. Sathananthan LLM"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3001", "Belastingblad 2022/12", "V-N 2022/2.22.38", "NTFR 2021/4405 met annotatie van mr. V. Sathananthan LLM"]
 ---
 
 # ECLI:NL:RBZWB:2021:5830 Rechtbank Zeeland-West-Brabant , 09-11-2021 / AWB - 20 _ 6198

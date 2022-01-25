@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:297"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/584", "NLF 2022/0553", "V-N 2022/15.2.1", "Viditax (FutD) 2022030902", "FutD 2022-0750"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:2777, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:2777, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:5185, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2022:297 Rechtbank Zeeland-West-Brabant , 25-01-2022 / AWB - 20 _ 6428 t_m 20_6432 en 21_55

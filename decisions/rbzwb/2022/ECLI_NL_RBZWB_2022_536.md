@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:536"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0060"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0060", "PR-Updates.nl 2022-0060"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CRVB:2023:1846, Bekrachtiging/bevestiging"]]
 ---
 

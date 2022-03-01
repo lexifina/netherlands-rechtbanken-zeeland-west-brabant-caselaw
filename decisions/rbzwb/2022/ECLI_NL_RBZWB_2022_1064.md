@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:1064"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3059, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2022:1064 Rechtbank Zeeland-West-Brabant , 01-03-2022 / AWB- 21_2618

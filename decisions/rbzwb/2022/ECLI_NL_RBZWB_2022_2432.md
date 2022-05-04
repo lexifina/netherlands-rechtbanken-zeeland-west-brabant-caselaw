@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:2432"
 published_in: ["Rechtspraak.nl", "NLF 2022/1024", "V-N Vandaag 2022/1304", "V-N 2022/33.10 met annotatie van Redactie", "NTFR 2022/3372 met annotatie van mr. dr. J. Gooijer", "Viditax (FutD) 2022051701", "FutD 2022-1496"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:4252, Overig"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:4252, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3712, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2022:2432 Rechtbank Zeeland-West-Brabant , 04-05-2022 / AWB - 21 _ 2426

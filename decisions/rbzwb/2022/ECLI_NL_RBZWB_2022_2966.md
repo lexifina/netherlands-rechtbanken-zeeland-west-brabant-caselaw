@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:2966"
-published_in: ["Rechtspraak.nl", "PJ 2022/71", "OR-Updates.nl 2022-0151", "PR-Updates.nl PR-2022-0136"]
+published_in: ["Rechtspraak.nl", "PJ 2022/71", "OR-Updates.nl 2022-0151", "PR-Updates.nl PR-2022-0136", "PR-Updates.nl 2022-0136"]
 ---
 
 # ECLI:NL:RBZWB:2022:2966 Rechtbank Zeeland-West-Brabant , 11-05-2022 / 8460620 CV EXPL 20-1274

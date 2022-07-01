@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:3650"
 published_in: ["Rechtspraak.nl", "JM 2022/96 met annotatie van Pieters, S."]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4111, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBZWB:2022:3650 Rechtbank Zeeland-West-Brabant , 01-07-2022 / AWB- 20_8363 en 21_745

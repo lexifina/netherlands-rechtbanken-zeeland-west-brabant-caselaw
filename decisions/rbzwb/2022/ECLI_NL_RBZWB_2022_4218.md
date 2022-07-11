@@ -1,0 +1,311 @@
+---
+ecli: "ECLI:NL:RBZWB:2022:4218"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "02/688118-15"
+decided: "2022-07-11"
+published: "2022-07-28"
+type: "uitspraak"
+procedure: "Op tegenspraak"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:4218"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2022:4218 Rechtbank Zeeland-West-Brabant , 11-07-2022 / 02/688118-15
+
+## Inhoudsindicatie
+
+Extreme overschrijding redelijke termijn. Ontvankelijkheid officier van justitie. Medeplegen hennepteelt in de uitoefening van beroep/bedrijf en diefstal elektriciteit.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Strafrecht
+
+Zittingsplaats: Middelburg
+
+parketnummer: 02/688118-15
+
+vonnis van de meervoudige kamer van 11 juli 2022
+
+in de strafzaak tegen
+
+[verdachte] ,
+
+geboren op [geboortedag] 1953 te [plaats 1] ,
+
+wonende te [woonadres] ,
+
+raadsman mr. H. Weisfelt, advocaat te ’s-Gravenhage.
+
+1
+Onderzoek van de zaak
+
+De zaak is inhoudelijk behandeld op de zitting van 27 juni 2022, waarbij de officier van justitie mr. P.W.P. Emmen en de verdediging hun standpunten kenbaar hebben gemaakt.
+
+2
+De tenlastelegging
+
+De tenlastelegging is als bijlage I aan dit vonnis gehecht.
+
+De verdenking komt er, kort en feitelijk weergegeven, op neer dat verdachte:
+
+1. zich in de periode van 1 januari 2012 tot 7 juli 2015 samen met een of meer anderen schuldig heeft gemaakt aan de beroeps-of bedrijfsmatige teelt van 751 hennepplanten, althans deze hennepplanten aanwezig heeft gehad;
+
+2. zich in de periode van 1 januari 2012 tot 7 juli 2015 samen met een of meer anderen schuldig heeft gemaakt aan diefstal van elektriciteit.
+
+3
+De voorvragen
+
+De dagvaarding is geldig.
+
+De rechtbank is bevoegd.
+
+De ontvankelijkheid van de officier van justitie
+
+3.1
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich op het standpunt gesteld dat de officier van justitie
+
+niet-ontvankelijk moet worden verklaard. Er is sprake van een zaak die zeven jaar oud is, waarin het enige directe slachtoffer (de energiemaatschappij) volledig schadeloos is gesteld. Nog los van het feit dat er sprake is van een overschrijding van de redelijke termijn, moet de officier van justitie ook niet-ontvankelijk worden verklaard omdat bij het eerste feit de verjaringstermijn van zes jaar is verstreken.
+
+Zij heeft ook nog gewezen op hetgeen is overwogen in een uitspraak van deze rechtbank van 11 juni 2021 (ECLI:NL:RBZWB:2021:2903), op basis waarvan ook in deze zaak kan worden gezegd dat er sprake is van een extreme overschrijding van de redelijke termijn.
+
+Verder is er sprake van een totaal scheefgetrokken onderzoek, zodat geen sprake meer is van een eerlijk proces. Mede door het tijdsverloop heeft verdachte al meer dan genoeg straf ondergaan. Tot slot wijst zij er nog op dat de zaaksofficier van justitie anderhalf jaar geleden een voorstel heeft gedaan tot buitengerechtelijke afdoening van deze zaak.
+
+3.2
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat hij ontvankelijk is in de vervolging. De vertraging in het aanbrengen van deze zaak is veroorzaakt door het feit dat een groot aantal andere zaken ook op zitting moest worden aangebracht. Hoewel er sprake is van een lang tijdsverloop, maakt de ouderdom van de feiten nog niet dat dit de
+
+niet-ontvankelijkheid van het openbaar ministerie tot gevolg moet hebben. Het strafvorderlijk belang voor het aanbrengen van deze zaak op zitting is erin gelegen dat er sprake is van een vordering tot ontneming van het wederrechtelijk verkregen voordeel met als doel dat de veroordeelde wordt teruggebracht in de situatie waarin hij was voordat hij met het criminele handelen begon, en waarbij het herstel van de rechtsorde aldus voorop staat. Een buitengerechtelijke afdoening van deze zaak is – hoewel hierover wel is gesproken – dan ook niet op zijn plaats geweest.
+
+3.3
+
+Het oordeel van de rechtbank
+
+Voor niet-ontvankelijkverklaring van de officier van justitie moet er, gelet ook op het arrest van 20 december 2020 van de Hoge Raad (ECLI:NL:HR:2020:1890), sprake zijn van een zodanig ernstige inbreuk op het recht van de verdachte op een eerlijke behandeling van zijn zaak dat geen sprake meer kan zijn van een eerlijk proces in de zin van artikel 6 van het Europees Verdrag voor de Rechten van de Mens (hierna: EVRM). De beslissing om tot vervolging over te gaan, leent zich in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing, in die zin dat slechts in uitzonderlijke gevallen plaats is voor een niet-ontvankelijkverklaring van de officier van justitie op de grond dat het instellen of voortzetten van die vervolging onverenigbaar is met beginselen van een behoorlijke procesorde. Als criterium daarbij geldt dat geen redelijk handelend lid van het openbaar ministerie heeft kunnen oordelen dat met (voortzetting van) de vervolging enig door strafrechtelijke handhaving beschermd belang kan zijn gediend.
+
+De rechtbank stelt vast dat het recht op een openbare behandeling binnen een redelijke termijn als bedoeld in artikel 6, eerste lid van het EVRM, in deze zaak is geschonden.
+
+Deze termijn vangt aan op het moment dat vanwege de Staat jegens verdachte een handeling is verricht waaruit verdachte heeft opgemaakt en redelijkerwijs heeft kunnen opmaken dat het openbaar ministerie het ernstig voornemen had een strafvervolging in te stellen.
+
+In deze zaak moet de termijn worden gerekend vanaf 22 augustus 2015, te weten de dag waarop verdachte voor de eerste keer door de politie is verhoord. De behandeling van deze zaak is niet afgerond met een eindvonnis binnen twee jaar na aanvang van de hiervoor genoemde datum, te weten 22 augustus 2017. De redelijke termijn is dan ook met bijna
+
+vijf jaar overschreden, zodat het in dit geval duidelijk is dat de redelijke termijn in extreme mate is overschreden. Deze vertraging vindt zijn oorsprong in het stilzitten van het openbaar ministerie en is daarmee niet (mede) aan de verdediging te wijten.
+
+In dit kader stelt de rechtbank vast dat de aan verdachte ten laste gelegde feiten dateren van
+
+1 januari 2012 tot 7 juli 2015, dat de verhoren van de getuigen door de rechter-commissaris op 6 december 2016 hebben plaatsgevonden en dat er vanuit het openbaar ministerie op
+
+10 juli 2017 een brief met een concepttekst van de tenlastelegging naar de verdediging is verstuurd. In deze brief is aan de verdediging gevraagd om de eventuele wensen tot het verrichten van aanvullende onderzoekshandelingen kenbaar te maken.
+
+Vast staat dat er geen onderzoekswensen kenbaar zijn gemaakt en dat er daarna totdat deze zaak ter zitting van 27 juni 2022 is aangebracht niets meer is gebeurd.
+
+Bij de beoordeling van de ontvankelijkheid van de officier van justitie heeft de rechtbank acht geslagen op het door de Hoge Raad genoemde uitgangspunt dat overschrijding van de redelijke termijn niet tot niet-ontvankelijkverklaring van de officier van justitie leidt, ook niet in uitzonderlijke gevallen.
+
+De rechtbank is, gelet op de aard van de zaak en het onderzoek ter zitting, van oordeel dat de overschrijding van de redelijke termijn in deze zaak niet zodanig is dat de waarheidsvinding (vergaand) is bemoeilijkt of in het geding is. Evenmin is de kwaliteit van het onderzoek ter terechtzitting ernstig in het gedrag gekomen, waardoor de rechtbank niet meer tot een zorgvuldige beoordeling zou kunnen komen. Het is een zaak met een gering aantal feiten dat niet complex is. Er was op voorhand geen nader onderzoek nodig om de zaak tijdens het onderzoek ter terechtzitting te kunnen behandelen en vervolgens tot een beslissing te komen. Er kan dan ook niet worden geoordeeld dat er geen sprake meer is van een eerlijk proces.
+
+Gelet op de door de officier van justitie gegeven reden van de voortzetting van de vervolging – inhoudende dat het belang van strafrechtelijk handhaven is gelegen in de ontnemingsvordering met als doel de rechtsorde te herstellen – is de rechtbank van oordeel dat niet kan worden gezegd dat geen redelijk handelend lid van het openbaar ministerie heeft kunnen oordelen dat met (voortzetting van) de vervolging enig door strafrechtelijke handhaving beschermd belang kan zijn gediend.
+
+Op basis hiervan is voortzetting van de vervolging verenigbaar met de beginselen van een behoorlijke procesorde.
+
+Het verweer van de verdediging wordt dan ook verworpen.
+
+Verjaring
+
+Ten aanzien van de door de verdediging gestelde verjaring van het recht tot strafvordering voor feit 1, is de rechtbank van oordeel dat hiervan geen sprake is.
+
+Artikel 70 van het Wetboek van Strafrecht bepaalt dat het recht tot strafvordering vervalt door verjaring na zes jaren voor de misdrijven waarop geldboete, hechtenis of gevangenisstraf van niet meer dan drie jaren is gesteld en na twaalf jaar voor de misdrijven waarop tijdelijke gevangenisstraf van meer dan drie jaar is gesteld. Voor de vaststelling van de duur van de verjaringstermijn is beslissend het feit zoals dat ten laste is gelegd, niet het werkelijk gepleegde feit of hetgeen wordt bewezenverklaard. In dit geval is onder feit 1 de beroeps- of bedrijfsmatige hennepteelt ten laste gelegd. Volgens artikel 11, derde lid van de Opiumwet, staat op overtreding van artikel 3 aanhef en onder B van de Opiumwet – en waarbij sprake is van een beroeps- of bedrijfsmatige hennepteelt – een maximale gevangenisstraf van zes jaar. Dit houdt in dat de verjaringstermijn twaalf jaar is.
+
+Op basis van artikel 71 van het Wetboek van Strafrecht vangt de termijn van de verjaring aan op de dag na die waarop het feit is gepleegd, behoudens gevallen die hier niet aan de orde zijn. In dit geval is sprake van een voortdurend delict, waardoor voor de toepassing van de verjaringstermijn moet worden uitgegaan van het moment waarop het tenlastegelegde gedurende een bepaalde periode telen van hennep is geëindigd, te weten 7 juli 2015.
+
+De rechtbank stelt op basis van het voorgaande vast dat de verjaringstermijn van twaalf jaar nog niet is verstreken, zodat ook dit niet-ontvankelijkheidsverweer wordt verworpen.
+
+Conclusie
+
+De officier van justitie is ontvankelijk in de vervolging.
+
+Er is geen reden voor schorsing van de vervolging.
+
+4
+De beoordeling van het bewijs
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie acht wettig en overtuigend bewezen dat verdachte de aan hem ten laste gelegde feiten heeft begaan. Hij is daarbij ten aanzien van het onder 1 ten laste gelegde feit uitgegaan van de beroeps- of bedrijfsmatige hennepteelt. Ten aanzien van feit 2 kan niet worden bewezen dat de elektriciteit in/uit een aansluitkast/meterkast is weggenomen, nu de elektriciteit al vóór de meterkast was afgetapt. Hij verzoekt verdachte dan ook van dit onderdeel van de tenlastelegging vrij te spreken. Voor het overige kan ook dit feit wettig en overtuigend worden bewezen.
+
+4.2
+
+Het standpunt van de verdediging
+
+De verdediging is van mening dat er geen sprake is geweest van een beroeps- of bedrijfsmatige hennepteelt, zodat dit onderdeel van het onder 1 ten last gelegde feit niet bewezen kan worden verklaard.
+
+4.3
+
+Het oordeel van de rechtbank
+
+4.3.1
+
+Inleiding
+
+Op 10 juni 2015 is op het politiebureau te Hulst een anonieme brief ontvangen, waarin het vermoeden is uitgesproken dat in een woning aan [adres] te [plaats 2] een hennepkwekerij in bedrijf zou zijn. Naar aanleiding van dit schrijven is door Delta Netwerkbedrijf B.V. een tweetal elektriciteitsmetingen verricht op de elektriciteitslijn waar deze woning was gevestigd. Uit deze metingen bleek dat er meerdere hennepkwekerijen op deze lijn actief waren. Na binnentreding is in de kelder van de woning aan [adres] te [plaats 2] een in werking zijnde hennepkwekerij aangetroffen. Daarnaast is er gekeken of ten behoeve van deze hennepkwekerij de elektriciteit op illegale wijze werd afgenomen, hetgeen het geval bleek te zijn.
+
+Op basis van de bevindingen is een onderzoek ingesteld en is het vermoeden gerezen dat meerdere personen, waaronder verdachte, betrokken zijn geweest bij deze hennepkwekerij.
+
+4.3.2
+
+De bewijsmiddelen
+
+De bewijsmiddelen zijn in bijlage II aan dit vonnis gehecht.
+
+4.3.3
+
+De bijzondere overwegingen met betrekking tot het bewijs
+
+Ten aanzien van feit 1
+
+Verdachte heeft dit feit bekend. De rechtbank verwijst daarom voor dit feit naar de bewijsmiddelen.
+
+Beroeps- of bedrijfsmatige hennepteelt
+
+Ten aanzien van de vraag of er sprake is geweest van een beroeps- of bedrijfsmatige hennepteelt overweegt de rechtbank als volgt.
+
+Uit rechtspraak van de Hoge Raad kan worden afgeleid dat met betrekking tot de vraag of sprake is van beroeps- of bedrijfsmatige teelt niet zozeer de hoeveelheid planten van belang is, maar veeleer de mate van professionaliteit en de gerichtheid op het behalen van financiële winst.
+
+De in deze zaak aangetroffen kweekruimten en bergingen en de zich daarin bevindende voorwerpen en stoffen zijn naar het oordeel van de rechtbank bestemd voor de beroeps- of bedrijfsmatige hennepteelt, dan wel voor het telen van grote hoeveelheden hennep. Dit oordeel wordt gebaseerd op hun aard en functie, maar ook op de gezamenlijkheid van de goederen. Zo is er gebruik gemaakt van kunstlicht met tijdschakelaars, CO2-boosters, (niet automatische) bevloeiingssystemen, temperatuur/ventilatieregelaars en werd een deel van de planten gekweekt in een hydrocultuur. Verder is de hennep geteeld voor geldelijk gewin, gelet op het feit dat de opbrengst van de hennepteelt werd verdeeld en dat ook verdachte hierin heeft meegedeeld. Daarmee is er, afgezien van het feit dat er een groot aantal hennepplanten is aangetroffen, sprake geweest van een beroeps- of bedrijfsmatige hennepteelt, zodat ook dit onderdeel van de tenlastelegging kan worden bewezen.
+
+Conclusie
+
+Op basis van het voorgaande, in onderling verband en samenhang bezien, is de rechtbank van oordeel dat verdachte zich meerdere keren schuldig heeft gemaakt aan het medeplegen van de beroeps- of bedrijfsmatige teelt van een hoeveelheid hennepplanten in de ten laste gelegde periode en plaats.
+
+Ten aanzien van feit 2
+
+Op basis van de bewijsmiddelen is komen vast te staan dat de elektriciteit ten behoeve van de hennepkwekerij in het pand aan [adres] te [plaats 2] , [gemeente] , in de ten laste gelegde periode op illegale wijze werd afgenomen. Er is namelijk geconstateerd dat er rechtstreeks op de aansluitkabel in de kelder een illegale aansluiting was gemaakt. Deze aansluiting liep buiten de elektriciteitsmeter om en voorzag de kwekerij rechtstreeks van spanning. Verdachte heeft verklaard wetenschap te hebben gehad van de illegale afname van elektriciteit.
+
+Gelet op het voorgaande en gelet op hetgeen hiervoor ten aanzien van feit 1 is overwogen en bewezen is verklaard, is de rechtbank van oordeel dat verdachte gebruik heeft gemaakt van de elektriciteit bij het telen van hennep en zich daarmee schuldig heeft gemaakt aan het medeplegen van diefstal van elektriciteit. In dit kader overweegt de rechtbank dat gelet op het verband tussen het telen van hennep en de diefstal van de voor die hennepteelt gebruikte elektriciteit, ook de diefstal van elektriciteit ten behoeve van de hennepkwekerij onderdeel uitmaakt van de nauwe en bewuste samenwerking tussen verdachte en de medeverdachten. Dat niet kan worden vastgesteld dat verdachte de verbrekingshandelingen heeft verricht, doet aan het voorgaande niet af. Ten aanzien van het ten laste gelegde wegnemen van elektriciteit in/uit een aansluitkast/meterkast is de rechtbank van oordeel dat dit niet kan worden bewezen, nu is gebleken dat de elektriciteit vóór de meter werd afgetapt. Verdachte zal dan ook van dit onderdeel van de tenlastelegging worden vrijgesproken.
+
+4.4
+
+De bewezenverklaring
+
+De rechtbank acht wettig en overtuigend bewezen dat verdachte
+
+1.
+
+in de periode van 1 januari 2012 tot 7 juli 2015 te [plaats 2] , [gemeente] ,
+
+tezamen en in vereniging met anderen in de uitoefening van een beroep of bedrijf telkens opzettelijk heeft geteeld (in een pand aan [adres] ) een hoeveelheid
+
+hennepplanten, zijnde hennep een middel vermeld op de bij de Opiumwet behorende lijst II;
+
+2.
+
+in de periode van 1 januari 2012 tot 7 juli 2015 te [plaats 2] , [gemeente] ,
+
+tezamen en in vereniging met anderen telkens met het oogmerk van wederrechtelijke
+
+toe-eigening heeft weggenomen een hoeveelheid elektriciteit, toebehorende aan DELTA,
+
+waarbij verdachte en zijn mededaders die weg te nemen elektriciteit onder hun bereik hebben gebracht door middel van verbreking.
+
+Voor zover er in de tenlastelegging kennelijke taal- en/of schrijffouten voorkomen, zijn die fouten in de bewezenverklaring verbeterd. Verdachte is daardoor niet in zijn verdediging geschaad.
+
+De rechtbank acht niet bewezen hetgeen meer of anders is ten laste gelegd. Verdachte zal daarvan worden vrijgesproken.
+
+5
+De strafbaarheid
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. Dit levert de in de beslissing genoemde strafbare feiten op.
+
+Verdachte is strafbaar, omdat niet is gebleken van een omstandigheid die zijn strafbaarheid uitsluit.
+
+6
+De strafoplegging
+
+6.1
+
+De vordering van de officier van justitie
+
+De officier van justitie vordert aan verdachte op te leggen een taakstraf voor de duur van 240 uren. Daarnaast vordert hij een voorwaardelijke gevangenisstraf voor de duur van
+
+6 maanden met een proeftijd van 2 jaar op te leggen. Daarbij heeft hij rekening gehouden met het tijdsverloop in deze zaak.
+
+6.2
+
+Het standpunt van de verdediging
+
+De verdediging stelt dat verdachte al meer dan genoeg straf heeft ondergaan en verzoekt de rechtbank bij een strafoplegging rekening te houden met de leeftijd van verdachte, met het feit dat hij ernstig suiker- en hartpatiënt is en dat zijn gezondheid al zeven jaar onder deze zaak en ook onder financiële problemen lijdt. De schulden van verdachte zijn nu nog te overzien, maar gelet op de aangekondigde vordering tot ontneming van het wederrechtelijk verkregen voordeel, lijkt een normaal leven voor verdachte op termijn ver te zoeken.
+
+Gelet hierop en gelet op het feit dat anderhalf jaar geleden door de zaaksofficier van justitie een voorstel is gedaan tot buitengerechtelijke afdoening van deze zaak, is – nog los van het feit dat verdachte fysiek niet meer in staat is een taakstraf te verrichten – de gevorderde straf zonder enige gewijzigde omstandigheden niet passend.
+
+6.3
+
+Het oordeel van de rechtbank
+
+Verdachte heeft zich gedurende een lange periode schuldig gemaakt aan het medeplegen van het telen van een groot aantal hennepplanten in een professionele, speciaal daarvoor gemaakte en ingerichte ondergrondse ruimte in een woning, en voorts aan het medeplegen van diefstal van elektriciteit door middel van verbreking.
+
+Hennepteelt is direct en indirect oorzaak van vele vormen van overlast en criminaliteit en levert schade op voor de maatschappij. Softdrugs zijn immers stoffen die bij langdurig gebruik kunnen leiden tot schade voor de gezondheid. Daarnaast levert een hennepkwekerij, waarbij op illegale wijze elektriciteit wordt onttrokken aan het net en de elektrische installatie ondeskundig is aangelegd regelmatig (brand)gevaarlijke situaties op voor de omgeving en omwonenden, die veiligheidsrisico’s met zich brengen. Verdachte heeft zich kennelijk om al deze mogelijke gevolgen niet bekommerd.
+
+De rechtbank houdt verder rekening met het strafblad van verdachte van 30 mei 2022, waaruit blijkt dat hij niet eerder in aanraking is gekomen met justitie.
+
+De rechtbank houdt tot slot rekening met het tijdsverloop in deze zaak. Zoals de rechtbank hiervoor onder 3.3 heeft overwogen, is de redelijke termijn met bijna vijf jaar, en dus in extreme mate overschreden. Regel is dat overschrijding van de redelijke termijn wordt gecompenseerd door vermindering van de straf die zou zijn opgelegd indien de redelijke termijn niet zou zijn overschreden. Gelet op vaste rechtspraak van de Hoge Raad, zal er bij de strafmaat rekening worden gehouden met de overschrijding van de redelijke termijn. In geval van een overschrijding met meer dan twaalf maanden moet naar bevind van zaken worden gehandeld. De rechtbank neemt daarbij in aanmerking dat verdachte door de overschrijding gedurende een lange tijd in onzekerheid heeft verkeerd over de afloop van zijn strafzaak.
+
+Gelet op alle voornoemde omstandigheden ziet de rechtbank aanleiding af te wijken van de eis van de officier van justitie en is zij alles afwegend van oordeel dat kan worden volstaan met een voorwaardelijke gevangenisstraf voor de duur van 3 maanden. Daaraan zal de rechtbank een proeftijd van 2 jaar verbinden. Zij acht deze straf, in het bijzonder vanwege de overschrijding van de redelijke termijn, passend en geboden.
+
+7
+De wettelijke voorschriften
+
+De beslissing berust op de artikelen 14a, 14b, 14c, 47, 57 en 311 van het Wetboek van Strafrecht en de artikelen 3 en 11 van de Opiumwet zoals deze artikelen luidden ten tijde van het bewezenverklaarde.
+
+8
+De beslissing
+
+De rechtbank:
+
+Voorvragen
+
+- verklaart de officier van justitie ontvankelijk in de vervolging van verdachte;
+
+Bewezenverklaring
+
+- verklaart het tenlastegelegde bewezen, zodanig als hierboven onder 4.4 is omschreven;
+
+- spreekt verdachte vrij van wat meer of anders is ten laste gelegd;
+
+Strafbaarheid
+
+- verklaart dat het bewezenverklaarde de volgende strafbare feiten oplevert:
+
+feit 1 primair: medeplegen van in de uitoefening van een beroep/bedrijf opzettelijk
+
+handelen in strijd met een in artikel 3 onder B van de Opiumwet gegeven verbod,
+
+meermalen gepleegd;
+
+feit 2: diefstal door twee of meer verenigde personen, waarbij de schuldige het weg te
+
+nemen goed onder zijn bereik heeft gebracht door middel van verbreking, meermalen
+
+gepleegd;
+
+- verklaart verdachte strafbaar;
+
+Strafoplegging
+
+- veroordeelt verdachte tot een gevangenisstraf van 3 (drie) maanden voorwaardelijk met een proeftijd van 2 (twee) jaar;
+
+- bepaalt dat deze straf niet ten uitvoer wordt gelegd, tenzij de rechter tenuitvoerlegging gelast, omdat verdachte voor het einde van de proeftijd de hierna vermelde voorwaarde niet heeft nageleefd;
+
+- stelt als algemene voorwaarde dat verdachte zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
+
+Dit vonnis is gewezen door mr. G.H. Nomes, voorzitter, mr. H. Skalonjic en
+
+mr. A.B. Scheltema Beduin, rechters, in tegenwoordigheid van mr. S.A. Huwae, griffier, en is uitgesproken ter openbare zitting op 11 juli 2022.

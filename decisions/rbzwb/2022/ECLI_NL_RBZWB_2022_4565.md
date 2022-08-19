@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:4565"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2020", "NLF 2022/1711", "NTFR 2022/3176 met annotatie van Mr. D.C. Simonis", "V-N 2022/51.7 met annotatie van Redactie", "Viditax (FutD) 2022082205", "FutD 2022-2348"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2020", "NLF 2022/1711", "NTFR 2022/3176 met annotatie van Mr. D.C. Simonis", "V-N 2022/51.7", "Viditax (FutD) 2022082205", "FutD 2022-2348"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:2711, Bekrachtiging/bevestiging"]]
 ---
 

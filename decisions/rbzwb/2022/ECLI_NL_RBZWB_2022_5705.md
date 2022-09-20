@@ -10,7 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:5705"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2023:3986, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2023:3986, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:339, Onduidelijk"]]
 ---
 
 # ECLI:NL:RBZWB:2022:5705 Rechtbank Zeeland-West-Brabant , 20-09-2022 / AWB- 22_3536 VV en AWB- 22_3537

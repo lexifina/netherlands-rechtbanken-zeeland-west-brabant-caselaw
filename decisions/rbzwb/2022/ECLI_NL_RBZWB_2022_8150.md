@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2022:8150"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0074", "PJ 2023/11", "PR-Updates.nl PR-2023-0085", "VAAN-AR-Updates.nl 2023-0074"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0074", "PJ 2023/11", "PR-Updates.nl PR-2023-0085", "VAAN-AR-Updates.nl 2023-0074", "PR-Updates.nl 2023-0085"]
 ---
 
 # ECLI:NL:RBZWB:2022:8150 Rechtbank Zeeland-West-Brabant , 14-12-2022 / 9437977_14122022

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:246"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0018"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0018", "PR-Updates.nl 2023-0018"]
 ---
 
 # ECLI:NL:RBZWB:2023:246 Rechtbank Zeeland-West-Brabant , 03-01-2023 / C/02/397164 FA RK 22-1930

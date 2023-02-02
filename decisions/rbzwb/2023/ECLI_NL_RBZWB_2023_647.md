@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:647"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2023/75", "ERF-Updates.nl 2023-0084", "Notamail 2023/48", "JERF 2023/69"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2023/75", "ERF-Updates.nl 2023-0084", "Notamail 2023/48", "JERF 2023/69", "VEAN-ERF-Updates.nl 2023-0084"]
 ---
 
 # ECLI:NL:RBZWB:2023:647 Rechtbank Zeeland-West-Brabant , 02-02-2023 / 10034956_E02012023

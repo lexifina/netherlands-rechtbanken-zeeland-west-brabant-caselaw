@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:1582"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0372", "PR-Updates.nl PR-2023-0050", "VAAN-AR-Updates.nl 2023-0372"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0372", "PR-Updates.nl PR-2023-0050", "VAAN-AR-Updates.nl 2023-0372", "PR-Updates.nl 2023-0050"]
 ---
 
 # ECLI:NL:RBZWB:2023:1582 Rechtbank Zeeland-West-Brabant , 10-03-2023 / 10261665_E10032923

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:2501"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1056", "NLF 2023/1101", "NTFR 2023/915 met annotatie van mr. drs. E.J.H. Vermeulen", "Belastingadvies 2023/12.1", "Vp-bulletin 2023/37 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "Viditax (FutD) 2023051014", "FutD 2023-1284"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1056", "NLF 2023/1101", "NTFR 2023/915 met annotatie van mr. drs. E.J.H. Vermeulen", "Belastingadvies 2023/12.1", "Vp-bulletin 2023/37 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "Viditax (FutD) 2023051014", "FutD 2023-1284"]
 ---
 
 # ECLI:NL:RBZWB:2023:2501 Rechtbank Zeeland-West-Brabant , 14-04-2023 / 21/5744

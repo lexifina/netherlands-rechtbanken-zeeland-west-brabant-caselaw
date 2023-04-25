@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:3815"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0713", "Sdu Nieuws Arbeidsrecht 2023/238", "PR-Updates.nl PR-2023-0137", "VAAN-AR-Updates.nl 2023-0713"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0713", "Sdu Nieuws Arbeidsrecht 2023/238", "PR-Updates.nl PR-2023-0137", "VAAN-AR-Updates.nl 2023-0713", "PR-Updates.nl 2023-0137"]
 ---
 
 # ECLI:NL:RBZWB:2023:3815 Rechtbank Zeeland-West-Brabant , 25-04-2023 / 10363631 VV EXPL 23-17 (E)

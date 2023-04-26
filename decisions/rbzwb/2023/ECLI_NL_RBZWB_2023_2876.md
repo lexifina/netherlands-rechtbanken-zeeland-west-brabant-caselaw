@@ -10,6 +10,7 @@ procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:2876"
 published_in: ["Rechtspraak.nl", "NJFS 2023/241"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2771"]]
 ---
 
 # ECLI:NL:RBZWB:2023:2876 Rechtbank Zeeland-West-Brabant , 26-04-2023 / 02-820957-19 (onderzoek Lugo)

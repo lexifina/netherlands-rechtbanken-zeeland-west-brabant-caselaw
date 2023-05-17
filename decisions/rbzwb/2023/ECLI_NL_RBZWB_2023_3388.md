@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:3388"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2537"]]
 ---
 
 # ECLI:NL:RBZWB:2023:3388 Rechtbank Zeeland-West-Brabant , 17-05-2023 / C/02/400741 / HA ZA 22-433 (E)

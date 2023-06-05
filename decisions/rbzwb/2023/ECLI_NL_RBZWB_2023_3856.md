@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:3856"
 published_in: ["Rechtspraak.nl", "JOM 2023/275"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6321, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2023:3856 Rechtbank Zeeland-West-Brabant , 05-06-2023 / AWB- 23_2586 VV en 23_2162

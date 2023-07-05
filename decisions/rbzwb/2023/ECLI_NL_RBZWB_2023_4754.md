@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:4754"
 published_in: ["Rechtspraak.nl", "INS-Updates.nl 2023-0162", "OR-Updates.nl 2023-0143"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2545"]]
 ---
 
 # ECLI:NL:RBZWB:2023:4754 Rechtbank Zeeland-West-Brabant , 05-07-2023 / C/02/395275 / HA ZA 22-109 (T)

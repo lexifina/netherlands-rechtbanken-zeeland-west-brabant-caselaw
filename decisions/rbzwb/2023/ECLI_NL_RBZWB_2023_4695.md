@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:4695"
 published_in: ["Rechtspraak.nl", "NLF 2023/1627", "V-N Vandaag 2023/1666", "NDFR Nieuws 2023/1063", "NTFR 2023/1408 met annotatie van Mr. A. Vroon", "Viditax (FutD) 2023071318", "FutD 2023-1905"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3536, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2023:4695 Rechtbank Zeeland-West-Brabant , 06-07-2023 / BRE 21/1079

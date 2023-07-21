@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6511"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0187"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0187", "PR-Updates.nl 2023-0187"]
 ---
 
 # ECLI:NL:RBZWB:2023:6511 Rechtbank Zeeland-West-Brabant , 21-07-2023 / C/02/396072 / FA RK 22-1393

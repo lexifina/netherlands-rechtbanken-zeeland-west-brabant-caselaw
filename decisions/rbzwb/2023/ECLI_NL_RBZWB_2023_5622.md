@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:5622"
 published_in: ["Rechtspraak.nl", "NTHR 2023, afl. 5, p. 188"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:972"]]
 ---
 
 # ECLI:NL:RBZWB:2023:5622 Rechtbank Zeeland-West-Brabant , 09-08-2023 / 10212592 \ CV EXPL 22-4306

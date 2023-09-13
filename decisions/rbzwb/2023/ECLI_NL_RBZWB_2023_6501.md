@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6501"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0105"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0105", "BPR-Updates.nl 2023-0105"]
 ---
 
 # ECLI:NL:RBZWB:2023:6501 Rechtbank Zeeland-West-Brabant , 13-09-2023 / 10640343 CV EXPL 23-1916 (E)

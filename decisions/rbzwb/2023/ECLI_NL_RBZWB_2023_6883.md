@@ -1,0 +1,81 @@
+---
+ecli: "ECLI:NL:RBZWB:2023:6883"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "BRE-23_599"
+decided: "2023-09-29"
+published: "2023-10-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:6883"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2023:6883 Rechtbank Zeeland-West-Brabant , 29-09-2023 / BRE-23_599
+
+## Inhoudsindicatie
+
+8:54; bezwaar terecht niet-ontvankelijk. Belanghebbende heeft bezwaar gemaakt tegen een kennisgeving teruggaaf BPM. Meer specifiek tegen een rentebeschikking opgenomen in de kennisgeving. Tegen een kennisgeving teruggaaf BPM is geen bezwaar mogelijk. Daarbij is in de kennisgeving geen rentebeschikking opgenomen. De door de inspecteur verzochte proceskostenvergoeding, zijnde reiskosten voor zitting, wordt afgewezen, omdat uitspraak wordt gedaan zonder zitting.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Belastingrecht
+
+zaaknummer: BRE 23/599
+
+uitspraak van de enkelvoudige kamer van 29 september 2023 in de zaak tussen
+
+[belanghebbende], uit [plaats], belanghebbende
+
+([gemachtigde]),
+
+en
+
+de inspecteur van de belastingdienst, de inspecteur.
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over het beroep van belanghebbende tegen de uitspraak op bezwaar van de inspecteur van 22 december 2022, betreffende de kennisgeving teruggaaf BPM van 15 juni 2022, naar aanleiding van een uitspraak van deze rechtbank van 2 juni 2022.
+
+1.1.
+
+Omdat het beroep kennelijk ongegrond is, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Beoordeling door de rechtbank
+
+2. De inspecteur heeft een kennisgeving teruggaaf BPM toegezonden aan belanghebbende naar aanleiding van een uitspraak op bezwaar. De kennisging is een mededeling van de financiële uitkomst van de uitspraak van de rechtbank.
+
+3. Belanghebbende heeft bezwaar gemaakt tegen de kennisgeving. De inspecteur heeft het bezwaar niet-ontvankelijk verklaard.
+
+4. In beroep voert belanghebbende aan tegen de rentebeschikking in de kennisgeving op te komen.
+
+5. In het belastingrecht geldt een gesloten stelsel van rechtsmiddelen. Dat betekent dat alleen bezwaar kan worden gemaakt en beroep kan worden ingesteld tegen beslissingen die in de belastingwetgeving zijn aangemerkt als voor bezwaar vatbaar. De kennisgeving teruggaaf BPM naar aanleiding van de uitspraak van deze rechtbank is niet als zodanig aan te merken. Een rentebeschikking is niet opgenomen in de betreffende brief.
+
+6. De inspecteur heeft het bezwaar terecht niet-ontvankelijk verklaard. Gelet op dat wat in onderdeel 5 is overwogen, was het bezwaar kennelijk niet-ontvankelijk. Om die reden was er – los van de feitelijke gang van zaken in deze zaak – geen plicht om op grond van de nationale wet een hoorgesprek te houden. Die verplichting is er ook niet op basis van het Unierecht. De klacht van belanghebbende over het hoorrecht slaagt dus niet. Het beroep is kennelijk ongegrond.
+
+7. Belanghebbende kan het geschil met de inspecteur voorleggen aan de burgerlijke rechter op de in het Wetboek van Burgerlijke Rechtsvordering bepaalde wijze.
+
+8. De inspecteur heeft verzocht belanghebbende te veroordelen in de proceskosten van de inspecteur vanwege procederen tegen beter weten in. De inspecteur heeft daarbij verzocht om een vergoeding van de reiskosten mocht deze zaak ter zitting komen.
+
+9. Nu het beroep kennelijk ongegrond is en uitspraak wordt gedaan zonder zitting wordt het verzoek van de inspecteur afgewezen. Of sprake is van ‘procederen tegen beter weten in’ behoeft daarmee geen verdere behandeling.
+
+10. Voor een proceskostenveroordeling van de inspecteur bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. S.A.J. Bastiaansen, rechter, in aanwezigheid van P. van der Hoeven, griffier, op 29 september 2023 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.

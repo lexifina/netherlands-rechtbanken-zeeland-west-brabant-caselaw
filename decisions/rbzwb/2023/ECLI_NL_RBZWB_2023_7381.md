@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:7381"
 published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2023-0169", "JOM 2023/523"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3671, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2023:7381 Rechtbank Zeeland-West-Brabant , 17-10-2023 / AWB- 22_2170 en 22_4340 en 23_859 en 23_9277

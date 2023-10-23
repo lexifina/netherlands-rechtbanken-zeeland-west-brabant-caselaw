@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:7354"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0107"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0107", "BPR-Updates.nl 2023-0107"]
 ---
 
 # ECLI:NL:RBZWB:2023:7354 Rechtbank Zeeland-West-Brabant , 23-10-2023 / C/02/415028 / HARK 23-228 (E)

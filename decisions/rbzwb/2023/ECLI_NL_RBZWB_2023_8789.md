@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8789"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0059", "Sdu Nieuws Arbeidsrecht 2024/25", "PR-Updates.nl PR-2024-0043", "TvPP 2024/16, p. 60", "VAAN-AR-Updates.nl 2024-0059", "Brightmine 2024-20009793"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0059", "Sdu Nieuws Arbeidsrecht 2024/25", "PR-Updates.nl PR-2024-0043", "TvPP 2024/16, p. 60", "VAAN-AR-Updates.nl 2024-0059", "Brightmine 2024-20009793", "PR-Updates.nl 2024-0043"]
 ---
 
 # ECLI:NL:RBZWB:2023:8789 Rechtbank Zeeland-West-Brabant , 07-11-2023 / 10658944 AZ VERZ 23-45 (E)

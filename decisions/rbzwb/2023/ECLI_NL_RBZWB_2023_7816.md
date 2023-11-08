@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:7816"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1524", "PR-Updates.nl PR-2024-0017", "PJ 2024/13", "VAAN-AR-Updates.nl 2023-1524"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1524", "PR-Updates.nl PR-2024-0017", "PJ 2024/13", "VAAN-AR-Updates.nl 2023-1524", "PR-Updates.nl 2024-0017"]
 ---
 
 # ECLI:NL:RBZWB:2023:7816 Rechtbank Zeeland-West-Brabant , 08-11-2023 / 10344303/CV EXPL 23-583 (E)

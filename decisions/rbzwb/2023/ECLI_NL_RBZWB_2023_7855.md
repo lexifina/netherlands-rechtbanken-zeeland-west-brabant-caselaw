@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:7855"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2023/1207", "NDFR Nieuws 2023/1726", "V-N Vandaag 2023/2875", "NLF 2023/2762", "NTFR 2024/19 met annotatie van drs. M.J.J.R. van Mourik", "Viditax (FutD) 2023113006", "FutD 2023-3069"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2854, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2023:7855 Rechtbank Zeeland-West-Brabant , 10-11-2023 / 21/4609 en 21/4610

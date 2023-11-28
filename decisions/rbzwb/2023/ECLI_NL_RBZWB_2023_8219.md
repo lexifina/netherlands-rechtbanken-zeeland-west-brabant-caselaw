@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8219"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2968", "NLF 2023/2829", "NDFR Nieuws 2023/1806", "NTFR 2024/17 met annotatie van Redactie", "Viditax (FutD) 2023121102", "FutD 2023-3198"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2968", "NLF 2023/2829", "NDFR Nieuws 2023/1806", "NTFR 2024/17", "Viditax (FutD) 2023121102", "FutD 2023-3198"]
 ---
 
 # ECLI:NL:RBZWB:2023:8219 Rechtbank Zeeland-West-Brabant , 28-11-2023 / 22/767

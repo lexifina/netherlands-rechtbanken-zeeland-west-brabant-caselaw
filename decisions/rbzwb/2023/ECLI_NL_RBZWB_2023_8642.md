@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8642"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3093", "NDFR Nieuws 2024/44", "NLF 2024/0058", "NTFR 2024/203 met annotatie van mr. drs. J. Bierman BA", "Viditax (FutD) 2023122002", "FutD 2024-0020"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:591, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2023:8642 Rechtbank Zeeland-West-Brabant , 08-12-2023 / 23/1352

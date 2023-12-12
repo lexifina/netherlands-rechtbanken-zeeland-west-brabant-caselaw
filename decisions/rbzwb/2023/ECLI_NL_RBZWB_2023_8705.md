@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8705"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0018"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0018", "PR-Updates.nl 2024-0018"]
 ---
 
 # ECLI:NL:RBZWB:2023:8705 Rechtbank Zeeland-West-Brabant , 12-12-2023 / C/02/404416 / FA RK 22-5673

@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:9369"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0165", "VAAN-AR-Updates.nl 2024-0165"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3254"]]
 ---
 
 # ECLI:NL:RBZWB:2023:9369 Rechtbank Zeeland-West-Brabant , 13-12-2023 / 9942182 \ CV EXPL  22-1883

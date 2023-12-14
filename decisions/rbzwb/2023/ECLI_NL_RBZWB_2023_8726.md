@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8726"
 published_in: ["Rechtspraak.nl", "Belastingblad 2024/46 met annotatie van R.H. Kastelein"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3038, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2023:8726 Rechtbank Zeeland-West-Brabant , 14-12-2023 / BRE 22/4060

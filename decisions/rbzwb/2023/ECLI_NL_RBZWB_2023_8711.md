@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:8711"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3055", "NDFR Nieuws 2024/50", "NTFR 2024/153 met annotatie van DR. R.M.P.G. NIESSEN-COBBEN", "V-N 2024/3.18 met annotatie van Redactie", "Viditax (FutD) 2023122115", "FutD 2024-0031"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3055", "NDFR Nieuws 2024/50", "NTFR 2024/153 met annotatie van DR. R.M.P.G. NIESSEN-COBBEN", "V-N 2024/3.18", "Viditax (FutD) 2023122115", "FutD 2024-0031"]
 ---
 
 # ECLI:NL:RBZWB:2023:8711 Rechtbank Zeeland-West-Brabant , 15-12-2023 / BRE 23_9647 tm 23_9649

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2023:9271"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0126", "PR-Updates.nl PR-2024-0037", "VAAN-AR-Updates.nl 2024-0126"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0126", "PR-Updates.nl PR-2024-0037", "VAAN-AR-Updates.nl 2024-0126", "PR-Updates.nl 2024-0037"]
 ---
 
 # ECLI:NL:RBZWB:2023:9271 Rechtbank Zeeland-West-Brabant , 27-12-2023 / 10494498 CV EXPL 23-1493 (E)

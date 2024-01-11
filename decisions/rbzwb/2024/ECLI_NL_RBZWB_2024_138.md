@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:138"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/212", "V-N Vandaag 2024/214", "NDFR Nieuws 2024/200", "NTFR 2024/313 met annotatie van mr. J.P.W.H.T. Becks, mr. N.P. Arzini", "Viditax (FutD) 2024012207", "FutD 2024-0262"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:184, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:138 Rechtbank Zeeland-West-Brabant , 11-01-2024 / BRE 22/1237

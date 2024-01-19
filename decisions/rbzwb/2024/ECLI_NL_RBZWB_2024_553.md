@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:553"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2024/68", "ERF-Updates.nl 2024-0121", "JERF 2024/112 met annotatie van mr. S.H. Heijning"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2024/68", "ERF-Updates.nl 2024-0121", "JERF 2024/112 met annotatie van mr. S.H. Heijning", "VEAN-ERF-Updates.nl 2024-0121"]
 ---
 
 # ECLI:NL:RBZWB:2024:553 Rechtbank Zeeland-West-Brabant , 19-01-2024 / 10822275 OV VERZ 23-5971 (E)

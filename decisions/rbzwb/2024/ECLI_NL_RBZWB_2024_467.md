@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:467"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/758", "NLF 2024/0840 met annotatie van Edwin Thomas", "NDFR Nieuws 2024/693", "NTFR 2024/842 met annotatie van mr. dr. B.M.M. Didden", "V-N 2024/23.6 met annotatie van Redactie", "Viditax (FutD) 2024040406", "FutD 2024-0823"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/758", "NLF 2024/0840 met annotatie van Edwin Thomas", "NDFR Nieuws 2024/693", "NTFR 2024/842 met annotatie van mr. dr. B.M.M. Didden", "V-N 2024/23.6", "Viditax (FutD) 2024040406", "FutD 2024-0823"]
 relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2024:1660"]]
 ---
 

@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1015"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/492", "CFN 2024/18 met annotatie van -", "NDFR Nieuws 2024/428", "NTFR 2024/636 met annotatie van Mr. E. Swaving Dijkstra", "Viditax (FutD) 2024030114", "FutD 2024-0550"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/492", "CFN 2024/18", "NDFR Nieuws 2024/428", "NTFR 2024/636 met annotatie van Mr. E. Swaving Dijkstra", "Viditax (FutD) 2024030114", "FutD 2024-0550"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3710, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:1015 Rechtbank Zeeland-West-Brabant , 20-02-2024 / BRE 22/5460

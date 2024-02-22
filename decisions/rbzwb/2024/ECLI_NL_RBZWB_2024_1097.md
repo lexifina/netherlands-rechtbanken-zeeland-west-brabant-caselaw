@@ -1,0 +1,399 @@
+---
+ecli: "ECLI:NL:RBZWB:2024:1097"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "02-688116-15 (ontneming)"
+decided: "2024-02-22"
+published: "2024-02-22"
+type: "uitspraak"
+procedure: "Op tegenspraak"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1097"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2024:1097 Rechtbank Zeeland-West-Brabant , 22-02-2024 / 02-688116-15 (ontneming)
+
+## Inhoudsindicatie
+
+Ontneming wederrechtelijk verkregen voordeel na hennepkwekerij, ontvankelijkheid officier van justitie, redelijke termijn.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Strafrecht
+
+Zittingsplaats: Middelburg
+
+Parketnummer: 02-688116-15 (ontneming)
+
+vonnis van de rechtbank d.d. 22 februari 2024
+
+in de ontnemingszaak tegen
+
+[veroordeelde] ,
+
+geboren op [geboortedag] 1960 te [plaats 1] ,
+
+wonende te [postcode] [plaats 2] , [adres 1] ,
+
+raadsvrouw mr. C.E.J.E. Kouijzer, advocaat te Middelburg.
+
+1
+De procedure
+
+Veroordeelde is op 11 juli 2022 door deze rechtbank veroordeeld tot een voorwaardelijke gevangenisstraf van drie maanden met een proeftijd van twee jaar, wegens kort gezegd het medeplegen van het telen van hennep in beroepsmatige zin en medeplegen van de diefstal van stroom.
+
+De officier van justitie heeft ontneming van het wederrechtelijk verkregen voordeel ter hoogte van € 1.500.000,- gevorderd.
+
+Op 13 juni 2023 heeft de rechtbank een schriftelijke voorbereidingsprocedure bevolen. In dat kader hebben de officier van justitie en de raadsvrouw schriftelijke conclusies ingediend.
+
+De vordering is inhoudelijk behandeld op de zitting van 11 januari 2024, waarbij de officier van justitie mr. P. Emmen en de verdediging hun standpunten kenbaar hebben gemaakt.
+
+De officier van justitie heeft daarbij de vordering gewijzigd.
+
+2
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft in de eerste plaats naar voren gebracht dat de ontnemingsvordering gelijktijdig met de hoofdzaak is aangebracht en deze vordering is binnen twee jaar na het vonnis in de hoofdzaak ter terechtzitting behandeld. Van niet-ontvankelijkheid is daarom geen sprake.
+
+De officier van justitie stelt zich op het standpunt dat veroordeelde wederrechtelijk voordeel heeft genoten uit de bewezenverklaarde teelt van hennep. Het bedrag van € 1.500.000,- is gebaseerd op het rapport van de politie met betrekking tot het wederrechtelijk verkregen voordeel. Zoals in de conclusie van repliek naar voren gebracht wijkt de officier van justitie af van de berekening van het wederrechtelijk verkregen voordeel die ten grondslag heeft gelegen aan de oorspronkelijke vordering. Naar aanleiding van hetgeen door de verdediging in de conclusie van antwoord naar voren is gebracht heeft hij besloten ook de elektriciteitskosten en het afpersingsgeld dat is betaald af te trekken als kosten van het berekende bruto voordeel. Het netto voordeel komt dan op een totaalbedrag van
+
+€ 1.472.403,94. Omdat de verdeling van de nettowinst op basis van het dossier onvoldoende duidelijk is geworden, is hoofdelijke aansprakelijkheid gevorderd.
+
+3
+Het standpunt van de verdediging
+
+De verdediging is primair van mening dat de officier van justitie niet-ontvankelijk is in de vordering wegens een forse overschrijding van de redelijke termijn. In 2015 zijn al conservatoire beslagen gelegd, waardoor duidelijk was dat er een ontnemingsvordering zou volgen. Het rapport betreffende de berekening van het wederrechtelijk verkregen voordeel is afgerond in januari 2016 en ontvangen op het parket in februari 2016. Gelet hierop is de redelijke termijn met meer dan acht jaar overschreden. Daardoor zijn de beginselen van een goede procesorde geschonden. Verder dient de conclusie van repliek van de officier van justitie buiten beschouwing gelaten te worden, omdat die te laat is ingediend.
+
+Subsidiair heeft de verdediging het volgende aangevoerd. Veroordeelde ontkent dat hij één vijfde deel van € 1.500.000,- aan voordeel heeft genoten. Hij heeft drie keer € 5.000,- ontvangen. Uit onderzoek is niet gebleken van grote of luxe uitgaven of van goederen van grote waarde. Over de voordeelberekening heeft de verdediging diverse opmerkingen gemaakt:
+
+In het rapport wordt uitgegaan van een langere periode dan de bewezenverklaarde periode. De verdediging heeft verzocht uit te gaan van de bewezenverklaarde periode.
+
+In de berekening is uitgegaan van 24 oogsten, met 750 planten per oogst. Veroordeelde heeft wetenschap van vijf oogsten, waarvan er één mislukt was. [medeveroordeelde 1] heeft verklaard dat er goede en slechte oogsten waren, en dat er nooit meer dan 500 planten stonden. De verdediging heeft de rechtbank verzocht rekening te houden met vier oogsten van 500 planten per oogst. Gelet op de BOOM normbedragen zou dat neerkomen op een totale opbrengst van
+
+€ 184.992,-.
+
+- Diverse kosten zijn niet betrokken in de berekening, terwijl dit wel zou moeten. Het gaat om de volgende kosten:
+
+ De energiekosten zijn door veroordeelde voldaan aan Enduris. In het rapport is een bedrag van € 31.508,09 genoemd, maar veroordeelde heeft uiteindelijk
+
+€ 36.423,99 betaald. De verdediging heeft verzocht dit laatste bedrag af te trekken van hetgeen veroordeelde moet betalen. Het is niet redelijk om deze kosten ook bij anderen dan hem (en [medeveroordeelde 2] ) in aftrek te brengen. De kans dat hij deze kosten vergoed zal krijgen van zijn medeveroordeelden is nihil.
+
+ Veroordeelde heeft de huisvestingskosten van de woning betaald, en het is redelijk om hiermee rekening te houden. Per maand bedroegen die kosten blijkens het dossier € 1.492,- aan hypotheekrente en levensverzekeringspremies. Over een periode van 42 maanden komt dat neer op een totaalbedrag van
+
+€ 62.681,64.
+
+ Uit het dossier volgt dat er meerdere afpersingen zijn geweest. De eerste keer moest volgens [medeveroordeelde 2] en [medeveroordeelde 1] € 5.000,- betaald worden. Volgens veroordeelde is er in totaal € 10.000,- betaald. Met dit bedrag dient in de berekening rekening gehouden te worden.
+
+De totale kosten vormen dan een bedrag van € 115.698,80.
+
+Over de verdeling van het voordeel heeft de verdediging naar voren gebracht dat uit het dossier blijkt dat veroordeelde en [medeveroordeelde 1] hebben verklaard dat ieder één vijfde deel ontving. Het voordeel dat veroordeelde heeft genoten zou dan neerkomen op één vijfde deel van € 69.293,20 (de rechtbank begrijpt: het verschil tussen de totale opbrengst € 184.992,- en de totale kosten € 115.698,80) is € 13.858,64.
+
+De verdediging heeft verzocht de betalingsverplichting niet hoofdelijk, maar alleen voor zijn eigen deel op te leggen.
+
+Veroordeelde heeft momenteel een zeer minimaal inkomen en geen vermogen, hetgeen ook de verwachting is voor de toekomst vanwege het ontbreken van diploma’s en ervaring, zodat aanstonds duidelijk is dat de draagkracht ontbreekt om een dergelijk bedrag te betalen. Om die reden heeft de verdediging verzocht de vordering af te wijzen, dan wel sterk te matigen.
+
+De verdediging heeft ten slotte verzocht om vanwege de forse overschrijding van de redelijke termijn het ontnemingsbedrag op nihil te stellen, dan wel meer subsidiair deze zeer sterk te matigen.
+
+4
+Het oordeel van de rechtbank
+
+4.1
+
+Conclusie van repliek
+
+De rechtbank stelt vast dat de conclusie van repliek is ingediend op 15 november 2023, terwijl de rechtbank in haar tussenvonnis van 27 juni 2023 als uiterlijke datum
+
+10 november 2023 heeft bepaald. De conclusie van repliek is daarmee enkele dagen te laat ingediend, wat de rechtbank onwenselijk acht. De rechtbank heeft in het eerdergenoemde tussenvonnis voorts bepaald dat de verdediging tot uiterlijk 8 december 2015 een conclusie van dupliek kon indienen. Na indiening van de conclusie van repliek, waarin de officier van justitie de verdediging op enkele punten tegemoet is gekomen, had de verdediging derhalve nog ruim drie weken om een conclusie van dupliek te formuleren. De rechtbank is van oordeel dat niet gezegd kan worden dat de verdediging daarmee zodanig in haar belangen is geschaad dat dat tot uitsluiting van de conclusie van repliek zou moeten leiden. Het verweer slaagt derhalve niet.
+
+4.2
+
+Overschrijding van de redelijke termijn
+
+De ontnemingsvordering is gelijktijdig met de hoofdzaak aan de rechtbank voorgelegd, te weten op 27 juni 2022, en daarmee binnen de termijn gesteld in artikel 511b van het Wetboek van Strafvordering. Het is vaste jurisprudentie van de Hoge Raad dat ook een forse overschrijding van de redelijke termijn niet tot niet-ontvankelijkheid van de officier van justitie leidt. De rechtbank acht de officier van justitie gelet op het voorgaande ontvankelijk in de vordering.
+
+4.3
+
+Schatting van het wederrechtelijk verkregen voordeel
+
+Op 7 juli 2015 is in de kelder van de woning op het [adres 2] te [plaats 3] een hennepkwekerij ontdekt. De kwekerij was verdeeld over vier ruimtes waarin in totaal 751 planten stonden. De stroom werd buitenom de meter afgenomen.
+
+In het ‘rapport berekening wederrechtelijk verkregen voordeel hennepkwekerij’ (hierna: het rapport) van 27 januari 2016 is uitgegaan van het volgende:
+
+Opbrengst
+
+Een periode van 1 januari 2011 tot en met 7 juli 2015, met daarin 24 oogsten;
+
+751 planten per oogst;
+
+BOOM-norm voor de opbrengst in gram per plant, te weten 28,2 gram;
+
+Een opbrengst aan hennep per oogst van 751 x 28,2 = 21,1782 kilogram;
+
+BOOM-norm voor de opbrengst in euro’s per kilogram hennep, te weten € 3.280,-;
+
+Een totale bruto opbrengst per oogst van 21,1785 kilogram x € 3.280,- =
+
+€ 69.464,50;
+
+- Een totale opbrengst van alle oogsten samen: 24 oogsten x € 69.464,50 =
+
+€ 1.667.148,-.
+
+- Periode, aantal oogsten en aantal planten
+
+De rechtbank is van oordeel dat de periode van 1 januari 2011 tot en met 1 januari 2012 kan worden betrokken bij de berekening van het wederrechtelijk verkregen voordeel, omdat het dossier voldoende aanwijzingen bevat dat ook in die periode de hennepkwekerij al actief was. Zo bevat het dossier delen van een notitieboek waarin [medeveroordeelde 2] aantekeningen heeft gemaakt over de kwekerij. De eerste aantekening is van 5 maart 2011, die onder meer inhoudt: “hok 1 4 gieters, staan er goed bij, zijn voller aan ’t worden, niet zoveel meer de lengte in”. De rechtbank gaat ervan uit dat deze aantekening ziet op een reeds opgebouwde hennepkwekerij en de verzorging van de planten daarin.
+
+Verder bevat het dossier een overzicht van het stroomverbruik van het [elektriciteitsstation] te [plaats 3] . Hieruit komt naar voren dat het stroomverbruik al vanaf 2011 substantieel hoger was dan in de jaren daarvoor.
+
+Omdat de aantekeningen pas in maart 2011 beginnen, en er afgezien van het stroomverbruik geen concrete aanwijzingen zijn van een werkende hennepkwekerij in de periode januari en februari 2011 zal de rechtbank één oogst aftrekken van het totale aantal oogsten.
+
+De reeds genoemde en de overige aantekeningen van [medeveroordeelde 2] duiden op veel kweekcycli in de jaren vóór de ontdekking van de hennepkwekerij. Daarbij komt dat het verhoogde stroomverbruik door de jaren heen vrij consistent is gebleven, hetgeen duidt op een voortdurende situatie van hennepkweek. Het standpunt dat sprake zou zijn van slechts vijf oogsten wordt op geen enkele manier ondersteund door de stukken in het dossier. Gelet op het voorgaande zal de rechtbank in de schatting van het wederrechtelijk verkregen voordeel uitgaan van 23 oogsten.
+
+Ten aanzien van de oogsten is ten slotte aangevoerd dat niet alle oogsten succesvol waren; er waren ook mislukte oogsten. In de aantekeningen van [medeveroordeelde 2] ziet de rechtbank dat in maart 2011 gesproken wordt over spint en de bestrijding daarvan. De rechtbank zal in verband daarmee van één oogst de opbrengst halveren. De rechtbank ziet in het dossier voor het overige onvoldoende aanknopingspunten om tot een concrete aftrek van opbrengst te komen.
+
+De rechtbank ziet in het dossier verder onvoldoende aanwijzingen voor het standpunt van de verdediging dat er met slechts 500 planten per oogst werd gekweekt. De rechtbank zal daarom het aantal planten dat in het rapport wordt genoemd handhaven. Verdere verweren dienaangaande worden verworpen.
+
+De rechtbank berekent de schatting van de opbrengst aan de hand van het voorgaande als volgt.
+
+Periode 1 maart 2011 tot en met 7 juli 2015: 23 oogsten.
+
+751 planten per oogst x opbrengst per plant van 28,2 gram = 21.178,2 gram per oogst;
+
+BOOM-norm voor de opbrengst in euro’s per kilogram hennep, te weten € 3.280,-;
+
+Opbrengst per oogst 21,1782 kilogram x € 3.280,- = € 69.464,50;
+
+22 oogsten met een volledige opbrengst: 22 x € 69.464,50 = € 1.528.219,-;
+
+1 oogst met een halve opbrengst: 0,5 x € 69.464,50 = € 34.732,25;
+
+Totale opbrengst: € 1.528.219,- + € 34.732,25 = € 1.562.951,25.
+
+Kosten
+
+In het rapport zijn de volgende kosten berekend:
+
+Afschrijvingskosten [bedrag volgens de tabel] € 450,00
+
+Hennepstekken [hoeveelheid planten per oogst (751) x € 2,85] € 2.140,35
+
+Variabele kosten [hoeveelheid planten per oogst (751) x € 3,33] € 2.500,83
+
+Kosten knippers [aannemelijk € 2,00 per plant per oogst] € 1.502,00
+
+Huisvestingskosten [extra betaald per oogst] € 0,00
+
+Totaal aan kosten per oogst € 6.593,17.
+
+Per 24 oogsten bedragen deze kosten in totaal: € 158.236,08.
+
+- Verrekening van de wijziging in het aantal oogsten
+
+In het hierboven genoemde kostenoverzicht uit het rapport is rekening gehouden met 24 volledige oogsten. De rechtbank gaat uit van 22 volledige oogsten en één halve oogst.
+
+Daarmee veranderen niet de afschrijvingskosten, de kosten voor hennepstekken en de variabele kosten per oogst. Vanwege de halve oogst zullen wel de kosten voor de knippers wijzigen. Slechts de helft van het aantal planten hoefde immers te worden geknipt, omdat de andere helft vanwege spint niet wordt meegerekend in de oogst. De kosten voor de knippers zijn dan 751 x 0,5 x € 2,- = € 751,-
+
+Het totaal van deze kosten voor die oogst zijn derhalve € 6.593,17 - € 751,- = € 5.842,17.
+
+Voor de 22 volledige oogsten is het totaal van deze kosten € 6.593,17 x 22 = € 145.049,74.
+
+Voor het geheel van oogsten samen betreft het totaal van deze kosten:
+
+€ 5.842,17 + € 145.049,74 = € 150.891,91.
+
+- De elektriciteitskosten
+
+Ten tijde van het opmaken van het rapport waren de elektriciteitskosten nog niet betaald. Door de verdediging is aangetoond dat deze inmiddels wel zijn betaald door veroordeelde, zodat ook deze kosten van de bruto-opbrengst kunnen worden afgetrokken. De rechtbank gaat daarbij uit van het totaal door veroordeelde betaalde bedrag van € 37.012,14. Hoewel het bedrag aan enkel stroomverbruik € 31.508,09 betreft, zijn ook de bijkomende kosten die tot het totaal van € 37.012,14 leiden, het gevolg van het buiten de meter om afnemen van stroom voor de hennepplantage en daarmee kosten die van negatieve invloed zijn op de opbrengst van die hennepplantage. De rechtbank stelt de kosten van stroomverbruik daarom vast op € 37.012,14.
+
+De rechtbank acht het voldoende aannemelijk dat deze kosten alleen ten laste van veroordeelde zijn gekomen. Geen van de andere medeveroordeelden heeft hieraan meebetaald. Hoewel veroordeelde deze kosten civielrechtelijk zou kunnen verhalen op deze medeveroordeelden acht de rechtbank het niet aannemelijk dat zij hun aandeel in deze kosten ooit aan veroordeelde zullen terugbetalen. Dit zou tot het onrechtvaardige resultaat leiden dat bij een evenredige verdeling van deze kosten over alle medeveroordeelden, zij wel profiteren van de betaling door veroordeelde doordat deze kosten in mindering worden gebracht op hun deel van het wederrechtelijk verkregen voordeel zonder dat zij die kosten daadwerkelijk hebben gemaakt. Herstel van de rechtmatige toestand, het doel van ontneming van wederrechtelijk verkregen voordeel, doet zich dan niet voor. De rechtbank zal deze kosten daarom alleen verrekenen in het aandeel van de winst van veroordeelde.
+
+- Huisvestingskosten
+
+In het vonnis van [medeveroordeelde 2] heeft de rechtbank overwogen dat het voldoende aannemelijk is dat de woning aan de [adres 2] te [plaats 3] door veroordeelde en [medeveroordeelde 2] is gekocht met de bedoeling om daar in samenwerking met de medeveroordeelden [medeveroordeelde 3] , [medeveroordeelde 1] en [medeveroordeelde 4] een hennepkwekerij te beginnen. Gelet hierop zal de rechtbank de huisvestingskosten aftrekken van de opbrengst van de hennepkwekerij. Dit alleen ten aanzien van veroordeelde en [medeveroordeelde 2] , omdat zij de eigenaren waren van de woning en om die reden de maandelijkse kosten voor de woning moesten betalen, en het dossier onvoldoende aanwijzingen bevat of, en zo ja hoe deze kosten werden doorberekend aan de medeveroordeelden.
+
+De rechtbank gaat voor de berekening van deze kosten uit van de periode van januari 2011 tot en met juli 2015. Dat zijn 55 maanden. De verdediging heeft naar voren gebracht dat de maandelijkse hypotheekkosten, bestaande uit hypotheekrente en premies levensverzekeringen, € 1.492,- per maand betroffen.
+
+Het totaal van deze kosten over de berekende periode betreft derhalve 55 x € 1.492,- =
+
+€ 82.060,-. Voor veroordeelde zal de rechtbank gelet hierop rekening houden met € 41.030,- aan huisvestingskosten.
+
+- Afpersingskosten
+
+In de conclusie van repliek en ter zitting heeft de officier van justitie in afwijking van de oorspronkelijke berekening in het rapport ook € 5.000,- aan afpersingskosten afgetrokken van de bruto opbrengst. Het dossier bevat twee brieven, gericht aan het [adres 2] te [plaats 3] , waarin kort gezegd wordt geschreven dat bekend is wat men aan het doen is op het adres. In één van de brieven wordt opgedragen een bedrag van € 5.000,- te betalen, omdat de afzender, zo schrijft hij, ook een graantje mee wil pikken. In de andere brief wordt geschreven dat bij het uitblijven van een reactie de autoriteiten worden ingelicht, maar in die brief wordt niet opgedragen te betalen. De rechtbank ziet in het dossier daarom geen aanknopingspunten voor het standpunt van de verdediging dat in totaal € 10.000,- is betaald aan de afperser. De rechtbank zal daarom € 5.000,- als kosten aftrekken van de totale opbrengst voor het betalen van de afperser.
+
+Netto opbrengst
+
+De algemene netto opbrengst kan op grond van het bovenstaande als volgt worden berekend.
+
+Bruto opbrengst		€ 1.562.951,25
+
+Diverse kosten			€    150.891,91
+
+Afpersingskosten 		€        5.000,00 -/-
+
+Netto opbrengst			€ 1.407.059,34
+
+Verdeling/hoofdelijkheid
+
+Veroordeelde en de medeveroordeelden zijn veroordeeld voor, kort gezegd, het medeplegen van het beroepsmatig telen van hennep en het medeplegen van de diefstal van stroom ten behoeven van die hennepkwekerij. Het uitgangspunt is dat eerst gekeken wordt of er voldoende aanwijzingen zijn om een verdeelsleutel toe te passen. Als daar onvoldoende aanwijzingen voor zijn kan tot hoofdelijkheid worden beslist.
+
+Naar het oordeel van de rechtbank kan niet worden gezegd dat het dossier zo weinig aanknopingspunten bevat voor een verdeelsleutel dat alleen nog tot hoofdelijke aansprakelijkheid kan worden beslist. Zo komt in het dossier steeds naar voren dat daar waar wordt gesproken over de samenwerking en de verdeling van de opbrengst steeds alleen de vijf namen van de veroordeelden worden genoemd. Hoewel het dossier een papieren notitie bevat met een voorstel voor een verdeelsleutel, is niet bekend of alle veroordeelden daarmee hebben ingestemd en of vervolgens volgens die verdeelsleutel de winst is verdeeld. Uit deze notitie en andere stukken in het dossier lijkt te volgen dat de eerdere verdeelsleutel moest worden aangepast vanwege de beperkte bijdrage van twee van de vijf veroordeelden zodanig dat die twee personen samen één deel van 25% zouden ontvangen en de overige drie 25% per persoon. Dit lijkt er tevens op te duiden dat de eerdere verdeelsleutel eruit bestond dat ieder wel een gelijk deel (20%) ontving. Dat komt ook overeen met de verklaring van [medeveroordeelde 1] dat ieder een deel van de opbrengst kreeg en dat hij 20% kreeg.
+
+De rechtbank ziet gelet op het voorgaande geen grond om af te wijken van een verdeelsleutel waarbij elk een even groot deel van de winst ontvangt. Dit is een voor de hand liggende verdeelsleutel, ook gelet op de veroordeling tot medeplegen, en doet meer recht aan het reparatoire karakter van de ontnemingsmaatregel dan hoofdelijke aansprakelijkheid.
+
+Dit is pas anders vanaf de datum van 7 april 2012 voor zover het [medeveroordeelde 3] betreft. Het dossier bevat een e-mailwisseling tussen medeveroordeelden [medeveroordeelde 2] en [medeveroordeelde 3] op die datum waarin zij spreken over de bijdrage aan de hennepkwekerij en de daarmee samenhangende betaling van [medeveroordeelde 3] . Zij spreken af dat [medeveroordeelde 3] vanaf dat moment € 3.000,- per oogst krijgt.
+
+De periode van 1 maart 2011 tot en met 7 april 2012 betreft afgerond 57 weken. In het rapport wordt uitgegaan van een gemiddelde kweekcyclus van 10 weken, zodat in die periode vijf afgeronde kweeksessies zijn geweest, waaronder de kweekcyclus waar een halve opbrengst voor gerekend wordt. In die periode betrof de netto-opbrengst het volgende bedrag:
+
+- Bruto opbrengst (4 x volledige opbrengst + 1 x halve opbrengst) =
+
+4 x € 69.464,50 = € 277.858 + € 34.732,25 = € 312.590,25
+
+- Kosten (4 x kosten volledige oogst + 1x kosten halve oogst) =
+
+4 x € 6.593,17 = € 26.372,68 + € 5.842,17 = € 32.214,85.
+
+- Veroordeelde heeft verklaard dat de afpersingsbrief waarin wordt opgedragen
+
+€ 5.000,- te betalen in februari 2015 is ontvangen. De rechtbank zal deze kosten daarom niet in deze periode aftrekken.
+
+- Netto-opbrengst: € 312.590,25 - € 32.214,85 = € 280.375,40.
+
+Dit bedrag gedeeld door vijf personen levert voor de periode van 1 maart 2011 tot en met
+
+7 april 2012 per persoon een geschat wederrechtelijk verkregen voordeel op van (afgerond)
+
+€ 56.075,-.
+
+De rechtbank gaat voor de periode vanaf 7 april 2012 tot en met 7 juli 2015 uit van
+
+18 oogsten (23 oogsten – 5 oogsten).
+
+De nog resterende netto-opbrengst over die periode is:
+
+totale netto-opbrengst (inclusief aftrek van de afpersingskosten) € 1.407.059,34
+
+netto-opbrengst periode 1 maart 2011 tot en met 7 april 2012     €    280.375,40 -/-
+
+€ 1.126.683,94
+
+Omdat [medeveroordeelde 3] in deze periode € 3.000,- per oogst wordt betaald levert dat een aftrek van de netto-opbrengst op van 18 oogsten x € 3.000,- = € 54.000,-.
+
+Over de periode van 7 april 2012 tot en met 7 juli 2015 bedraagt de netto-opbrengst die nog resteert voor de andere vier veroordeelden € 1.126.683,94 - € 54.000,- = € 1.072.683,94.
+
+Per veroordeelde is dat een bedrag van (afgerond) € 268.171,-.
+
+4.4
+
+Vaststelling van het wederrechtelijk verkregen voordeel
+
+[veroordeelde]
+
+:
+
+- periode 1 maart 2011 tot 7 april 2012			€  56.075,-
+
+- periode 7 april 2012 tot en met 7 juli 2015		€ 268.171,- +
+
+€ 324.246,-
+
+- aftrek elektriciteitskosten				€   37.012,14
+
+- aftrek huisvestingskosten				€   41.030,- -/-
+
+Geschat wederrechtelijk verkregen voordeel		€ 246.203,86
+
+[medeveroordeelde 2]
+
+- periode 1 maart 2011 tot 7 april 2012			€   56.075,-
+
+- periode 7 april 2012 tot en met 7 juli 2015		€ 268.171,- +
+
+€ 324.246,-
+
+- aftrek huisvestingskosten				€   41.030,- -/-
+
+Geschat wederrechtelijk verkregen voordeel		€ 283.216,-
+
+[medeveroordeelde 3]
+
+- periode 1 maart 2011 tot 7 april 2012			€  56.075,-
+
+- periode 7 april 2012 tot en met 7 juli 2015		€  54.000,- +
+
+Geschat wederrechtelijk verkregen voordeel		€ 110.075,-
+
+[medeveroordeelde 1]
+
+- periode 1 maart 2011 tot 7 april 2012			€   56.075,-
+
+- periode 7 april 2012 tot en met 7 juli 2015		€ 268.171,- +
+
+Geschat wederrechtelijk verkregen voordeel		€ 324.246,-
+
+[medeveroordeelde 4]
+
+- periode 1 maart 2011 tot 7 april 2012			€   56.075,-
+
+- periode 7 april 2012 tot en met 7 juli 2015		€ 268.171,- +
+
+Geschat wederrechtelijk verkregen voordeel		€ 324.246,-
+
+Gelet op het voorgaande stelt de rechtbank het wederrechtelijk voordeel van veroordeelde vast op een bedrag van (afgerond) € 246.203,-.
+
+4.5
+
+Overwegingen ten aanzien van de betalingsverplichting
+
+Redelijke termijn
+
+De rechtbank overweegt met betrekking tot de aanvang van de redelijke termijn en het procesverloop in deze zaak het volgende.
+
+Op 26 augustus 2015 heeft de rechter-commissaris een machtiging tot het leggen van conservatoir beslag verleend in verband met het geschatte wederrechtelijk verkregen voordeel van € 1.500.000,-. Hieruit kon de (toen nog) verdachte in redelijkheid de verwachting ontlenen dat tegen hem een vordering tot ontneming van het wederrechtelijk verkregen voordeel aanhangig zou worden gemaakt, zodat op dat moment de redelijke termijn met betrekking tot het ontnemen van wederrechtelijk verkregen voordeel is aangevangen. Gelet hierop had op uiterlijk 26 augustus 2017 een beslissing op een ontnemingsvordering moeten volgen. De redelijke termijn is daarmee met 6,5 jaar in aanzienlijke mate overschreden.
+
+Gelet op de jurisprudentie van de Hoge Raad op dit punt en de forse overschrijding van de redelijke termijn zal de rechtbank € 5.000,- aftrekken van het vastgestelde wederrechtelijk verkregen voordeel, zodat een bedrag van (afgerond) € 241.203,- resteert.
+
+Draagkracht
+
+Namens veroordeelde is ter terechtzitting aangevoerd dat hij niet de draagkracht heeft om aan de Staat enig geldbedrag te betalen ter ontneming van wederrechtelijk verkregen voordeel.
+
+Vooropgesteld dient te worden dat noch uit art. 36e Sr. noch uit enige andere wettelijke bepaling voortvloeit dat de draagkracht van veroordeelde in het algemeen een verplichte maatstaf vormt bij het bepalen van het te betalen geldbedrag ter ontneming van wederrechtelijk verkregen voordeel. Slechts indien aanstonds duidelijk is dat veroordeelde geen draagkracht heeft en naar redelijke verwachting ook in de toekomst niet zal hebben, dient de rechter gebruik te maken van zijn matigingsbevoegdheid.
+
+In casu heeft de veroordeelde naar het oordeel van de rechtbank vooralsnog niet aannemelijk gemaakt dat aanstonds duidelijk is dat veroordeelde nu en in de toekomst naar redelijke verwachting geen draagkracht zal hebben. Weliswaar is in de overgelegde aangiftes inkomstenbelasting van 2018 tot en met 2022 een laag inkomen opgegeven, maar onbekend is hoe de Belastingdienst op deze aangiftes heeft beslist. Verder heeft veroordeelde voorafgaand aan de start van de hennepkwekerij als zelfstandige zijn geld verdiend, ook toen kennelijk zonder diploma’s. Hij was daarin zo succesvol dat hij het zich kon veroorloven om samen met [medeveroordeelde 2] , naast hun toenmalige koopwoning in [plaats 2] , een tweede woning in [plaats 3] te kopen, waarvoor de bank hen een tweede hypotheek verstrekte. Het gestelde ontbreken van diploma’s en ervaring kan derhalve niet leiden tot een geslaagd draagkrachtverweer.
+
+De conclusie van de verdediging, inhoudende dat de vordering dient te worden afgewezen of te worden gematigd omdat de veroordeelde het wederrechtelijk verkregen voordeel niet kan terugbetalen, treft derhalve geen doel.
+
+4.6
+
+De betalingsverplichting
+
+Gelet op het voorgaande zal de rechtbank veroordeelde de betalingsverplichting opleggen van € 241.203,- en de vordering van de officier van justitie voor het overige afwijzen.
+
+5
+De wettelijke voorschriften
+
+De beslissing berust op artikel 36e van het Wetboek van Strafrecht.
+
+6
+De beslissing
+
+De rechtbank:
+
+- stelt het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat vast op
+
+€ 246.203,- (tweehonderdzesenveertigduizendtweehonderdendrie euro);
+
+- legt veroordeelde de verplichting op tot betaling aan de staat van een geldbedrag ter grootte van € 241.203,-, (tweehonderdéénenveertigduizendtweehonderdendrie euro) ter ontneming van het wederrechtelijk verkregen voordeel;
+
+- bepaalt de duur van de gijzeling, die bij niet betaling van het ontnemingsbedrag kan worden gevorderd, op 1080 (duizendtachtig) dagen;
+
+- wijst de vordering van de officier van justitie voor het overige af.
+
+Dit vonnis is gewezen door mr. A.B. Scheltema Beduin, voorzitter, mr. J. Bergen en
+
+mr. J.P.E. Mullers, rechters, in tegenwoordigheid van de griffier mr. A.J. Moggré-Hengst en is uitgesproken ter openbare zitting op 22 februari 2024.
+
+Mr. Mullers is niet in de gelegenheid om dit vonnis mede te ondertekenen.

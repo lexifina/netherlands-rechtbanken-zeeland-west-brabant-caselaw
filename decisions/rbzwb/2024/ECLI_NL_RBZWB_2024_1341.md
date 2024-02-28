@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1341"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0389", "VAAN-AR-Updates.nl 2024-0389"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2569"]]
 ---
 
 # ECLI:NL:RBZWB:2024:1341 Rechtbank Zeeland-West-Brabant , 28-02-2024 / 10271177 CV EXPL 23-57 (E)

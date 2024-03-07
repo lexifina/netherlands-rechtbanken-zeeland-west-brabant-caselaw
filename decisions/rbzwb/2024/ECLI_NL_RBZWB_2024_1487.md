@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1487"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/615", "NDFR Nieuws 2024/535", "NLF 2024/0768", "NTFR 2024/707 met annotatie van mr. D.N.N. Jansen", "Viditax (FutD) 2024031802", "FutD 2024-0717"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:812, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RBZWB:2024:1487 Rechtbank Zeeland-West-Brabant , 07-03-2024 / 22/1318, 22/1319, 22/1320 en 22/1337 t/m 22/1339

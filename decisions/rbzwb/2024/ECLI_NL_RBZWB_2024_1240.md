@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1240"
-published_in: ["Rechtspraak.nl", "CFN 2024/25 met annotatie van -", "V-N Vandaag 2024/665", "NDFR Nieuws 2024/560", "NTFR 2024/749 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "Viditax (FutD) 2024032011", "FutD 2024-0742"]
+published_in: ["Rechtspraak.nl", "CFN 2024/25", "V-N Vandaag 2024/665", "NDFR Nieuws 2024/560", "NTFR 2024/749 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "Viditax (FutD) 2024032011", "FutD 2024-0742"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1454, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBZWB:2024:1240 Rechtbank Zeeland-West-Brabant , 13-03-2024 / BRE 21/3979

@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:1989"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/368", "V-N Vandaag 2024/744", "NLF 2024/0815", "NDFR Nieuws 2024/634", "NTFR 2024/794 met annotatie van mr. J.P.W.H.T. Becks, mr. N.P. Arzini", "Viditax (FutD) 2024040214", "FutD 2024-0839"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:191, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2024:1989 Rechtbank Zeeland-West-Brabant , 22-03-2024 / BRE -  23 _ 3064

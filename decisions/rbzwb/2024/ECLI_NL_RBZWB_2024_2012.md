@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2012"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/743", "CFN 2024/31 met annotatie van -", "NLF 2024/0867", "FutD 2024-0848"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/743", "CFN 2024/31", "NLF 2024/0867", "FutD 2024-0848"]
 ---
 
 # ECLI:NL:RBZWB:2024:2012 Rechtbank Zeeland-West-Brabant , 25-03-2024 / 21/3533 t/m 21/3536

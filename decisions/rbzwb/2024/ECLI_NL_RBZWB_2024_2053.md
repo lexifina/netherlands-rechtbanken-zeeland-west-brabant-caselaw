@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2053"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3675, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:2053 Rechtbank Zeeland-West-Brabant , 27-03-2024 / AWB- 24_1604 EN AWB- 24_1465  vv

@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2149"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3474, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBZWB:2024:2149 Rechtbank Zeeland-West-Brabant , 03-04-2024 / BRE 23/891 GEMWT

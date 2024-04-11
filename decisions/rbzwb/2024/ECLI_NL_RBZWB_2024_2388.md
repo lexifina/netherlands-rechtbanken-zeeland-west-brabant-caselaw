@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2388"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/864", "NDFR Nieuws 2024/713", "NLF 2024/1072 met annotatie van Jeroen van Strien", "NTFR 2024/854 met annotatie van mr. F. van Horzen", "Viditax (FutD) 2024041803", "FutD 2024-0956"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/864", "NDFR Nieuws 2024/713", "NLF 2024/1072 met annotatie van dr. J. van Strien", "NTFR 2024/854 met annotatie van mr. F. van Horzen", "Viditax (FutD) 2024041803", "FutD 2024-0956"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1081, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:2388 Rechtbank Zeeland-West-Brabant , 11-04-2024 / 23/4048

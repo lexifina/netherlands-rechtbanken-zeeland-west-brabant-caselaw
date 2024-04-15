@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2452"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0101"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0101", "PR-Updates.nl 2024-0101"]
 ---
 
 # ECLI:NL:RBZWB:2024:2452 Rechtbank Zeeland-West-Brabant , 15-04-2024 / BRE 22/4706

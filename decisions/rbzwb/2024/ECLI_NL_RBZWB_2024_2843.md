@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2843"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1560"]]
 ---
 
 # ECLI:NL:RBZWB:2024:2843 Rechtbank Zeeland-West-Brabant , 02-05-2024 / BRE 24/2435, 24/2437, 24/2594 en 24/2595 GEMWT

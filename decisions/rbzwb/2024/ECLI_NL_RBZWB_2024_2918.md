@@ -1,0 +1,105 @@
+---
+ecli: "ECLI:NL:RBZWB:2024:2918"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "BRE 23/10173"
+decided: "2024-05-06"
+published: "2024-05-03"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:2918"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2024:2918 Rechtbank Zeeland-West-Brabant , 06-05-2024 / BRE 23/10173
+
+## Inhoudsindicatie
+
+8:54; beroep niet-ontvankelijk wegens termijnoverschrijding.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Belastingrecht
+
+zaaknummer: BRE 23/10173
+
+uitspraak van de enkelvoudige kamer van 6 mei 2024 in de zaak tussen
+
+[belanghebbende], uit [plaats], belanghebbende,
+
+en
+
+Het hoofd van de afdeling Belastingen van de gemeente Breda, de heffingsambtenaar.
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over het beroep van belanghebbende tegen de bestreden uitspraak op bezwaar van de heffingsambtenaar van 27 augustus 2023, betreffende de WOZ-beschikking 2023 met [aanslagnummer] voor het object  [adres] te [plaats].
+
+1.1.
+
+Omdat het beroep kennelijk niet-ontvankelijk is, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Beoordeling door de rechtbank
+
+2. De rechtbank komt tot het oordeel dat het beroep kennelijk niet-ontvankelijk is omdat het te laat is ingediend en het te laat indienen niet verschoonbaar is. De rechtbank legt hierna uit hoe zij tot dit oordeel komt.
+
+Toetsingskader
+
+3. Voor het indienen van een beroepschrift geldt een termijn van zes weken. Deze termijn begint op de dag na de dagtekening van de uitspraak op bezwaar. Maar als de dagtekening een datum is vóór de datum waarop de uitspraak op bezwaar is verzonden, begint deze termijn op de dag na de dag van verzending.
+
+Een beroepschrift is op tijd ingediend wanneer het voor het einde van de termijn is ontvangen. Wanneer het beroepschrift (aangetekend of niet-aangetekend) met de gewone post wordt verstuurd, is het bij ontvangst na het einde van de termijn onder voorwaarden ook tijdig ingediend. Die voorwaarden zijn dat het beroepschrift voor het einde van de termijn op de post is gedaan én het niet later dan een week na afloop van de termijn bij de rechtbank is ontvangen. Als op de envelop een leesbaar poststempel is geplaatst, neemt de rechtbank in beginsel aan dat het beroepschrift op die dag op de post is gedaan. De rechtbank wijkt alleen van dit uitgangspunt af als de indiener van het beroepschrift aannemelijk maakt dat het op een eerdere datum op de post is gedaan.
+
+3.1.
+
+Als iemand een beroepschrift te laat indient, verklaart de rechtbank het beroep niet-ontvankelijk. Dat is alleen anders als het niet tijdig indienen van het beroepschrift verontschuldigbaar is. Dan laat de rechtbank niet-ontvankelijkverklaring op grond van die te late indiening achterwege.
+
+Is het beroep te laat ingediend?
+
+4. Vast staat dat de dagtekening van de uitspraak op bezwaar 27 augustus 2023 is. Er is geen aanleiding om aan te nemen dat de verzending ervan later dan die datum heeft plaatsgevonden. De termijn voor het indienen van een beroepschrift eindigde dus op 9 oktober 2023.
+
+4.1.
+
+Belanghebbende heeft het beroepschrift met PostNL verstuurd. Gelet op de poststempel op de envelop gaat de rechtbank ervan uit dat het beroep na het aflopen van de beroepstermijn, namelijk op 12 oktober 2023, op de post is gedaan. Belanghebbende heeft niet aannemelijk gemaakt dat het eerder op de post is gedaan. Het beroepschrift is dus niet tijdig ingediend.
+
+Is het te laat indienen verontschuldigbaar?
+
+5. Belanghebbende heeft hiervoor de volgende reden gegeven. Belanghebbende heeft zich één week vergist in het verlopen van de termijn als gevolg van een zeer hoge werkdruk en is veel aaneengesloten van huis geweest. Belanghebbende stelt tevens dat verweerder zich niet heeft gehouden aan de wettelijke beslistermijn van zes weken.
+
+5.1
+
+De door belanghebbende genoemde redenen zijn geen verontschuldiging voor dit verzuim. Er is geen sprake van niet aan belanghebbende toe te rekenen omstandigheden die tot gevolg hadden dat het beroepschrift na de termijn is ingediend. De rechtbank acht ook geen sprake van geringe verwijtbaarheid aan de zijde van belanghebbende. Het in de gaten houden van termijnen is de verantwoording van belanghebbende. Het vergissen in de datum komt dan ook voor risico van belanghebbende zelf, ook als sprake is van drukke omstandigheden. Daarnaast is het aan belanghebbende om gedurende een langere afwezigheid maatregelen te treffen met betrekking tot zijn post(verwerking). De rechtbank merkt daarbij op dat niet inzichtelijk is gemaakt wanneer belanghebbende exact afwezig is geweest in de beroepstermijn. Met wat belanghebbende heeft aangevoerd is naar het oordeel van de rechtbank niet vast te komen staan dat belanghebbende de gehele periode redelijkerwijs niet in staat was om tijdig (pro forma) beroep in te stellen. Tot slot maakt de omstandigheid dat de heffingsambtenaar zich volgens belanghebbende niet heeft gehouden aan de beslistermijn niet dat de termijnoverschrijding verschoonbaar is.
+
+Conclusie en gevolgen
+
+6. Het beroep is daarom niet-ontvankelijk. Dat betekent dat de rechtbank het beroep niet inhoudelijk beoordeelt en dat het bestreden besluit in stand blijft. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. S.A.J. Bastiaansen, rechter, in aanwezigheid van
+
+mr. W. Dekkers, griffier, op 6 mei 2024 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+De griffier,                                                          De rechter,
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.
+
+Dit volgt uit artikel 6:7 van de Awb.
+
+Dit volgt uit artikel 26c van de Algemene wet inzake rijksbelastingen.
+
+Dit volgt uit artikel 6:9, eerste lid, van de Awb.
+
+Onder gewone post wordt verstaan door PostNL of door ieder ander bij de Autoriteit Consument en Markt geregistreerd postvervoerbedrijf.
+
+Dit volgt uit artikel 6:9, tweede lid, van de Awb.
+
+Dit volgt uit artikel 6:11 van de Awb.

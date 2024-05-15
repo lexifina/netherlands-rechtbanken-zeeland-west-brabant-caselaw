@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:3137"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1098", "NDFR Nieuws 2024/937", "NLF 2024/1259", "NTFR 2024/1066 met annotatie van Mr. A.J. Blank", "Viditax (FutD) 2024051711", "FutD 2024-1150"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2507, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2024:3137 Rechtbank Zeeland-West-Brabant , 15-05-2024 / BRE 23/1230

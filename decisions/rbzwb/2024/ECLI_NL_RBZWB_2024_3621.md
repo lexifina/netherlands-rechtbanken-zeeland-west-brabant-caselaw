@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:3621"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1236", "NDFR Nieuws 2024/1009", "NLF 2024/1360", "V-N 2024/30.11 met annotatie van Redactie", "NTFR 2024/1252 met annotatie van mr. J.C.L.M. Fijen", "Viditax (FutD) 2024060609", "FutD 2024-1289"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1236", "NDFR Nieuws 2024/1009", "NLF 2024/1360", "V-N 2024/30.11", "NTFR 2024/1252 met annotatie van mr. J.C.L.M. Fijen", "Viditax (FutD) 2024060609", "FutD 2024-1289"]
 ---
 
 # ECLI:NL:RBZWB:2024:3621 Rechtbank Zeeland-West-Brabant , 30-05-2024 / BRE - 22 _ 3519

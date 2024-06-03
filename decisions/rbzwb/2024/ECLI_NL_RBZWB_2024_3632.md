@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:3632"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1254", "NDFR Nieuws 2024/1060", "NLF 2024/1451", "NTFR 2024/1129 met annotatie van mr. T.J. Mooij", "Viditax (FutD) 2024061012", "FutD 2024-1338"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1283, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:3632 Rechtbank Zeeland-West-Brabant , 03-06-2024 / BRE 23/10151

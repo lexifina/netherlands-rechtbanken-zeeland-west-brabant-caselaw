@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:4016"
 published_in: ["Rechtspraak.nl", "NLF 2024/1648"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1263, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2024:4016 Rechtbank Zeeland-West-Brabant , 13-06-2024 / 20/9819

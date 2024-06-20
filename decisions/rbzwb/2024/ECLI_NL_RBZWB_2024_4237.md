@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:4237"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1446", "Sdu Nieuws Belastingzaken 2024/770", "NLF 2024/1626", "Viditax (FutD) 2024070102", "FutD 2024-1516"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:947, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:4237 Rechtbank Zeeland-West-Brabant , 20-06-2024 / BRE 23/2934

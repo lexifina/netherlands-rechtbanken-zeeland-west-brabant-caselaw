@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5585"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:1762"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2544"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5585 Rechtbank Zeeland-West-Brabant , 22-07-2024 / C/02/423924 / KG ZA 24-321 (E)

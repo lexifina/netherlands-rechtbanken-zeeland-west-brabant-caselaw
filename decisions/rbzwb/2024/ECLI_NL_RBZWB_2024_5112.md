@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5112"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:1527"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3696"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5112 Rechtbank Zeeland-West-Brabant , 24-07-2024 / C/02/415019 / HA ZA 23-551 (E)

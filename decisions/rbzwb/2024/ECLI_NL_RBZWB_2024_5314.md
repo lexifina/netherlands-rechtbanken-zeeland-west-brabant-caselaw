@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5314"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/907", "V-N Vandaag 2024/1691", "NDFR Nieuws 2024/1393", "NTFR 2024/1524 met annotatie van DR. R.M.P.G. NIESSEN-COBBEN", "Viditax (FutD) 2024080907", "FutD 2024-1751"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1535, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5314 Rechtbank Zeeland-West-Brabant , 31-07-2024 / BRE 22/5997

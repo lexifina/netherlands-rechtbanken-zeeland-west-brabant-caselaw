@@ -1,0 +1,103 @@
+---
+ecli: "ECLI:NL:RBZWB:2024:6776"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "10826525 - MB VERZ 23-465"
+decided: "2024-08-05"
+published: "2024-10-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:6776"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2024:6776 Rechtbank Zeeland-West-Brabant , 05-08-2024 / 10826525 - MB VERZ 23-465
+
+## Inhoudsindicatie
+
+Gedeeltelijk gegrond: beroep tegen verkeersboete, gedraging staat vast, reden om boete te matigen, gedeeltelijk gegrond.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Team strafrecht
+
+Zittingsplaats Middelburg
+
+zaaknummer	: 10826525 \ MB VERZ  23-465
+
+CJIB-nummer	: 3062 5422 4540 7756
+
+uitspraakdatum	: 5 augustus 2024
+
+proces-verbaal van de zitting en uitspraak op een beroep op grond van de Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)
+
+in de zaak van
+
+naam		: [betrokkene]
+
+[adres]
+
+[woonplaats]
+
+hierna: betrokkene
+
+Verloop van de procedure
+
+Aan betrokkene is een administratieve sanctie (hierna: boete) opgelegd. Betrokkene heeft daartegen beroep ingesteld bij de officier van justitie. De officier van justitie heeft het beroep ongegrond verklaard. Tegen die beslissing is door betrokkene beroep ingesteld bij de kantonrechter.
+
+De zaak is behandeld op de zitting van 5 augustus 2024. Namens de officier van justitie is verschenen mr. A. de Vreeze (hierna: zittingsvertegenwoordiger). Betrokkene is niet verschenen. De kantonrechter heeft op de zitting uitspraak gedaan.
+
+Standpunten
+
+De gedraging waarvoor de boete is opgelegd luidt, kort omschreven: als bestuurder van een voertuig rijden, terwijl het kenteken niet goed leesbaar is op de Noordsingel te Middelburg op 22 oktober 2021 om 11:51 uur.
+
+Betrokkene heeft in het beroepschrift samengevat aangevoerd dat de boete onterecht is, omdat hij van de verbalisant een waarschuwing had gekregen.
+
+De zittingsvertegenwoordiger heeft verzocht het beroep inhoudelijk ongegrond te verklaren, omdat de gedraging kan worden vastgesteld. Uit de foto in het dossier blijkt dat het kenteken niet goed leesbaar was ten tijde van de gedraging. Betrokkene dacht dat hij een waarschuwing kreeg, maar een verbalisant heeft een discretionaire bevoegdheid en heeft een keuze om een waarschuwing te geven of om een boete op te leggen. Tijdens de constatering van deze gedraging heeft de verbalisant gekozen om een boete op te leggen. Betrokkene is bij de officier van justitie niet gewezen op het recht om gehoord te worden. De zittingsvertegenwoordiger verzoekt de boete te matigen met 25% aangezien er sprake is geweest van schending van de hoorplicht. Ook de redelijke termijn is overschreden waardoor de zittingsvertegenwoordiger verzoekt de boete nogmaals te matigen met 25%.
+
+Overwegingen
+
+Termijnoverschrijding kantonrechter
+
+Betrokkene heeft het beroep bij de kantonrechter te laat ingesteld. Voor het instellen van beroep geldt op grond van artikel 6:7 van de Algemene wet bestuursrecht (Awb) een termijn van zes weken. Die termijn eindigde in dit geval op 4 mei 2022. Het beroepschrift is echter pas op 6 mei 2022 ontvangen. Dat is te laat. Artikel 6:11 van de Awb bepaalt - kort gezegd - dat een te laat ingesteld beroep tóch ontvankelijk kan zijn, wanneer het de betrokkene niet kan worden toegerekend dat te laat beroep is ingesteld.
+
+In de uitnodiging voor de zitting is betrokkene erop gewezen dat als het beroep te laat is ingediend en daarvoor geen geldige reden is aangevoerd, het beroep niet-ontvankelijk kan worden verklaard. Betrokkene is niet verschenen op de zitting. De kantonrechter is echter van oordeel dat er sprake is van een erg kleine termijnoverschrijding van twee dagen. De kantonrechter passeert de termijnoverschrijding. De kantonrechter zal vervolgens het beroep tegen de boete inhoudelijk beoordelen.
+
+Inhoudelijk
+
+De kantonrechter is van oordeel dat uit de stukken in het dossier - met name uit de verklaring van de verbalisant - voldoende blijkt dat de gedraging waarvoor de boete is opgelegd, is verricht. Betrokkene heeft de gedraging ook niet betwist. De boete is dus terecht opgelegd. De kantonrechter ziet in wat betrokkene heeft aangevoerd geen aanleiding om de boete te matigen en neemt daarbij het standpunt van de zittingsvertegenwoordiger over.
+
+Schending hoorplicht
+
+Betrokkene heeft, zonder tussenkomst van een gemachtigde, beroep aangetekend bij de officier van justitie. De officier van justitie heeft betrokkene niet in de gelegenheid gesteld om te worden gehoord. Dit is in strijd met de wet, omdat niet is voldaan aan de wettelijke voorwaarden om van horen af te zien. Volgens vaste rechtspraak dient dit te leiden tot vernietiging van de beslissing van de officier van justitie op het administratief beroep. Het beroep tegen die beslissing is om die reden gegrond.
+
+De kantonrechter ziet verder reden de boete te matigen met 25%, omdat sprake is van een structurele schending van de hoorplicht (zie het arrest van het gerechtshof Arnhem-Leeuwarden, ECLI:NL:GHARL:2022:9934). Het beroep tegen de inleidende beschikking is gelet hierop gedeeltelijk gegrond en die beschikking zal worden gewijzigd.
+
+Overschrijding redelijke termijn
+
+Een ieder heeft recht op behandeling van zijn rechtszaak binnen een redelijke termijn (artikel 6, lid 1 van het EVRM). Volgens vaste rechtspraak van het gerechtshof Arnhem-Leeuwarden (ECLI:GHARL:2017:1777) is sprake van schending van die redelijke termijn van berechting wanneer de procedure bij de officier van justitie en de kantonrechter tezamen langer dan twee jaar heeft geduurd. Deze termijn vangt aan bij het opleggen van de boete.
+
+In dit geval is de boete opgelegd op 22 oktober 2021 en is de redelijke termijn dus met meer dan negen maanden overschreden. Omdat sprake is van een overschrijding zal de kantonrechter de boete matigen met 25% (zie ECLI:NL:GHARL:2023:6369). Het beroep is dus gedeeltelijk gegrond. De beslissing van de officier van justitie zal worden gewijzigd.
+
+Het bedrag dat betrokkene te veel aan zekerheid heeft betaald moet door de officier van justitie worden terugbetaald.
+
+Beslissing
+
+De kantonrechter:
+
+verklaart het beroep tegen de beslissing van de officier van justitie op het administratief beroep gegrond en vernietigt die beslissing;
+
+verklaart het beroep tegen de inleidende beschikking gedeeltelijk gegrond en wijzigt de inleidende beschikking in zoverre dat het bedrag van de boete wordt gewijzigd in
+
+€ 56,25 plus € 9,- administratiekosten;
+
+- draagt de officier van justitie op het bedrag van € 43,75 dat betrokkene te veel als zekerheidstelling heeft betaald, aan betrokkene terug te betalen.
+
+Deze uitspraak is gedaan door mr. R.J.H. de Brouwer, kantonrechter, bijgestaan door de griffier X.L.C.M. van Sprundel, en in het openbaar uitgesproken op 5 augustus 2024.
+
+Tegen deze beslissing in geen hoger beroep mogelijk.
+
+Datum verzending:

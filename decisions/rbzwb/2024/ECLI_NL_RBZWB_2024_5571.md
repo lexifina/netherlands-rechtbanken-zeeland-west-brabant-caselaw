@@ -10,6 +10,7 @@ procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5571"
 published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2024-0161", "FJR 2024/69.32"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2687"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5571 Rechtbank Zeeland-West-Brabant , 14-08-2024 / C/02/419636 / HA ZA 24-115

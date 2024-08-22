@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5853"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1798", "NDFR Nieuws 2024/1473", "CFN 2024/88 met annotatie van -", "NLF 2024/2049 met annotatie van Nick van den Hoek", "NTFR 2024/1658 met annotatie van mr. T.A.D. van Wordragen", "Viditax (FutD) 2024091002", "FutD 2024-1963"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1798", "NDFR Nieuws 2024/1473", "CFN 2024/88", "NLF 2024/2049 met annotatie van Nick van den Hoek", "NTFR 2024/1658 met annotatie van mr. T.A.D. van Wordragen", "Viditax (FutD) 2024091002", "FutD 2024-1963"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2879, Overig"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5853 Rechtbank Zeeland-West-Brabant , 22-08-2024 / BRE 21/908

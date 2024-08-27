@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:5993"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5682, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:5993 Rechtbank Zeeland-West-Brabant , 27-08-2024 / 23/10220

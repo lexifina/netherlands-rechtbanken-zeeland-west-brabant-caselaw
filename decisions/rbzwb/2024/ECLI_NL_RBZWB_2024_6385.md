@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:6385"
 published_in: ["Rechtspraak.nl", "JBP 2024/138"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2024:5323, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2024:5323, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4134, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:6385 Rechtbank Zeeland-West-Brabant , 03-09-2024 / BRE 23/8881 WET en BRE 24/1164 AVG

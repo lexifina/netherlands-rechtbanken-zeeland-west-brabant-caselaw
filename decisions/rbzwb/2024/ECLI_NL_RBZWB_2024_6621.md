@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:6621"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2074", "NLF 2024/2364"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1799, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:6621 Rechtbank Zeeland-West-Brabant , 26-09-2024 / 23/1992

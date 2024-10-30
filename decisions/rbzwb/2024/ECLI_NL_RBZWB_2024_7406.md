@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:7406"
 published_in: ["Rechtspraak.nl", "Prg. 2025/3"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1578"]]
 ---
 
 # ECLI:NL:RBZWB:2024:7406 Rechtbank Zeeland-West-Brabant , 30-10-2024 / C/02/409767 / HA ZA 23-284

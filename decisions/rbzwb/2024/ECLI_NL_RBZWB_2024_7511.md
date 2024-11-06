@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:7511"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2307", "NLF 2024/2610 met annotatie van Erik Swaving Dijkstra", "Viditax (FutD) 2024111102", "FutD 2024-2400"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1842, Overig"]]
 ---
 
 # ECLI:NL:RBZWB:2024:7511 Rechtbank Zeeland-West-Brabant , 06-11-2024 / BRE - 21 _ 4638 t/m 21 _ 4640 en 23 _ 196

@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:7896"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2443"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1716, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2024:7896 Rechtbank Zeeland-West-Brabant , 15-11-2024 / 24/780

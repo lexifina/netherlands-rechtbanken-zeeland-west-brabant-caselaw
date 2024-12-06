@@ -10,6 +10,7 @@ procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:8383"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5289"]]
 ---
 
 # ECLI:NL:RBZWB:2024:8383 Rechtbank Zeeland-West-Brabant , 06-12-2024 / C/02/422339 / JE RK 24-883 en C/02/428336 / JE RK 24-1192

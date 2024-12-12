@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:8498"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5842"]]
 ---
 
 # ECLI:NL:RBZWB:2024:8498 Rechtbank Zeeland-West-Brabant , 12-12-2024 / AWB 24/4101

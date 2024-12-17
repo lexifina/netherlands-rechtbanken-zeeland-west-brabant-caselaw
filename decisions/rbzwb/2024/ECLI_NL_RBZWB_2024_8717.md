@@ -10,6 +10,7 @@ procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:8717"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1519"]]
 ---
 
 # ECLI:NL:RBZWB:2024:8717 Rechtbank Zeeland-West-Brabant , 17-12-2024 / 02-281681-23

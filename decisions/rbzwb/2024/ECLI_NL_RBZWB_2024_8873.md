@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:8873"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010218", "FutD 2025-0019", "V-N Vandaag 2025/7", "NDFR Nieuws 2025/83", "NLF 2025/0106", "CFN 2025/06 met annotatie van -", "NTFR 2025/347 met annotatie van mr. W.H.R. Grünewald"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010218", "FutD 2025-0019", "V-N Vandaag 2025/7", "NDFR Nieuws 2025/83", "NLF 2025/0106", "CFN 2025/06", "NTFR 2025/347 met annotatie van mr. W.H.R. Grünewald"]
 ---
 
 # ECLI:NL:RBZWB:2024:8873 Rechtbank Zeeland-West-Brabant , 19-12-2024 / 20/10159, 20/10160, 21/779, 21/780 en 21/782

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9078"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/74"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/74", "FJR 2026/9.18"]
 ---
 
 # ECLI:NL:RBZWB:2024:9078 Rechtbank Zeeland-West-Brabant , 27-12-2024 / C/02/421193 / FA RK 24-1730
@@ -146,7 +146,7 @@ De moeder heeft alleen het ouderlijk gezag over [minderjarige] .
 
 3.5.
 
-De heer [naam] is op 23 oktober 2019 in [woonplaats 2] overleden.
+De heer [naam] is op [datum] 2019 in [woonplaats 2] overleden.
 
 3.6.
 
@@ -288,7 +288,7 @@ Hoewel de moeder dus een keuze kan maken over de geslachtsnaam van [minderjarige
 
 7.18.
 
-Gelet op alles wat hierboven is gezegd, zal de rechter in deze uitspraak opnemen dat de moeder en [minderjarige] hebben gezegd dat [minderjarige] de geslachtsnaam “ [geslachtsnaam] ” wil hebben. De Ambtenaar van de Burgerlijke Stand van de gemeente Tilburg zal deze verklaring ook gaan verwerken in een bijlage van de geboorteakte van [minderjarige] .
+Gelet op alles wat hierboven is gezegd, zal de rechter in deze uitspraak opnemen dat de moeder en [minderjarige] hebben gezegd dat [minderjarige] de geslachtsnaam “ [geslachtsnaam] ” wil hebben. De Ambtenaar van de Burgerlijke Stand van de gemeente [plaats 1] zal deze verklaring ook gaan verwerken in een bijlage van de geboorteakte van [minderjarige] .
 
 Beëindiging taak van de bijzondere curator
 
@@ -296,11 +296,11 @@ Beëindiging taak van de bijzondere curator
 
 De bijzondere curator is door de rechtbank benoemd om [minderjarige] te helpen om de verzoeken in deze zaak in te dienen. Omdat deze procedure nu afgelopen is, zal de rechter de taak van de bijzondere curator als beëindigd beschouwen. Dit betekent dat de bijzondere curator haar taak heeft afgerond. Als iemand in hoger beroep gaat bij het gerechtshof, dan herleeft de taak van de bijzondere curator.
 
-Toesturen van deze beschikking aan de Ambtenaar van de Burgerlijke Stand in de gemeente Tilburg
+Toesturen van deze beschikking aan de Ambtenaar van de Burgerlijke Stand in de gemeente [plaats 1]
 
 7.20.
 
-Als iemand het niet eens is met deze uitspraak, kan iemand hoger beroep instellen. Dit betekent dat een hogere rechter wordt gevraagd om de zaak opnieuw te beoordelen en te beslissen. Als niemand hoger beroep instelt, dan zal de rechter deze beschikking over drie maanden toesturen naar de Ambtenaar van de Burgerlijke Stand van de gemeente Tilburg . Hoewel er hoogstwaarschijnlijk niemand in hoger beroep zal gaan (omdat iedereen die bij de mondelinge behandeling aanwezig was dezelfde uitkomst wilde), moet deze termijn toch worden afgewacht. De rechter kan de beschikking daarom niet op een eerder moment naar de gemeente sturen. Het zal daarom nog een aantal maanden duren voordat de vaststelling van het ouderschap en de wijziging van de geslachtsnaam bij de gemeente kan worden verwerkt.
+Als iemand het niet eens is met deze uitspraak, kan iemand hoger beroep instellen. Dit betekent dat een hogere rechter wordt gevraagd om de zaak opnieuw te beoordelen en te beslissen. Als niemand hoger beroep instelt, dan zal de rechter deze beschikking over drie maanden toesturen naar de Ambtenaar van de Burgerlijke Stand van de gemeente [plaats 1] . Hoewel er hoogstwaarschijnlijk niemand in hoger beroep zal gaan (omdat iedereen die bij de mondelinge behandeling aanwezig was dezelfde uitkomst wilde), moet deze termijn toch worden afgewacht. De rechter kan de beschikking daarom niet op een eerder moment naar de gemeente sturen. Het zal daarom nog een aantal maanden duren voordat de vaststelling van het ouderschap en de wijziging van de geslachtsnaam bij de gemeente kan worden verwerkt.
 
 Tot slot
 
@@ -339,7 +339,7 @@ verstaat, na het in kracht van gewijsde gaan van deze beslissing, dat [minderjar
 
 8.3.
 
-bepaalt dat de griffier van deze rechtbank, wanneer de beslissing tot vaststelling ouderschap in kracht van gewijsde is gegaan, een afschrift van deze beschikking zal doen toekomen aan de ambtenaar van de burgerlijke stand van de gemeente Tilburg , om daarin aantekening te doen van deze beschikking;
+bepaalt dat de griffier van deze rechtbank, wanneer de beslissing tot vaststelling ouderschap in kracht van gewijsde is gegaan, een afschrift van deze beschikking zal doen toekomen aan de ambtenaar van de burgerlijke stand van de gemeente [plaats 1] , om daarin aantekening te doen van deze beschikking;
 
 8.4.
 

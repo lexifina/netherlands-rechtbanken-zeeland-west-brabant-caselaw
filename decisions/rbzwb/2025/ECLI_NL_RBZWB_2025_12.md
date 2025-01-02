@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBZWB:2025:12"
 court: "Rechtbank Zeeland-West-Brabant"
 court_code: "RBZWB"
-docket: "BRE 24/1179"
+docket: "24/1180"
 decided: "2025-01-02"
 published: "2025-01-06"
 type: "uitspraak"
@@ -10,9 +10,10 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:12"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2281"]]
 ---
 
-# ECLI:NL:RBZWB:2025:12 Rechtbank Zeeland-West-Brabant , 02-01-2025 / BRE 24/1179; 24/1180 ; 24/1181
+# ECLI:NL:RBZWB:2025:12 Rechtbank Zeeland-West-Brabant , 02-01-2025 / 24/1180 ; 24/1181; BRE 24/1179
 
 ## Inhoudsindicatie
 

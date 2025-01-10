@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:105"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025011605", "FutD 2025-0132", "V-N Vandaag 2025/130", "V-N 2025/10.23 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025011605", "FutD 2025-0132", "V-N Vandaag 2025/130", "V-N 2025/10.23"]
 ---
 
 # ECLI:NL:RBZWB:2025:105 Rechtbank Zeeland-West-Brabant , 10-01-2025 / BRE 24/1355

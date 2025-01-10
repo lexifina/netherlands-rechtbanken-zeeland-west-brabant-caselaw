@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:185"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020315", "V-N Vandaag 2025/207", "FutD 2025-0309", "NDFR Nieuws 2025/234", "NTFR 2025/675 met annotatie van mr. T.J. Droog"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1721, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1711, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:185 Rechtbank Zeeland-West-Brabant , 10-01-2025 / BRE 24/1996 tot en met 24/2000 en BRE 24/2000 tot en met 24/2006

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:380"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "O&A 2025/67"]
 ---
 
 # ECLI:NL:RBZWB:2025:380 Rechtbank Zeeland-West-Brabant , 14-01-2025 / C/02/425535 / FA RK 24-3711

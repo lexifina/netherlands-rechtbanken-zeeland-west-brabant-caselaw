@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:389"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:1055"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2688"]]
 ---
 
 # ECLI:NL:RBZWB:2025:389 Rechtbank Zeeland-West-Brabant , 15-01-2025 / 11429596 VV EXPL 24-85 (E)

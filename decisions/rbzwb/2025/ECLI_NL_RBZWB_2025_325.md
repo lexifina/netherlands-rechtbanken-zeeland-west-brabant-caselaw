@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:325"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012805", "V-N Vandaag 2025/150", "Sdu Nieuws Belastingzaken 2025/99", "FutD 2025-0220", "NDFR Nieuws 2025/197", "NLF 2025/0426 met annotatie van Recep Bagci", "NTFR 2025/480 met annotatie van Mr. A.J.W. van Opzeeland"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012805", "V-N Vandaag 2025/150", "Sdu Nieuws Belastingzaken 2025/99", "FutD 2025-0220", "NDFR Nieuws 2025/197", "NLF 2025/0426 met annotatie van mr. R. Bagci", "NTFR 2025/480 met annotatie van Mr. A.J.W. van Opzeeland"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1261, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2025:325 Rechtbank Zeeland-West-Brabant , 23-01-2025 / BRE 24/1720

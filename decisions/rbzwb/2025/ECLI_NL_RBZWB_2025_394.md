@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:394"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025013009", "FutD 2025-0229", "NLF 2025/0279", "V-N Vandaag 2025/235", "NDFR Nieuws 2025/250", "NTFR 2025/430 met annotatie van J.N. Konijn MSc"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1844, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2025:394 Rechtbank Zeeland-West-Brabant , 27-01-2025 / 23/10071

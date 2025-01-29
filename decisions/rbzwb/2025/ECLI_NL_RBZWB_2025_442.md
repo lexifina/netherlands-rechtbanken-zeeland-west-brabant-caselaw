@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:442"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020407", "V-N Vandaag 2025/237", "FutD 2025-0286", "NDFR Nieuws 2025/230", "NLF 2025/0354", "NTFR 2025/383 met annotatie van mr. J.C.L.M. Fijen"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1644, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:442 Rechtbank Zeeland-West-Brabant , 29-01-2025 / 23/8906

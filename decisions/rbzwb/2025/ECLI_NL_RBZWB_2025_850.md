@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:850"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032405", "V-N Vandaag 2025/604", "NLF 2025/0723", "NDFR Nieuws 2025/589", "FutD 2025-0726"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032405", "V-N Vandaag 2025/604", "NLF 2025/0723", "NDFR Nieuws 2025/589", "FutD 2025-0726", "NTFR 2025/889 met annotatie van mr. M. Rang"]
 ---
 
 # ECLI:NL:RBZWB:2025:850 Rechtbank Zeeland-West-Brabant , 03-02-2025 / 23/8965 tot en met 23/8967

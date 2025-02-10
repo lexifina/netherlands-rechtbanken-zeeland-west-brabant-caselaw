@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:664"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/308", "NDFR Nieuws 2025/279", "NLF 2025/0418"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2611, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:664 Rechtbank Zeeland-West-Brabant , 10-02-2025 / BRE 24/3787 tot en met BRE 24/3891 en BRE 24/8177

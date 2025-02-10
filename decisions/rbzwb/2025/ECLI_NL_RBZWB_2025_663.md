@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:663"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025021203", "FutD 2025-0358", "NDFR Nieuws 2025/280", "NLF 2025/0388", "NTFR 2025/434 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025021203", "FutD 2025-0358", "NDFR Nieuws 2025/280", "NLF 2025/0388", "NTFR 2025/434"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1234, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBZWB:2025:663 Rechtbank Zeeland-West-Brabant , 10-02-2025 / BRE 23/10941, 23/10942, 24/6657 en 24/6658

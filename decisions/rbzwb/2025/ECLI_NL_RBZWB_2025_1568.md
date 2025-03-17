@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1568"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2025/101"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3333, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:1568 Rechtbank Zeeland-West-Brabant , 17-03-2025 / AWB 23_8985

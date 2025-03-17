@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1525"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032007", "FutD 2025-0616", "NLF 2025/0658", "V-N Vandaag 2025/592", "NDFR Nieuws 2025/628", "Belastingadvies 2025/9.7"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032007", "FutD 2025-0616", "NLF 2025/0658", "V-N Vandaag 2025/592", "NDFR Nieuws 2025/628", "Belastingadvies 2025/9.7", "NTFR 2025/890 met annotatie van I. Ahmed LLM"]
 ---
 
 # ECLI:NL:RBZWB:2025:1525 Rechtbank Zeeland-West-Brabant , 17-03-2025 / BRE - 24 _ 5274

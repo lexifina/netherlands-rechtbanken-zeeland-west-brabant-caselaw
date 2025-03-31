@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1811"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040413", "V-N Vandaag 2025/703", "FutD 2025-0799", "NDFR Nieuws 2025/679", "NLF 2025/0840", "NTFR 2025/846 met annotatie van mr. dr. B.M.M. Didden"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:740, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:1811 Rechtbank Zeeland-West-Brabant , 31-03-2025 / BRE 34/3501

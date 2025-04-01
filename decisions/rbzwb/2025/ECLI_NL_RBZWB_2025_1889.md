@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:1889"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040709", "V-N Vandaag 2025/743", "FutD 2025-0783", "NDFR Nieuws 2025/709"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040709", "V-N Vandaag 2025/743", "FutD 2025-0783", "NDFR Nieuws 2025/709", "NTFR 2025/891 met annotatie van mr. E.H.A.M. Thijssen"]
 ---
 
 # ECLI:NL:RBZWB:2025:1889 Rechtbank Zeeland-West-Brabant , 01-04-2025 / 24/2854

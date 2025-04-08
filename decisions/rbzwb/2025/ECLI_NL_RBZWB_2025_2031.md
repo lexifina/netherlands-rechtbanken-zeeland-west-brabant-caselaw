@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2031"
-published_in: ["Rechtspraak.nl", "Notamail 2025/80", "Viditax (FutD) 2025041406", "V-N Vandaag 2025/769", "FutD 2025-0823", "NLF 2025/0885", "NDFR Nieuws 2025/723"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/80", "Viditax (FutD) 2025041406", "V-N Vandaag 2025/769", "FutD 2025-0823", "NLF 2025/0885", "NDFR Nieuws 2025/723", "NTFR 2025/882 met annotatie van Y. Saïdi"]
 ---
 
 # ECLI:NL:RBZWB:2025:2031 Rechtbank Zeeland-West-Brabant , 08-04-2025 / 21/5051

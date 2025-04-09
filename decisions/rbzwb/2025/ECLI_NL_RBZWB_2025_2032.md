@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2032"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025041408", "V-N Vandaag 2025/770", "FutD 2025-0834", "NDFR Nieuws 2025/747"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025041408", "V-N Vandaag 2025/770", "FutD 2025-0834", "NDFR Nieuws 2025/747", "NTFR 2025/893 met annotatie van mr. drs. J. Gruson"]
 ---
 
 # ECLI:NL:RBZWB:2025:2032 Rechtbank Zeeland-West-Brabant , 09-04-2025 / 23/10921 en 23/10922

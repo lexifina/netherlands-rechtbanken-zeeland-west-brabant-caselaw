@@ -30,7 +30,7 @@ zaaknummers: BRE 23/2516 tot en met 23/2519
 
 uitspraak van de enkelvoudige kamer van 10 april 2025 in de zaken tussen
 
-[belanghebbende], uit [plaats], belanghebbende
+[belanghebbende] , uit [plaats] , belanghebbende
 
 (gemachtigde: mr. M.C.J. Schoenmakers),
 
@@ -60,7 +60,7 @@ De inspecteur heeft de bezwaren van belanghebbende ongegrond verklaard.
 
 1.5.
 
-De rechtbank heeft de beroepen op 27 februari 2025 op zitting behandeld. Hieraan hebben deelgenomen namens de inspecteur mr. [inspecteur 1] en mr. [inspecteur 2]. Belanghebbende en zijn gemachtigde hebben zich afgemeld voor de zitting.
+De rechtbank heeft de beroepen op 27 februari 2025 op zitting behandeld. Hieraan hebben deelgenomen namens de inspecteur mr. [inspecteur 1] en mr. [inspecteur 2] . Belanghebbende en zijn gemachtigde hebben zich afgemeld voor de zitting.
 
 Beoordeling door de rechtbank
 
@@ -72,11 +72,11 @@ Naar het oordeel van de rechtbank slagen de beroepen van belanghebbende niet en 
 
 Feiten
 
-3. Belanghebbende was in de onderhavige jaren bestuurder en enig aandeelhouder van Your Concept Holding B.V. (Holding). Daarnaast was hij bestuurder en enig aandeelhouder van [B.V. 1]. ([B.V. 1]). Deze rechtspersoon is bestuurder en enig aandeelhouder van [B.V. 2]. ([B.V. 2]).
+3. Belanghebbende was in de onderhavige jaren bestuurder en enig aandeelhouder van [B.V. 1] ([B.V. 1]). Daarnaast was hij bestuurder en enig aandeelhouder van [B.V. 2] . ( [B.V. 2] ). Deze rechtspersoon is bestuurder en enig aandeelhouder van [B.V. 3] . ( [B.V. 3] ).
 
 3.1.
 
-[B.V. 2] heeft in de periode van 15 januari 2014 tot en met 23 april 2015 een Ferrari 412 met kenteken [B.V. 2] op naam (de auto). De auto is gekocht voor € 21.000. De datum eerste toelating van de auto is 20 juni 1986.
+[B.V. 3] heeft in de periode van 15 januari 2014 tot en met 23 april 2015 een Ferrari 412 met [kenteken] op naam (de auto). De auto is gekocht voor € 21.000. De datum eerste toelating van de auto is 20 juni 1986.
 
 3.2.
 
@@ -184,7 +184,7 @@ Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift s
 
 Digitaal hoger beroep instellen kan via “Formulieren en inloggen” op www.rechtspraak.nl. Hoger beroep instellen kan eventueel ook nog steeds door verzending van een brief aan het gerechtshof ‘s-Hertogenbosch (belastingkamer), Postbus 70583, 5201 CZ 's-Hertogenbosch.
 
-Vgl. Hoge Raad 1 april 2005, ECLI:NL:HR:2005:AR6000 (https://www.inview.nl/document/inod3eb5ff755e5833ee8f4d761325a61bd5).
+Vgl. Hoge Raad 1 april 2005, ECLI:NL:HR:2005:AR6000.
 
 Artikel 13bis, eerste lid, tweede volzin van de Wet LB.
 

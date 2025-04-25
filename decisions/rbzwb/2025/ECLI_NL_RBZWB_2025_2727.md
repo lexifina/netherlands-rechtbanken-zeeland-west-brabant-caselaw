@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2727"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3654, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2025:2727 Rechtbank Zeeland-West-Brabant , 25-04-2025 / BRE 24/1958

@@ -10,6 +10,7 @@ procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:2649"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2996"]]
 ---
 
 # ECLI:NL:RBZWB:2025:2649 Rechtbank Zeeland-West-Brabant , 02-05-2025 / 02-354257-24, 02-245770-24 en 15-266699-24

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:3739"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0740", "AR-Updates.nl 2025-0740", "PJ 2025/87"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0740", "AR-Updates.nl 2025-0740", "PJ 2025/87", "PR-Updates.nl 2025-0110"]
 ---
 
 # ECLI:NL:RBZWB:2025:3739 Rechtbank Zeeland-West-Brabant , 11-06-2025 / 11376393 \ CV EXPL  24-3943 (E)

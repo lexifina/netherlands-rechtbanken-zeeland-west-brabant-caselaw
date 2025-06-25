@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:3942"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBZWB:2026:4035"]]
 ---
 
 # ECLI:NL:RBZWB:2025:3942 Rechtbank Zeeland-West-Brabant , 25-06-2025 / 23/11738

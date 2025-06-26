@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:3969"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3338"]]
 ---
 
 # ECLI:NL:RBZWB:2025:3969 Rechtbank Zeeland-West-Brabant , 26-06-2025 / C/02/435285 / KG ZA 25-220

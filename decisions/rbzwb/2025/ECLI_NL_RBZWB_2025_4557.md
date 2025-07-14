@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:4557"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025072102", "NLF 2025/1543", "FutD 2025-1521", "V-N Vandaag 2025/1540", "NDFR Nieuws 2025/1224", "V-N 2025/40.1.3", "NTFR 2025/1811 met annotatie van mr. O. Eroglu"]
+relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2026:1013"]]
 ---
 
 # ECLI:NL:RBZWB:2025:4557 Rechtbank Zeeland-West-Brabant , 14-07-2025 / 24/6239 t/m 24/6242

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:9784"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RAV 2026/40"]
 ---
 
 # ECLI:NL:RBZWB:2025:9784 Rechtbank Zeeland-West-Brabant , 12-08-2025 / C/02/435200 / HA RK 25-111

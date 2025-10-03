@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6630"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4857, Niet bevoegd"]]
 ---
 
 # ECLI:NL:RBZWB:2025:6630 Rechtbank Zeeland-West-Brabant , 03-10-2025 / 25/4717 en 25/4032

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:8124"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0075", "RAR 2026/60"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0075", "RAR 2026/60", "VAAN-AR-Updates.nl 2026-0075"]
 ---
 
 # ECLI:NL:RBZWB:2025:8124 Rechtbank Zeeland-West-Brabant , 22-10-2025 / 11775267 AZ VERZ 25-49 (E)

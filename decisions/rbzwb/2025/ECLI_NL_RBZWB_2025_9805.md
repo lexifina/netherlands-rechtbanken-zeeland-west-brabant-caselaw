@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verzet"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:9805"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/303"]
 ---
 
 # ECLI:NL:RBZWB:2025:9805 Rechtbank Zeeland-West-Brabant , 12-11-2025 / 11488261 CV EXPL 25-230 (T)

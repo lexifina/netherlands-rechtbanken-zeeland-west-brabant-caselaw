@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:8727"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0042", "VAAN-AR-Updates.nl 2026-0193", "AR-Updates.nl 2026-0193"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0042", "VAAN-AR-Updates.nl 2026-0193", "AR-Updates.nl 2026-0193", "Jurisprudentie HSE 2026/4"]
 ---
 
 # ECLI:NL:RBZWB:2025:8727 Rechtbank Zeeland-West-Brabant , 26-11-2025 / 11506949 \ CV EXPL 25-366

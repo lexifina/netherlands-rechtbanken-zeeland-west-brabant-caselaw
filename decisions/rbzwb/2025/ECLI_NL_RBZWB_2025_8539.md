@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:8539"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/69.28"]
 ---
 
 # ECLI:NL:RBZWB:2025:8539 Rechtbank Zeeland-West-Brabant , 08-12-2025 / 02-436021 FA RK 25-2803

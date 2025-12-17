@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:9107"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/56"]
 ---
 
 # ECLI:NL:RBZWB:2025:9107 Rechtbank Zeeland-West-Brabant , 17-12-2025 / C/02/426684 / HA ZA 24-522 (E)

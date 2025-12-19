@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:9131"
-published_in: ["Rechtspraak.nl", "TBR 2026/42 met annotatie van R. Kegge", "AB 2026/92 met annotatie van Redactie, T.H. Steinmann"]
+published_in: ["Rechtspraak.nl", "TBR 2026/42 met annotatie van R. Kegge", "AB 2026/92 met annotatie van T.H. Steinmann"]
 ---
 
 # ECLI:NL:RBZWB:2025:9131 Rechtbank Zeeland-West-Brabant , 19-12-2025 / BRE 25/1076 en 25/1359

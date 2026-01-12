@@ -1,0 +1,87 @@
+---
+ecli: "ECLI:NL:RBZWB:2026:91"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "BRE 24/2707 en 24/2709 t/m 24/2712"
+decided: "2026-01-12"
+published: "2026-01-12"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:91"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2026:91 Rechtbank Zeeland-West-Brabant , 12-01-2026 / BRE 24/2707 en 24/2709 t/m 24/2712
+
+## Inhoudsindicatie
+
+8:54; Niet-ontvankelijk, omdat gesteld gemachtigde geen uittreksel uit het handelsregister heeft overgelegd op basis waarvan vastgesteld kan worden of de machtiging is afgegeven door een daartoe bevoegd persoon.
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Belastingrecht
+
+zaaknummers: BRE 24/2707 en 24/2709 tot en met 24/2712
+
+uitspraak van de enkelvoudige kamer van 12 januari 2026 in de zaak tussen
+
+[belanghebbende 1] B.V. en [belanghebbende 2] B.V., uit [woonplaats] , belanghebbende
+
+(gesteld gemachtigde: mr. J. Linssen),
+
+en
+
+de inspecteur van de Belastingdienst, de inspecteur.
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over de beroepen van belanghebbende tegen de bestreden uitspraken op bezwaar van de inspecteur van 19 januari 2024. De beroepen zien op de naheffingsaanslagen omzetbelasting en bij de beschikkingen opgelegde boetes over de tijdvakken 2016, 2017, 2018, 2019 en 2020 met aanslagnummers [aanslagnummer] F.01.6501, [aanslagnummer] F.01.7501, [aanslagnummer] F.01.8501, [aanslagnummer] F.01.9501 en [aanslagnummer] F.01.0501.
+
+1.1.
+
+Omdat de beroepen kennelijk niet-ontvankelijk zijn, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Beoordeling door de rechtbank
+
+2. De rechtbank komt tot het oordeel dat de beroepen kennelijk niet-ontvankelijk zijn omdat gesteld gemachtigde geen uittreksel uit het handelsregister van [belanghebbende 2] B.V. heeft overgelegd op basis waarvan zij zou kunnen vaststellen of de machtiging is afgegeven door een daartoe bevoegd persoon, en gesteld gemachtigde dat verzuim niet tijdig heeft hersteld. De rechtbank legt hierna uit hoe zij tot dit oordeel komt.
+
+Toetsingskader
+
+3. Iemand die namens een ander beroep instelt, moet op verzoek van de rechtbank een machtiging indienen om aan te tonen dat hij namens die ander beroep mag instellen. Als dat niet gebeurt, kan de rechtbank het beroep niet-ontvankelijk verklaren.
+
+Is een juiste machtiging overgelegd?
+
+4. Het beroepschrift is ingediend door gesteld gemachtigde. Hij vermeldt daarin dat hij de gemachtigde is van belanghebbende. Hij heeft bij het beroepschrift echter geen machtiging bijgevoegd waaruit blijkt dat hij gemachtigd is om deze beroepen in te stellen namens belanghebbende. Daarnaast is belanghebbende een niet-natuurlijk persoon en heeft gesteld gemachtigde geen uittreksel van inschrijving in het handelsregister bij de Kamer van Koophandel ingediend waaruit blijkt wie als bevoegd bestuurder gerechtigd is namens belanghebbende beroep in te stellen en een machtiging daartoe te verlenen.
+
+5. De rechtbank heeft hem in haar brief van 24 april 2024 verzocht om deze verzuimen te herstellen. De gesteld gemachtigde heeft op 15 mei 2024 verschillende wijzigingsformulieren van de KvK ingediend die zien op [B.V. 1] B.V. en [B.V. 2] B.V. De rechtbank heeft hem in haar bericht van 6 juni 2024 medegedeeld dat hieruit niet is af te leiden wie (uiteindelijk) bevoegd bestuurder is en gerechtigd is namens belanghebbende beroep in te stellen. Ook mist de ondertekening en een machtiging. De rechtbank heeft verzocht om binnen twee weken dit verzuim te herstellen. De envelop waarin de aangetekende brief is verzonden, is ongeopend terugontvangen met de vermelding “niet afgehaald; retour afzender”. Via het digitaal dossier en bij gewone brief van 8 juli 2024 is de brief van 6 juni 2024 nogmaals gestuurd, nu met het verzoek om binnen twee weken te reageren.
+
+6. Op 22 juli 2024 heeft gesteld gemachtigde een machtiging ondertekend door [naam] en een wijzigingsformulier overlegd. Op 10 september 2024 is gesteld gemachtigde nogmaals verzocht om een uittreksel van inschrijving in het handelsregister bij de Kamer van Koophandel in te dienen waaruit blijkt wie als (uiteindelijk) bevoegd bestuurder gerechtigd is beroep in te stellen. Hierbij is tevens aangegeven dat een wijziging van de Kamer van Koophandel hieraan niet voldoet. Op 13 september 2024 heeft gesteld gemachtigde uittreksels van de Kamer van Koophandel ingediend van [B.V. 2] B.V. en [B.V. 1] B.V. Op 23 oktober 2024 is gesteld gemachtigde wederom in de gelegenheid gesteld om tot uiterlijk 6 november 2024 een uittreksel van inschrijving in het handelsregister bij de Kamer van Koophandel van [belanghebbende 2] B.V. in te dienen. Gesteld gemachtigde heeft binnen die termijn geen uittreksel uit het handelsregister van die vennootschap ingediend. Hierdoor kan de rechtbank niet vaststellen of [naam] ook bevoegd was om namens [belanghebbende 2] B.V. de machtiging te verlenen.
+
+Is het verzuim verontschuldigbaar?
+
+7. Gesteld gemachtigde heeft geen reden gegeven voor dit verzuim. Er is dus geen verontschuldiging voor dit verzuim gebleken. Uit de beroepschriften blijkt dat gesteld gemachtigde niet de bedoeling heeft voor zichzelf in beroep te komen.
+
+Conclusie en gevolgen
+
+8. De beroepen zijn daarom niet-ontvankelijk. Dat betekent dat de rechtbank de beroepen niet inhoudelijk beoordeelt en dat de bestreden besluiten in stand blijven. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart de beroepen niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. drs. S.J. Willems-Ruesink, rechter, in aanwezigheid van mr. W. Dekkers, griffier op 12 januari 2026 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+De griffier,  De rechter,
+
+De uitspraak is aan partijen bekendgemaakt op de datum vermeld in de brief waarmee deze uitspraak aan partijen ter beschikking is gesteld.
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.
+
+Dit staat in artikel 8:24, tweede lid, van de Awb.
+
+Dit staat in artikel 6:6 van de Awb.

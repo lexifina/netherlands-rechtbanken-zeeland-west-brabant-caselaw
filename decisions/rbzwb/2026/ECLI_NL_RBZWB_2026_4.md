@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:4"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "EeR 2026/28, p.140"]
 ---
 
 # ECLI:NL:RBZWB:2026:4 Rechtbank Zeeland-West-Brabant , 13-01-2026 / 24/91

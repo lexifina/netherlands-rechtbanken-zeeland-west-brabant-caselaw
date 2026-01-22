@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:301"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/41"]
 ---
 
 # ECLI:NL:RBZWB:2026:301 Rechtbank Zeeland-West-Brabant , 22-01-2026 / 12015538 VV EXPL 25-114 (E)

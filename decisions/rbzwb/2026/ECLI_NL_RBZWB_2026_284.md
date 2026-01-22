@@ -1,0 +1,81 @@
+---
+ecli: "ECLI:NL:RBZWB:2026:284"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "25/2339"
+decided: "2026-01-22"
+published: "2026-01-22"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Bestuursprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:284"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2026:284 Rechtbank Zeeland-West-Brabant , 22-01-2026 / 25/2339
+
+## Inhoudsindicatie
+
+NO griffierecht
+
+## Uitspraak
+
+RECHTBANK ZEELAND-WEST-BRABANT
+
+Bestuursrecht
+
+zaaknummer: BRE 25/2339
+
+uitspraak van de enkelvoudige kamer van 22 januari 2026 op het beroep van
+
+[eiseres], uit [plaats], eiseres
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over het beroep van eiseres over de verwerking en opvolging van een melding bij Veilig Thuis, alsmede de daaropvolgende gegevensverwerking, dossieropbouw en informatieverstrekking aan derden.
+
+1.1.
+
+Omdat het beroep kennelijk niet-ontvankelijk is, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Beoordeling door de rechtbank
+
+2. De rechtbank komt tot het oordeel dat het beroep kennelijk niet-ontvankelijk is omdat het griffierecht niet is betaald en het niet betalen niet verontschuldigbaar is. De rechtbank legt hierna uit hoe zij tot dit oordeel komt.
+
+Toetsingskader
+
+3. Iemand die beroep instelt, moet griffierecht betalen. Dit staat in artikel 8:41 van de Awb. In een zaak als deze is het griffierecht € 194,-. De griffier van de rechtbank stelt een termijn waarbinnen het griffierecht moet worden betaald. Het hele bedrag moet binnen die termijn zijn bijgeschreven op de rekening van de rechtbank of dan zijn betaald op de griffie van de rechtbank. Als het griffierecht niet of niet tijdig is betaald, verklaart de rechtbank het beroep niet-ontvankelijk. Dat is alleen anders als het niet of niet tijdig betalen van het griffierecht verontschuldigbaar is. Dat betekent dat er een goede reden moet zijn waarom het griffierecht niet (tijdig) is betaald.
+
+Beroep op betalingsonmacht
+
+4. Eiseres heeft in haar e-mailbericht van 27 april 2025 een beroep op betalingsonmacht gedaan. De griffier heeft bij aangetekend verzonden brief van 20 mei 2025 eiseres verzocht om het meegezonden formulier in te vullen en gegevens over haar inkomen en vermogen in te dienen. Daarbij is eiseres meegedeeld dat zij deze gegevens binnen twee weken na verzending van de brief diende in te dienen. Eiseres heeft hierop niet  gereageerd. De griffier heeft vervolgens bij aangetekend verzonden brief van 5 augustus 2025 het beroep op betalingsonmacht afgewezen, omdat eiseres niet de gevraagde gegevens heeft overgelegd.
+
+Heeft eiseres het griffierecht tijdig betaald?
+
+5. Aan eiseres is medegedeeld dat zij een nieuwe nota zou ontvangen en dat het griffierecht binnen de op de nota vermelde betalingstermijn diende te worden voldaan. Daarbij is vermeld dat het niet betalen van het griffierecht tot niet-ontvankelijkverklaring kan leiden. Op 4 september 2025 heeft de griffier eiseres een (aangetekende) herinnering gestuurd om het griffierecht te betalen.
+
+6. Eiseres heeft het griffierecht niet betaald.
+
+Is het niet betalen verontschuldigbaar?
+
+7. Eiseres heeft geen reden gegeven voor dit verzuim. Er is dus geen verontschuldiging voor dit verzuim gebleken.
+
+Conclusie en gevolgen
+
+8. Het beroep is daarom niet-ontvankelijk. Dat betekent dat de rechtbank het beroep niet inhoudelijk beoordeelt.
+
+Beslissing
+
+De rechtbank verklaart het beroep niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. M. Breeman, rechter, in aanwezigheid van mr. B.A.M. van Hoof, griffier, op 22 januari 2026 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.

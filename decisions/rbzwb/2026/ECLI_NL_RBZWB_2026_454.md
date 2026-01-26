@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:454"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JIN 2026/59 met annotatie van B. Amatsakio, mr. W.S. Maas-van Weert"]
 ---
 
 # ECLI:NL:RBZWB:2026:454 Rechtbank Zeeland-West-Brabant , 26-01-2026 / 02/443751 KG 26/3

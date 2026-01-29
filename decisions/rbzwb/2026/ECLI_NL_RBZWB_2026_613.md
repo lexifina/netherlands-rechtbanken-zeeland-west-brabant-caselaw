@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:613"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0322", "VAAN-AR-Updates.nl 2026-0322"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0322", "VAAN-AR-Updates.nl 2026-0322", "Jurisprudentie HSE 2026/29"]
 ---
 
 # ECLI:NL:RBZWB:2026:613 Rechtbank Zeeland-West-Brabant , 29-01-2026 / 11988662 \ AZ VERZ 25-83

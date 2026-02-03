@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:639"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0017"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0017", "JGR 2026/17 met annotatie van mr. drs. J.A. Lisman"]
 ---
 
 # ECLI:NL:RBZWB:2026:639 Rechtbank Zeeland-West-Brabant , 03-02-2026 / 25/6174, 6177, 6178, 6180 en 6183

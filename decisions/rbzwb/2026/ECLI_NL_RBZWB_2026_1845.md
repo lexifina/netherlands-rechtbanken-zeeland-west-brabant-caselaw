@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1845"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RFR 2026/76"]
 ---
 
 # ECLI:NL:RBZWB:2026:1845 Rechtbank Zeeland-West-Brabant , 11-02-2026 / C/02/422619 FA RK 24-2332

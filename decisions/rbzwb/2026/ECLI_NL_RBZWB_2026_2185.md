@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2185"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/13 met annotatie van mr. D. Briedé", "WR 2026/91"]
 ---
 
 # ECLI:NL:RBZWB:2026:2185 Rechtbank Zeeland-West-Brabant , 11-02-2026 / 11639470 \ CV EXPL  25-1675 (E)

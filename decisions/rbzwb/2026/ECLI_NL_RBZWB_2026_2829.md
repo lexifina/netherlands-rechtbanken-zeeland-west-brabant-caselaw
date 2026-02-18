@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2829"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/252"]
 ---
 
 # ECLI:NL:RBZWB:2026:2829 Rechtbank Zeeland-West-Brabant , 18-02-2026 / C/02/443362 FA RK  25-6654

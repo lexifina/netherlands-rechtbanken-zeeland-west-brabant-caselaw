@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1665"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "O&A 2026/38"]
 ---
 
 # ECLI:NL:RBZWB:2026:1665 Rechtbank Zeeland-West-Brabant , 24-02-2026 / RK 25-025384

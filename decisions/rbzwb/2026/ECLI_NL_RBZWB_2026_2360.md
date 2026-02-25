@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2360"
-published_in: ["Rechtspraak.nl", "Notamail 2026/78"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/78", "Viditax (FutD) 2026043015", "FutD 2026-0791", "RN 2026/38", "V-N Vandaag 2026/1445", "NDFR Nieuws 2026/1203", "NTFR 2026/1378 met annotatie van mr. R.B.H. Beune"]
 ---
 
 # ECLI:NL:RBZWB:2026:2360 Rechtbank Zeeland-West-Brabant , 25-02-2026 / C/02/432836 / HA ZA 25-143 (E)

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1263"
-published_in: ["Rechtspraak.nl", "PJ 2026/37"]
+published_in: ["Rechtspraak.nl", "PJ 2026/37", "PR-Updates.nl 2026-0103"]
 ---
 
 # ECLI:NL:RBZWB:2026:1263 Rechtbank Zeeland-West-Brabant , 25-02-2026 / 11553054 \ CV EXPL 25-858 (E)

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1361"
-published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0156", "ERF-Updates.nl 2026-0156"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0156", "ERF-Updates.nl 2026-0156", "JERF Actueel 2026/80"]
 ---
 
 # ECLI:NL:RBZWB:2026:1361 Rechtbank Zeeland-West-Brabant , 25-02-2026 / C/02/442937/KG ZA 25-670 (E)

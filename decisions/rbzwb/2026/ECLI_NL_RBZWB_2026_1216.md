@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1216"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5646, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2026:1216 Rechtbank Zeeland-West-Brabant , 27-02-2026 / 25/4144 en 25/5317

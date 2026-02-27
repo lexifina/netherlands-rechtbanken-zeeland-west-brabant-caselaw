@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1393"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0423"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0423", "JIN 2026/72 met annotatie van mr. J.A. Tersteeg"]
 ---
 
 # ECLI:NL:RBZWB:2026:1393 Rechtbank Zeeland-West-Brabant , 27-02-2026 / 11850634 AZ VERZ 25-68 (T)

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1420"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RAV 2026/50"]
 ---
 
 # ECLI:NL:RBZWB:2026:1420 Rechtbank Zeeland-West-Brabant , 04-03-2026 / 11822442 \ CV EXPL  25-2544 (E)

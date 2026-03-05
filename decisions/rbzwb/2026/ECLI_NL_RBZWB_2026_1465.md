@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1465"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031312", "FutD 2026-0446", "V-N Vandaag 2026/489", "NDFR Nieuws 2026/443"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031312", "FutD 2026-0446", "V-N Vandaag 2026/489", "NDFR Nieuws 2026/443", "NTFR 2026/780 met annotatie van mr. S. El Oiskhiri"]
 ---
 
 # ECLI:NL:RBZWB:2026:1465 Rechtbank Zeeland-West-Brabant , 05-03-2026 / 24/4341

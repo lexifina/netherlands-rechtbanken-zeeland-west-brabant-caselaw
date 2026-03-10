@@ -10,6 +10,7 @@ procedure: "Rekestprocedure"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2177"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBZWB:2026:4521"]]
 ---
 
 # ECLI:NL:RBZWB:2026:2177 Rechtbank Zeeland-West-Brabant , 10-03-2026 / C/02/441421 / JE RK 25-1948

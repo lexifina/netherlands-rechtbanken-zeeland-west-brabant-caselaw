@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1670"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0145", "VEAN-ERF-Updates.nl 2026-0145"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0145", "VEAN-ERF-Updates.nl 2026-0145", "JERF Actueel 2026/94"]
 ---
 
 # ECLI:NL:RBZWB:2026:1670 Rechtbank Zeeland-West-Brabant , 11-03-2026 / C/02/436422 / HA ZA 25-347 (E)

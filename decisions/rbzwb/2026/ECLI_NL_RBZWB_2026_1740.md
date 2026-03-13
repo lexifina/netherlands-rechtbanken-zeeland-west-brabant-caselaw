@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1740"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031907", "FutD 2026-0496"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031907", "FutD 2026-0496", "NLF 2026/0567"]
 ---
 
 # ECLI:NL:RBZWB:2026:1740 Rechtbank Zeeland-West-Brabant , 13-03-2026 / 25/224

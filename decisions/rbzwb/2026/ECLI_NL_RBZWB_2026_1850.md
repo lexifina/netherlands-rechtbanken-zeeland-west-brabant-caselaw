@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1850"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032308", "V-N Vandaag 2026/575", "FutD 2026-0565", "NDFR Nieuws 2026/514"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032308", "V-N Vandaag 2026/575", "FutD 2026-0565", "NDFR Nieuws 2026/514", "NTFR 2026/802 met annotatie van mr. P.G.M. Jansen"]
 ---
 
 # ECLI:NL:RBZWB:2026:1850 Rechtbank Zeeland-West-Brabant , 16-03-2026 / BRE 25/6170

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1973"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/214 met annotatie van G. Groenewegen"]
 ---
 
 # ECLI:NL:RBZWB:2026:1973 Rechtbank Zeeland-West-Brabant , 18-03-2026 / 25/2543

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2032"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/89"]
 ---
 
 # ECLI:NL:RBZWB:2026:2032 Rechtbank Zeeland-West-Brabant , 18-03-2026 / C/02/443885 / HA RK 26-5 (E)

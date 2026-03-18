@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2216"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0213", "VEAN-ERF-Updates.nl 2026-0213", "JERF Actueel 2026/110", "JERF 2026/113 met annotatie van mr. J.J. Dammingh"]
 ---
 
 # ECLI:NL:RBZWB:2026:2216 Rechtbank Zeeland-West-Brabant , 18-03-2026 / C/02/443268/ KG ZA 25-689

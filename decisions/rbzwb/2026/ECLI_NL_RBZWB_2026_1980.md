@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1980"
-published_in: ["Rechtspraak.nl", "Notamail 2026/72", "Viditax (FutD) 2026032601", "FutD 2026-0540", "NDFR Nieuws 2026/528"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/72", "Viditax (FutD) 2026032601", "FutD 2026-0540", "NDFR Nieuws 2026/528", "NTFR 2026/852 met annotatie van Y. Saïdi"]
 ---
 
 # ECLI:NL:RBZWB:2026:1980 Rechtbank Zeeland-West-Brabant , 18-03-2026 / BRE 25 _ 838

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2209"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/109"]
 ---
 
 # ECLI:NL:RBZWB:2026:2209 Rechtbank Zeeland-West-Brabant , 19-03-2026 / 12118002 \ OV VERZ  26-542 (E)

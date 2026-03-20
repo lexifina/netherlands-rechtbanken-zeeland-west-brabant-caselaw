@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:1837"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/88"]
 ---
 
 # ECLI:NL:RBZWB:2026:1837 Rechtbank Zeeland-West-Brabant , 20-03-2026 / BRE 25/273

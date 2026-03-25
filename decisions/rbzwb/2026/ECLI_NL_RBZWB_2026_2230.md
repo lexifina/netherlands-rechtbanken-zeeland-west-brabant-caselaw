@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2230"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GJ 2026/46 met annotatie van prof. mr. J.G. Sijmons"]
 ---
 
 # ECLI:NL:RBZWB:2026:2230 Rechtbank Zeeland-West-Brabant , 25-03-2026 / C/02/444388 / KG ZA 26-36 (E)

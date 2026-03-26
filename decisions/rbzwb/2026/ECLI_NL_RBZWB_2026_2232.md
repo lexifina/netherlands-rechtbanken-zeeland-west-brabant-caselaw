@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2232"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/148"]
 ---
 
 # ECLI:NL:RBZWB:2026:2232 Rechtbank Zeeland-West-Brabant , 26-03-2026 / 12066913 \ VV EXPL  26-9 (E)

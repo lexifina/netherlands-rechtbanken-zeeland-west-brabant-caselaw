@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2271"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026052104", "FutD 2026-0902"]
 ---
 
 # ECLI:NL:RBZWB:2026:2271 Rechtbank Zeeland-West-Brabant , 27-03-2026 / BRE 25/4187

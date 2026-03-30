@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:3027"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-1437", "AR-Updates.nl 2026-1437"]
 ---
 
 # ECLI:NL:RBZWB:2026:3027 Rechtbank Zeeland-West-Brabant , 30-03-2026 / 12023551 VV EXPL 25-100 (E)

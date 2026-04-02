@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2479"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040905", "FutD 2026-0644", "V-N Vandaag 2026/729", "Sdu Nieuws Belastingzaken 2026/513", "NDFR Nieuws 2026/623"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040905", "FutD 2026-0644", "V-N Vandaag 2026/729", "Sdu Nieuws Belastingzaken 2026/513", "NDFR Nieuws 2026/623", "NTFR 2026/865 met annotatie van mr. M.H.W.N. Lammers"]
 ---
 
 # ECLI:NL:RBZWB:2026:2479 Rechtbank Zeeland-West-Brabant , 02-04-2026 / 24/5542

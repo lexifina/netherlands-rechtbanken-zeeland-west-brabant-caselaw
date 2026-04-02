@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2502"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5573, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBZWB:2026:2502 Rechtbank Zeeland-West-Brabant , 02-04-2026 / 25/2607

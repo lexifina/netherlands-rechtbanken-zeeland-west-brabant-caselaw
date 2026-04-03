@@ -115,7 +115,7 @@ Beoordeling
 
 De tbs kan slechts worden verlengd indien de veiligheid van anderen, dan wel de algemene veiligheid van personen de verlenging van de tbs eist. Het recidivegevaar moet nog aanwezig zijn en dient voort te vloeien uit een ziekelijke stoornis en/of een gebrekkige ontwikkeling van de geestvermogens. Gelet op de adviezen van de tbs-instelling en de externe gedragsdeskundigen wordt nog steeds voldaan aan dit wettelijke criterium.
 
-De rechtbank stelt vast dat de recente overplaatsing naar Domus Mill goed is verlopen. De rechtbank complimenteert betrokkene met de wijze waarop hij zich inzet voor zijn behandeling en het feit dat het traject tot nu toe voorspoedig verloopt. Er moeten nog stappen worden gezet, maar de hoop is dat er in het komende jaar toegewerkt kan worden naar een voorwaardelijke beëindiging van de tbs.
+De rechtbank stelt vast dat de recente overplaatsing naar [stichting] goed is verlopen. De rechtbank complimenteert betrokkene met de wijze waarop hij zich inzet voor zijn behandeling en het feit dat het traject tot nu toe voorspoedig verloopt. Er moeten nog stappen worden gezet, maar de hoop is dat er in het komende jaar toegewerkt kan worden naar een voorwaardelijke beëindiging van de tbs.
 
 Gelet op de adviezen van de tbs-instelling en de externe gedragsdeskundigen en de vordering van de officier van justitie om de tbs met één jaar te verlengen, is de rechtbank dan ook van oordeel dat de tbs met verpleging van overheidswege van betrokkene moet worden verlengd met één jaar.
 

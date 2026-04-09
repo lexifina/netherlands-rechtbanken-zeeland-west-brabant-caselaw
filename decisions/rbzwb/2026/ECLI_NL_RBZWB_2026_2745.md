@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2745"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041703", "FutD 2026-0675", "V-N Vandaag 2026/766", "NDFR Nieuws 2026/621"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041703", "FutD 2026-0675", "V-N Vandaag 2026/766", "NDFR Nieuws 2026/621", "NTFR 2026/870 met annotatie van mr. E. Alink"]
 relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBZWB:2026:3130"]]
 ---
 

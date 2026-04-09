@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2746"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/773"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/773", "Viditax (FutD) 2026050804", "FutD 2026-0854"]
 ---
 
 # ECLI:NL:RBZWB:2026:2746 Rechtbank Zeeland-West-Brabant , 09-04-2026 / BRE 25/1937 en 25/1938

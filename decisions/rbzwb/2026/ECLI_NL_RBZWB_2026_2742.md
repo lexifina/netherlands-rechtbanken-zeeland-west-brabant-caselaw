@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2742"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2026/4516", "JBP 2026/87"]
 ---
 
 # ECLI:NL:RBZWB:2026:2742 Rechtbank Zeeland-West-Brabant , 09-04-2026 / 24/7470

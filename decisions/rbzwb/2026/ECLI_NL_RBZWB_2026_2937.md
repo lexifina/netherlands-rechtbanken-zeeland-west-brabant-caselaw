@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2937"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0068"]
 ---
 
 # ECLI:NL:RBZWB:2026:2937 Rechtbank Zeeland-West-Brabant , 13-04-2026 / 02-152763-24

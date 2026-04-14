@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:2975"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/124 met annotatie van L.M. Koenraad"]
 ---
 
 # ECLI:NL:RBZWB:2026:2975 Rechtbank Zeeland-West-Brabant , 14-04-2026 / 25/1672

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:3000"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042212", "V-N Vandaag 2026/804"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042212", "V-N Vandaag 2026/804", "FutD 2026-0734", "NDFR Nieuws 2026/678", "NTFR 2026/1054 met annotatie van M.W. Krijger MB RB"]
 ---
 
 # ECLI:NL:RBZWB:2026:3000 Rechtbank Zeeland-West-Brabant , 14-04-2026 / BRE 25/3862

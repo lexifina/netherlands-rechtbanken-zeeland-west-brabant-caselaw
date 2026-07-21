@@ -1,0 +1,457 @@
+---
+ecli: "ECLI:NL:RBZWB:2026:6840"
+court: "Rechtbank Zeeland-West-Brabant"
+court_code: "RBZWB"
+docket: "12018383 \\ AZ VERZ  25-63"
+decided: "2026-07-21"
+published: "2026-07-24"
+type: "uitspraak"
+procedure: "Beschikking"
+subject: "Civiel recht; Arbeidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:6840"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBZWB:2026:6840 Rechtbank Zeeland-West-Brabant , 21-07-2026 / 12018383 \ AZ VERZ  25-63
+
+## Inhoudsindicatie
+
+Portugees recht van toepassing op de arbeidsovereenkomst. Bepalingen van bijzonder dwingend recht van toepassing in het kader van de loonvordering van werknemer. Geen recht op billijke vergoeding.
+
+## Uitspraak
+
+RECHTBANK
+ZEELAND-WEST-BRABANT
+
+Civiel recht
+
+Kantonrechter
+
+Zittingsplaats Middelburg
+
+Zaaknummer / rekestnummer: 12018383 \ AZ VERZ  25-63
+
+Beschikking van 21 juli 2026
+
+in de zaak van
+
+[werknemer]
+,
+
+te [plaats 1] ,
+
+verzoekende partij,
+
+hierna te noemen: werknemer,
+
+gemachtigde: mr. P.H. Pijpelink,
+
+tegen
+
+de rechtspersoon naar Portugees recht
+
+CONSTRUCTION CONCEPT EUROPE LDA,
+
+gevestigd te Lissabon (Portugal) en kantoorhoudende te Prinsenbeek,
+
+verwerende partij,
+
+hierna te noemen: werkgever,
+
+gemachtigde: mr. S.A.J. van Riel.
+
+1
+De procedure
+
+1.1.
+
+Het verloop van de procedure blijkt uit:
+
+ het verzoekschrift met producties,
+
+ het verweerschrift met producties,
+
+ de mondelinge behandeling van 7 mei 2026, waarvan door de griffier aantekeningen zijn gemaakt,
+
+ de spreekaantekeningen van mr. Pijpelink,
+
+ de spreekaantekeningen van mr. Van Riel,
+
+ de e-mail van mr. Pijpelink en de brief van mr. Van Riel, beide van 26 mei 2026, waarin zij meedelen dat partijen geen minnelijke regeling zijn overeengekomen.
+
+1.2.
+
+De beschikking is bepaald op vandaag.
+
+2
+De feiten
+
+2.1.
+
+Werkgever is een bouwonderneming, gespecialiseerd in de bouw van betonnen constructies voor industriële residentiële gebouwen en ondergrondse werken. Zij neemt projecten aan in Portugal, Nederland, België en Duitsland. Naast haar hoofdkantoor en twee vestigingen in Portugal, heeft werkgever vertegenwoordigingskantoren in Nederland, België en Duitsland.
+
+2.2.
+
+Een Belgisch consortium ( [maatschappij] ) heeft een project aangenomen voor de bouw van een kunstmatig energie-eiland. Ten behoeve van dit project is in Nederland de vennootschap onder firma [V.O.F.] opgericht. Werkgever heeft in onderaanneming van [V.O.F.] een bouwklus aangenomen voor de bouw van betonnen constructies voor dit project. Werkgever heeft in Portugal arbeidskrachten geworven ter uitvoering van deze bouwklus.
+
+2.3.
+
+Werknemer, geboren op [datum] 1973, heeft op 25 juni 2024 twee overeenkomsten gesloten met werkgever die in de Portugese taal zijn opgesteld; ‘Contrato de Trabalho a Termo Incerto’ (arbeidsovereenkomst voor onbepaalde duur) en ‘Acordo de Deslocação Temporária de Trabalhador (Produtivos)’ (overeenkomst inzake de tijdelijke detachering van werknemers). Deze overeenkomsten worden hierna respectievelijk de basisovereenkomst en het addendum genoemd. Op grond van deze overeenkomsten is werknemer op 1 juli 2024 in dienst getreden bij werkgever in de functie van Bekister-Timmerman 2e klasse. Werknemer is tewerkgesteld te [plaats 2] op het project van [maatschappij] .
+
+2.4.
+
+In de basisovereenkomst is (vertaald) onder meer het volgende overeengekomen:
+
+“Artikel 1 Grondslag
+
+1. Aan de Eerste Contractant is op 4 januari 2024 de bouwwerkzaamheden toegewezen,
+
+genaamd " [project] ", in Nederland, welke van tijdelijke en bepaalde aard zijn, met een
+
+geplande einddatum volgens het onderaannemingscontract met de opdrachtgever, hoewel
+
+uitstel of vervroeging kan optreden, rekening houdend met de complexiteit van de
+
+werkzaamheden en de omstandigheden die zich kunnen voordoen.
+
+2. De uitvoering van de bouwwerkzaamheden zal de professionele activiteit van de Werknemer omvatten gedurende een onzekere periode, hetgeen de onzekere aard van deze
+
+overeenkomst motiveert, zoals voorzien in clausule twee hieronder.
+
+(…)
+
+4. Gezien het bepaalde in de voorgaande nummers, is het sluiten van deze
+
+arbeidsovereenkomst voor onbepaalde tijd wettelijk toegestaan krachtens artikel 140, nr. 1
+
+en nr. 2, onder h), en nr. 3, van het Arbeidswetboek.
+
+(…)
+
+Artikel 2
+(Duur)
+
+1. Deze Overeenkomst vangt aan op 1 juli 2024 en duurt zolang als nodig is om te voorzien in de tijdelijke behoeften van de professionele activiteit van de Werknemer in de in nr. 1 van clausule Eerste genoemde bouwwerkzaamheden, onverminderd de mogelijkheid van beëindiging op een eerdere datum, wegens de geleidelijke vermindering van de taken en
+
+functies die inherent zijn aan dat beroep en de daarmee samenhangende vermindering van
+
+de bezetting van de werknemers die betrokken zijn bij de uitvoering ervan. Het is op deze
+
+datum echter voorzien dat de taken en functies van de Werknemer op zijn laatst op 30
+
+augustus 2026 zullen eindigen.
+
+2. Deze overeenkomst eindigt door kennisgeving van de Eerste Contractant aan de Tweede
+
+Contractant van de beëindiging ervan, wanneer de eerste voorziet in het optreden van een
+
+van de in het voorgaande nummer genoemde omstandigheden, welke kennisgeving moet
+
+worden gedaan met een minimumtermijn van 7 (zeven), 30 (dertig) of 60 (zestig) dagen,
+
+afhankelijk van of de overeenkomst heeft geduurd tot 6 (zes) maanden, van 6 (zes) maanden
+
+tot 2 (twee) jaar of langer, respectievelijk.”
+
+2.5.
+
+In het addendum is (vertaald) onder meer het volgende overeengekomen:
+
+“Overwegende dat:
+
+(…)
+
+(D) De Werknemer, gedurende de periode van zijn detachering in Nederland, zal worden geïntegreerd in de onderaanneming van de onderneming die in zijn arbeidsovereenkomst is vermeld, waarbij hij zijn band met de onderneming behoudt en blijft werken onder haar leiding en gezag.
+
+(…)
+
+ZEVENDE
+
+(Beloning en arbeidsvoorwaarden)
+
+Gedurende de detachering en zolang deze status voortduurt, ontvangt de Werknemer de in het land van bestemming geldende minimumbeloning en heeft hij recht op de arbeidsvoorwaarden zoals vermeld in Bijlage I bij deze Overeenkomst.
+
+1. Na afloop van de tussen partijen overeengekomen detachering en bij terugkeer van de Werknemer naar het land van herkomst, ontvangt de Werknemer de bruto maandelijkse basisbeloning in Portugal zoals vastgelegd in de met de Eerste Contractpartij gesloten arbeidsovereenkomst, voor de duur van de arbeidsverhouding tussen partijen.
+
+2 De Werknemer aanvaardt en erkent hierbij dat de in de voorgaande paragraaf bedoelde wijziging in overeenstemming is met de bepalingen van de arbeidsovereenkomst die met de Eerste Contractpartij is gesloten.
+
+(…)
+
+TIENDE
+
+(Einde van de detachering)
+
+1 Na afloop van de detachering kan de Werknemer terugkeren naar zijn/haar land van herkomst en daar zijn/haar beroepsactiviteiten hervatten.
+
+(…)”
+
+2.6.
+
+Op 25 september 2025 heeft werkgever de arbeidsovereenkomst(en) opgezegd met ingang van 31 oktober 2025.
+
+3
+Het verzoek en het verweer
+
+3.1.
+
+Werknemer verzoekt:
+
+werkgever te veroordelen tot betaling van € 11.377,81 bruto wegens achterstallig loon (€ 7.478,46) en vakantiegeld (€ 3.899,35), te vermeerderen met wettelijke verhoging en wettelijke rente,
+
+aan hem een billijke vergoeding toe te kennen van € 10.000,00 bruto, althans een vergoeding naar Portugees recht van € 6.825,98,
+
+aan hem een transitievergoeding toe te kennen van € 2.611,35 bruto;
+
+werkgever te veroordelen tot betaling van € 640,00 wegens de onrechtmatig opgelegde geldboete, althans de door werknemer onverschuldigd betaalde geldboete,
+
+werkgever te veroordelen tot betaling van buitengerechtelijke kosten die werknemer heeft gemaakt, ter hoogte van de eigen bijdrage voor zijn toevoeging.
+
+3.2.
+
+Werknemer stelt zich op het standpunt dat op de arbeidsovereenkomst Nederlands recht van toepassing is. Volgens werknemer is de arbeidsovereenkomst niet rechtsgeldig opgezegd nu hij niet met de opzegging heeft ingestemd en het UWV hiervoor ook geen toestemming heeft verleend. Met deze onrechtmatige opzegging heeft werkgever verwijtbaar gehandeld en komt aan werknemer een billijke vergoeding toe. Omdat werknemer heeft berust in de opzegging is de arbeidsovereenkomst geëindigd zodat hij ook recht heeft op een transitievergoeding. Verder stelt werknemer dat op de arbeidsovereenkomst de Cao Bouw & Infra van toepassing was. Werkgever heeft gedurende de looptijd van het dienstverband ten onrechte niet het bij Cao vastgestelde uurloon betaald aan werknemer zodat hij nog een loonvordering op werkgever stelt te hebben. Ten slotte heeft werkgever enkele malen een bedrag ingehouden op het salaris van werknemer zonder dat zij daartoe gerechtigd was.
+
+3.3.
+
+Werkgever voert verweer en stelt dat het verzoek moet worden afgewezen. Volgens haar is het Portugese recht op de arbeidsovereenkomst van toepassing en heeft zij de arbeidsovereenkomst conform het Portugese recht rechtsgeldig opgezegd. Werkgever erkent dat werknemer nog recht heeft op loon tot een bedrag van € 817,92 bruto. Voor het overige dient het verzoek te worden afgewezen.
+
+3.4.
+
+Op de stellingen van partijen wordt hierna, voor zover nodig, nader ingegaan.
+
+4
+De beoordeling
+
+rechtsmacht en relatieve bevoegdheid
+
+4.1.
+
+Nu werknemer stelt woonachtig te zijn in Nederland en werkgever (statutair) gevestigd is in Portugal heeft het verzoek een grensoverschrijdend karakter. De kantonrechter moet eerst beoordelen of de Nederlandse rechter rechtsmacht heeft om van het geschil kennis te nemen. Op het geschil is Verordening (EU) nr. 1215/2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (hierna: Brussel I bis) van toepassing. Nu werkgever in de procedure is verschenen zonder zich op de onbevoegdheid van de Nederlandse rechter te beroepen, is de Nederlandse rechter op grond van artikel 26 Brussel I bevoegd om van het geschil kennis te nemen.
+
+Werkgever heeft ook geen verweer gevoerd tegen de relatieve bevoegdheid van de kantonrechter te Middelburg maar omdat het verzoek ziet op een arbeidsovereenkomst moet de kantonrechter deze relatieve bevoegdheid ambtshalve toetsen. In individuele arbeidszaken is stilzwijgende forumkeuze mogelijk indien de vordering of het verzoek door de werknemer is ingesteld. De kantonrechter is daarom ook relatief bevoegd van het verzoek kennis te nemen.
+
+toepasselijk recht; het juridisch kader
+
+4.2.
+
+Vervolgens moet worden beoordeeld welk recht op de arbeidsovereenkomst van werknemer van toepassing is. Hierover verschillen partijen van mening. In artikel 8 lid 1, eerste zin, van Verordening (EG) nr. 593/2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (hierna: Rome I) is bepaald dat een individuele arbeidsovereenkomst wordt beheerst door het recht dat partijen overeenkomstig artikel 3 Rome I hebben gekozen. Een rechtskeuze kan uitdrukkelijk of stilzwijgend worden gedaan. In dat laatste geval moet de rechtskeuze duidelijk blijken uit de bepalingen van de overeenkomst of de omstandigheden van het geval. De tweede zin van artikel 8 lid 1 Rome I bepaalt verder dat een rechtskeuze er niet toe mag leiden dat de werknemer de bescherming verliest die hij geniet op grond van de dwingende bepalingen van het recht dat overeenkomstig de leden 2, 3 en 4 van dit artikel van toepassing zou zijn geweest zonder rechtskeuze (het objectief toepasselijk recht).
+
+rechtskeuze
+
+4.3.
+
+In dit geval hebben partijen geen uitdrukkelijke rechtskeuze gemaakt en verschillen zij van mening over de stilzwijgende rechtskeuze. De kantonrechter overweegt in dit kader het volgende. De stilzwijgende rechtskeuze moet met een zekere terughoudendheid worden aanvaard. Voor aanname van een stilzwijgende rechtskeuze moet ondubbelzinnig blijken dat partijen daadwerkelijk hebben gewild die keuze tot stand te brengen. Uit bepaalde verklaringen of gedragingen moet in de context van de totstandkoming van de arbeidsovereenkomst dus blijken dat partijen eenduidig voor een bepaald recht hebben gekozen.
+
+4.4.
+
+De kantonrechter oordeelt dat deze stilzwijgende rechtskeuze in dit geval blijkt uit het feit dat in de arbeidsovereenkomst verwezen wordt naar artikelen uit de Portugese wet waarbij – zoals werkgever terecht heeft aangevoerd – bovendien is gekozen voor een specifieke contractsvorm die is geregeld in het Portugese arbeidswetboek. Werknemer heeft daartegenover aangevoerd dat in een aantal artikelen van de arbeidsovereenkomst het Nederlandse recht van toepassing wordt verklaard maar dit ziet op bijzonder dwingend recht zoals bedoeld in artikel 9 Rome I. Dit zijn regels die een zodanig dwingend karakter hebben dat ze toegepast moeten worden, ongeacht het recht dat op de overeenkomst van toepassing is. Dat in de overeenkomst op bepaalde onderwerpen het Nederlandse recht van toepassing wordt verklaard, betekent dus niet dat partijen daarmee ook hebben gewild het Nederlandse recht op de gehele overeenkomst van toepassing te laten zijn.
+
+objectief toepasselijk recht
+
+4.5.
+
+Om te kunnen beoordelen of werknemer door de keuze voor het Portugese recht bescherming van dwingende bepalingen uit het objectief toepasselijke recht verliest, moet eerst worden beoordeeld wat het objectief toepasselijke recht is. Uit het tweede lid van artikel 8 Rome I volgt dat dit het recht is van het land waar of, bij gebreke daarvan, van waaruit de werknemer ter uitvoering van de overeenkomst gewoonlijk zijn arbeid verricht. Het land waar de arbeid gewoonlijk wordt verricht wordt echter niet geacht te zijn gewijzigd wanneer de werknemer zijn arbeid tijdelijk in een ander land verricht.
+
+4.6.
+
+Vast staat dat werknemer zijn werkzaamheden in het kader van de arbeidsovereenkomst heeft verricht in Nederland. Volgens werkgever waren dit echter tijdelijke werkzaamheden en was het de bedoeling dat werknemer na afronding van die werkzaamheden zou terugkeren naar Portugal. In de visie van werkgever is Nederland door deze tijdelijke tewerkstelling niet het gewoonlijk werkland geworden van werknemer. Werknemer heeft dit weersproken. Hij heeft hiertoe aangevoerd dat hij uitsluitend voor het project in Nederland is aangeworven. In de arbeidsovereenkomst is bepaald dat deze eindigt op het moment dat het project eindigt. Uit de overeenkomst volgt volgens werknemer niet dat van hem werd verwacht dat hij na het einde van het project weer in Portugal zou gaan werken. Volgens werknemer is er dus geen sprake van tijdelijke werkzaamheden zoals bedoeld in artikel 8 lid 2 Rome I.
+
+4.7.
+
+De kantonrechter volgt werknemer hierin niet. In overweging 36 van Rome I staat dat het verrichten van werk in een ander land als tijdelijk wordt aangemerkt, als van de werknemer wordt verwacht dat hij na voltooiing van zijn taak in het buitenland opnieuw in het land van herkomst gaat werken. De kantonrechter oordeelt dat hiervoor niet is vereist dat werknemer dat werk voor dezelfde werkgever gaat verrichten. Ook indien werknemer voorafgaand aan de terbeschikkingstelling in Portugal werkte bij een andere werkgever en/of dat de verwachting is dat hij na afloop van de ter beschikkingstelling naar Portugal terugkeert om in dienst te treden bij een andere werkgever, kan dit tot de conclusie leiden dat het werk in Nederland tijdelijk was. Dit is niet anders in de situatie als deze, waarin in de kop van het verzoekschrift staat vermeld dat werknemer op het moment van indienen van het verzoek in [plaats 1] woont, dus na afloop van zijn dienstverband mogelijk in [plaats 1] is gebleven. Werknemer heeft geen feiten of omstandigheden gesteld, en deze zijn ook niet gebleken, waaruit volgt dat bij de totstandkoming van de overeenkomst het de verwachting was dat hij niet terug zou keren naar Portugal, terwijl evenmin is gebleken van een woonadres in [plaats 1] op het moment van indienen van het verzoekschrift.
+
+4.8.
+
+Anders dan werknemer betoogt, volgt uit de (vertaling van de) arbeidsovereenkomst wel dat het de bedoeling was van partijen dat werknemer na afloop van de detachering zou terugkeren naar zijn land van herkomst om daar zijn beroepsactiviteiten te hervatten (artikel 7 en 10 van het addendum). Uit de feiten en omstandigheden blijkt dat partijen ook hebben gehandeld overeenkomstig deze bedoeling. Zo is onweersproken gebleven dat werknemer gedurende de looptijd van zijn arbeidsovereenkomst fiscaal inwoner van Portugal is gebleven, dat werkgever een ‘home-leave’ vergoeding heeft betaald, dat werkgever een PD U1 verklaring heeft aangevraagd bij het UWV voor werknemer op het adres dat werknemer in Portugal had of heeft en waarnaar zonder protest zijn laatste salarisstrook en de opzeggingsbrief door werkgever zijn gestuurd en dat hij in dat land (met behulp van de PD U1 verklaring) een WW-uitkering heeft aangevraagd. Daarbij komt dat als onweersproken vaststaat dat werkgever een melding heeft gemaakt van tijdelijke tewerkstelling in Nederland op grond van artikel 8 lid 1 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie (hierna te noemen: WagwEU). De WagwEu is alleen van toepassing op werknemers die in het kader van transnationale dienstverrichting op basis van een arbeidsovereenkomst tijdelijk arbeid verrichten in Nederland en niet gewoonlijk in of vanuit Nederland arbeid verrichten.
+
+4.9.
+
+Uit deze omstandigheden kan worden afgeleid dat de werkzaamheden van werknemer in Nederland tijdelijk van aard waren zodat Nederland niet het gewoonlijk werkland van werknemer is geworden. Portugal dient als het gewone werkland te worden aangemerkt.
+
+4.10.
+
+Werknemer heeft geen feiten en omstandigheden aangevoerd die met zich brengen dat de arbeidsovereenkomst desondanks een nauwere band heeft met Nederland zodat op grond van artikel 8 lid 4 Rome I toch het Nederlandse recht het objectief toepasselijke recht zou zijn.
+
+4.11.
+
+Dit betekent dat het Portugese recht – naast het gekozen recht – ook het objectief toepasselijke recht is. Werknemer geniet daardoor niet de bescherming van in het Nederlandse recht neergelegde dwingende regels op grond van artikel 8 Rome I.
+
+bepalingen van bijzonder dwingend recht
+
+4.12.
+
+De kantonrechter moet vervolgens beoordelen of er bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 Rome I van toepassing zijn. Bepalingen van bijzonder dwingend recht zijn bepalingen aan de inachtneming waarvan een land zoveel belang hecht voor de handhaving van openbare belangen, dat deze moeten worden toegepast op elk geval dat onder de werkingssfeer van dat land valt, ongeacht welk recht van toepassing is op de overeenkomst op grond van de verwijzingsregels uit Rome I.
+
+4.13.
+
+Bepalingen van bijzonder dwingend recht moeten worden onderscheiden van dwingende bepalingen waarvan niet bij overeenkomst kan worden afgeweken. Bepalingen van bijzonder dwingend recht kunnen het recht dat ingevolge de verwijzingsregels de overeenkomst beheerst, doorbreken. Er is een aantal Nederlandse arbeidsrechtelijke voorrangsregels, waarvan de regels uit de WagwEU en de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (hierna: Wet AVV) van belang zijn voor de beoordeling van het verzoek van werknemer.
+
+4.14.
+
+In artikel 2 lid 1 WagwEU is een aantal bepalingen uit het Burgerlijk Wetboek van toepassing verklaard op gedetacheerde werknemers van wie de arbeidsovereenkomst wordt beheerst door ander recht dan het Nederlandse recht. In lid 2 is vervolgens bepaald dat wanneer een detachering meer dan twaalf maanden bedraagt, op de gedetacheerde werknemer vanaf de dertiende maand alle wettelijke arbeidsvoorwaarden en
+
+-omstandigheden van toepassing zijn, met uitzondering van procedures, formaliteiten en voorwaarden van de sluiting en de beëindiging van de arbeidsovereenkomst.
+
+billijke vergoeding en transitievergoeding
+
+4.15.
+
+Gelet op deze uitzondering is de vraag of werkgever de arbeidsovereenkomst naar maatstaven van het Nederlandse recht rechtsgeldig heeft opgezegd en/of zij verwijtbaar heeft gehandeld, niet van belang. Anders dan werknemer betoogt, kan hij immers geen rechten ontlenen aan de Nederlandse wettelijke regels met betrekking tot beëindiging van de arbeidsovereenkomst. Dit betekent dat ook de bepalingen over de met het einde van een arbeidsovereenkomst samenhangende vergoedingen niet van toepassing zijn. Het verzoek tot betaling van de transitievergoeding en een billijke vergoeding wordt daarom afgewezen.
+
+vergoeding naar Portugees recht
+
+4.16.
+
+Subsidiair heeft werknemer gesteld dat hij recht heeft op toekenning van een vergoeding als bedoeld in artikel 140 lid 3 van het Portugese Arbeidswetboek. Werkgever heeft erkend dat werknemer recht heeft op deze vergoeding. Werkgever heeft in haar verweerschrift berekend dat aan werknemer een vergoeding toekomt van € 3.121,93 bruto. Werknemer heeft ter zitting ingestemd met dit bedrag zodat zijn subsidiaire verzoek tot dit bedrag wordt toegewezen.
+
+loonvordering
+
+4.17.
+
+Ter uitvoering van artikel 2 WagwEU is in artikel 2a Wet AVV vastgelegd dat verbindend verklaarde cao-bepalingen die betrekking hebben op een achttal onderwerpen, waaronder het loon, ook gelden ten aanzien van werknemers die tijdelijk in Nederland arbeid verrichten en wier arbeidsovereenkomst wordt beheerst door een ander recht dan het Nederlandse recht.
+
+4.18.
+
+Werknemer beroept zich op de Nederlandse Cao Bouw & Infra en stelt dat werkgever hem op basis van deze Cao te weinig loon heeft betaald gedurende zijn dienstverband. Werkgever betwist dit grotendeels. Zij erkent weliswaar dat zij gebonden is aan de in de Cao opgenomen bepalingen omtrent loon maar alleen over de periode dat deze bepalingen algemeen verbindend verklaard waren.
+
+4.19.
+
+Tussen partijen staat vast dat de Cao tijdens de looptijd van het dienstverband algemeen verbindend verklaard was in de periode vanaf aanvang van de overeenkomst tot 1 januari 2025 en van 13 september 2025 tot het einde van dienstverband. Werknemer heeft niet onderbouwd op grond waarvan hij meent ook rechten te kunnen ontlenen aan de Cao in de periode dat deze niet algemeen verbindend was verklaard. De kantonrechter oordeelt dat werknemer in die periode recht had op het overeengekomen uurloon, dan wel tenminste het op dat moment in Nederland geldende minimumloon. Aangezien het overeengekomen uurloon hoger was dan het geldende minimumloon, heeft werkgever over deze periode voldaan aan haar betalingsverplichting.
+
+4.20.
+
+Partijen verschillen verder van mening over de vraag in welke functiegroep de functie van werknemer moet worden ingedeeld. Werknemer stelt dat zijn functie moet worden ingedeeld in groep B nr. 56 van bijlage 1.1. van de Cao (Timmerman II). Werkgever betwist dat de functie van werknemer tot deze groep behoort. Zij heeft hiertoe aangevoerd dat de functie van werknemer in de basis arbeidsovereenkomst is geclassificeerd naar Portugese standaarden. In het addendum is de functie vervolgens ingedeeld conform de op dat moment algemeen verbindend verklaarde Cao Bouw & Infra. Volgens werkgever is met werknemer overeengekomen dat hij werd ingedeeld in functiegroep A van de Cao.
+
+4.21.
+
+De kantonrechter volgt werkgever niet in haar verweer. Zowel in de basisovereenkomst als in het addendum wordt benoemd dat werknemer zal gaan werken als ‘Bekister-Timmerman 2e klasse. Werkgever heeft niet gemotiveerd dat deze classificatie naar Portugese standaarden verschilt van de classificatie naar Nederlandse standaarden. Uit de Cao Bouw & Infra volgt dat een Timmerman II de volgende werkzaamheden verricht:
+
+“Het aan de hand van tekeningen en op aanwijzingen van een
+
+vakman maken en stellen van de meest voorkomende bekistingen en verrichten van
+
+technisch niet ingewikkelde stel- en timmerwerkzaamheden.”
+
+Werkgever heeft niet onderbouwd dat werknemer andere werkzaamheden verrichtte, zodat zijn salaris dient te worden gebaseerd op het voor functiegroep B geldende uurloon.
+
+4.22.
+
+Ten slotte stelt werkgever zich op het standpunt dat werknemer nog niet eerder in de bouw heeft gewerkt zodat voor hem een startsalaris geldt als bedoeld in tabel 4.5 van de Cao. Werknemer heeft weersproken dat hij een startende werknemer is.
+
+4.23.
+
+Ook dit verweer van werkgever treft geen doel. Het uurloon dat in voornoemde tabel wordt genoemd, is het garantieloon voor de bouwplaatswerknemer die nog niet eerder in de bouw & infra heeft gewerkt. Uit artikel 4.5.1 van de Cao volgt dat deze starttabel maximaal een jaar van toepassing is op een werknemer. Tegenover de betwisting van werknemer heeft werkgever geen feiten en omstandigheden aangevoerd waaruit volgt dat werknemer nog geen jaar werkervaring heeft in de bouw. Er bestaat dan ook geen reden om aan te nemen dat het startsalaris op werknemer van toepassing is.
+
+4.24.
+
+Dit betekent dat het uurloon van werknemer dient te worden vastgesteld conform tabel 4.2 van de Cao. Hieruit volgt dat aan werknemers uit de B-groep van 21 jaar of ouder het volgende uurloon toekomt:
+
+vanaf 1 januari 2024: € 17,52;
+
+vanaf 1 juli 2024: € 18,42;
+
+vanaf 1 juli 2025: € 19,25.
+
+4.25.
+
+Werknemer heeft als productie 10 bij zijn verzoek een berekening van zijn loonvordering in het geding gebracht. Hij heeft daarin een vergelijking gemaakt van het aan hem betaalde uurloon en het uurloon dat op grond van de Cao aan hem had moeten worden betaald. Hij is daarbij uitgegaan van de in 4.24 genoemde bedragen. Werkgever heeft, afgezien van de hiervoor besproken verweren, geen verweer gevoerd tegen de juistheid van de berekening van werknemer zodat de kantonrechter van die berekening zal uitgaan.
+
+4.26.
+
+Uit die berekening volgt dat werkgever over de perioden dat de Cao algemeen verbindend was verklaard een bedrag van € 4.146,97 bruto te weinig heeft betaald aan werknemer. Dit bedrag bestaat uit € 2.803,01 bruto over de periode van juli tot en met december 2024 en € 1.343,96 bruto over september en oktober 2025.
+
+vakantiegeld
+
+4.27.
+
+Eveneens van bijzonder dwingend recht is de Wet minimumloon en minimumvakantiebijslag (hierna: WML). Op grond van artikel 15 WML heeft werknemer recht op vakantiebijslag tot een bedrag van ten minste 8% van zijn loon. Werknemer stelt zich op het standpunt dat werkgever te weinig vakantiegeld aan hem heeft betaald en werkgever heeft dit niet weersproken. De vordering van werknemer kan dan ook worden toegewezen, met inachtneming van het volgende.
+
+4.28.
+
+Werknemer is bij de berekening van het aan hem toekomende bedrag aan vakantiegeld uitgegaan van een salaris conform de Cao voor de gehele periode van zijn dienstverband. Nu de kantonrechter heeft geoordeeld dat werknemer niet over die hele periode recht heeft op dit hogere Cao-loon, heeft dit ook gevolgen voor het aan werknemer toekomende vakantiegeld.
+
+4.29.
+
+Met inachtneming van de hiervoor genoemde bedragen aan achterstallig loon, volgt uit de (verder onweersproken gelaten) berekening van werknemer dat hij over het jaar 2024 in totaal recht heeft op een bedrag aan loon van € 35.725,14 bruto. Over het jaar 2025 heeft hij recht op een bedrag aan loon van € 47.809,77 bruto. Op grond van artikel 15 WML heeft werknemer dan recht op vakantiegeld tot een bedrag van € 6.682,79 bruto. Werkgever heeft in 2024 en 2025 in totaal een bedrag van € 3.049,96 bruto aan vakantiegeld betaald aan werknemer. Dit betekent dat werknemer nog recht heeft op een bedrag van € 3.632,83 bruto zodat het verzoek van werknemer tot dit bedrag zal worden toegewezen.
+
+wettelijke rente en wettelijke verhoging
+
+4.30.
+
+Werknemer maakt aanspraak op de wettelijke verhoging en de wettelijke rente over het te laat betaalde loon en vakantiegeld. Nu het Nederlands recht niet van toepassing is op de arbeidsovereenkomst, kan werknemer geen rechtstreeks beroep doen op de artikelen in de Nederlandse wet waarin deze aanspraken zijn geregeld. Wettelijke rente en wettelijke verhoging zijn geen arbeidsvoorwaarden zoals bedoeld in artikel 2 WagwEU zodat de Nederlandse artikelen ook niet via deze wet op de arbeidsovereenkomst van toepassing zijn geworden.
+
+4.31.
+
+Werknemer heeft zijn verzoek gegrond op Verordening (EG) nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (hierna: Rome II). Hij stelt dat deze verordening van toepassing is omdat de wettelijke rente en -verhoging niet-contractuele verbintenissen zijn. De kantonrechter volgt werknemer hierin niet. De wettelijke verhoging en wettelijke rente zijn een schadevergoeding wegens te laat betaald loon. Aan het recht op loon ligt een contractuele verbintenis ten grondslag zodat de Rome II Verordening niet van toepassing is. Werknemer kan dus ook geen beroep doen op de wettelijke rente en -verhoging naar Nederlands recht op grond van deze verordening.
+
+4.32.
+
+Het voorgaande betekent dat het recht op wettelijke rente en -verhoging moet worden beoordeeld op grond van het Portugese recht. Werknemer heeft niet gesteld dat hij op grond daarvan aanspraak kan maken op wettelijke verhoging en/of wettelijke rente zodat zijn verzoek op dit punt wordt afgewezen.
+
+contractuele boete
+
+4.33.
+
+Werknemer stelt dat er gedurende zijn dienstverband in totaal voor een bedrag van  € 640,00 aan boetes is ingehouden op zijn salaris. Omdat deze inhoudingen onrechtmatig zijn gedaan, verzoekt werknemer om werkgever te veroordelen tot betaling van dit bedrag.
+
+4.34.
+
+Werkgever betwist dat zij boetes heeft ingehouden tot een bedrag van € 640,00. Zij stelt dat het onduidelijk is waar werknemer dit op baseert maar de ingehouden bedragen worden vermeld op de loonstroken van werknemer. Dat deze inhoudingen zijn gedaan staat daarmee voldoende vast. Werkgever heeft verder aangevoerd dat werknemer een VCA-certificaat heeft gehaald. Dit certificaat is 10 jaar geldig en persoonsgebonden. De kosten voor dit certificaat zijn door de werkgever voorgeschoten. Werkgever stelt dat werknemer een volmacht heeft ondertekend op grond waarvan zij gerechtigd was inhoudingen, waaronder het voorgeschoten bedrag van € 380,00, te doen.
+
+4.35.
+
+De volmacht is opgesteld in de Portugese taal en hiervan is geen Nederlandse vertaling overgelegd. Voor zover uit deze volmacht zou volgen, dat werkgever in bepaalde situaties bedragen op het salaris van werknemer mocht inhouden, is niet gebleken dat een van deze situaties zich in dit geval heeft voorgedaan. Werkgever heeft weliswaar gesteld dat een van de inhoudingen ziet op het VCA-examen maar dit blijkt niet uit de loonstrook. Hierop staat alleen vermeld dat er een bedrag is ingehouden wegens ‘contractuele boete’. Deze omschrijving strookt niet met de uitleg die werkgever thans aan deze inhouding geeft.
+
+Ten aanzien van de overige inhoudingen heeft werkgever slechts in het algemeen toegelicht in welke situaties zij boetes oplegt aan haar werknemers, maar zij heeft niet concreet aangegeven waar de inhoudingen op het loon van werknemer op zien. Dit blijkt ook niet uit de loonstroken hetgeen in strijd is met artikel 7:626 BW. Dit artikel is op grond van artikel 2 WagwEU op de arbeidsovereenkomst van toepassing. Op grond van dit artikel moeten bedragen die op het loon worden ingehouden, op de loonstrook worden gespecificeerd.
+
+4.36.
+
+Nu niet is gebleken met welke reden er bedragen op het loon zijn ingehouden en of er voor dat specifieke geval een volmacht tot inhouding is verleend, gaat de kantonrechter ervan uit dat de inhoudingen onrechtmatig zijn gedaan. Het verzoek tot betaling van het bedrag van € 640,00 wordt daarom toegewezen.
+
+buitengerechtelijke kosten
+
+4.37.
+
+De kantonrechter begrijpt dat werknemer aan zijn verzoek tot betaling van buitengerechtelijke incassokosten artikel 6:96 BW en het Besluit vergoeding voor buitengerechtelijke incassokosten ten grondslag heeft gelegd. Nu op de arbeidsovereenkomst niet het Nederlandse recht van toepassing is en artikel 6:96 BW niet van bijzonder dwingend recht is, kan het verzoek tot betaling van buitengerechtelijke incassokosten niet aan deze regeling worden getoetst. Werknemer heeft niet gesteld dat hij op grond van het Portugese recht aanspraak kan maken op vergoeding van buitengerechtelijke kosten, zodat ook dit verzoek wordt afgewezen.
+
+proceskosten
+
+4.38.
+
+Ieder van partijen moet de eigen proceskosten betalen, omdat beide partijen op punten ongelijk krijgen.
+
+5
+De beslissing
+
+De kantonrechter
+
+5.1.
+
+veroordeelt werkgever om aan werknemer een vergoeding te betalen van € 3.121,93 bruto,
+
+5.2.
+
+veroordeelt werkgever om aan werknemer een bedrag aan loon te betalen van € 4.146,97 bruto,
+
+5.3.
+
+veroordeelt werkgever om aan werknemer een bedrag aan vakantiegeld te betalen van € 3.632,83 bruto,
+
+5.4.
+
+veroordeelt werkgever om aan werknemer een bedrag wegens onrechtmatig opgelegde boetes te betalen van € 640,00,
+
+5.5.
+
+bepaalt dat iedere partij de eigen proceskosten draagt,
+
+5.6.
+
+verklaart deze beschikking tot zover uitvoerbaar bij voorraad,
+
+5.7.
+
+wijst het meer of anders verzochte af.
+
+Deze beschikking is gegeven door mr. Van der Lende-Mulder Smit en in het openbaar uitgesproken op 21 juli 2026.
+
+Gerechtshof Arnhem-Leeuwarden, 30 november 2021, ECLI:NL:GHARL:2021:11015, r.o. 2.13 en 2.14.

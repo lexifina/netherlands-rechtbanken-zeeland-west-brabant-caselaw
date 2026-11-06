@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): zeeland west brabant
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Zeeland-West-Brabant (with the former Rechtbanken Breda and Middelburg), Netherlands, which global-law reads at `netherlands/rechtbanken-zeeland-west-brabant/caselaw/`.
+
 Every decision of the rechtbanken (district courts): zeeland west brabant that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 47,070 decisions from 1990-10-12 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-zeeland-west-brabant/caselaw`.

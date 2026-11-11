@@ -9,7 +9,7 @@
   "coverage": "47070 published decisions with text (uitspraken and conclusies), one file and one commit each, dated the day decided; 2244 citations of law linked to netherlands-law.",
   "history_from": "1990-10-12",
   "record_to": "2026-11-10",
-  "checked_on": "2026-11-10",
+  "checked_on": "2026-11-11",
   "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. Decisions the courts publish only as metadata (no text) are not included. Commits before 1970 are dated 1970-01-01, a second apart; In-force holds the real day.",
   "in_force_trailer": "In-force",
   "correction_trailer": "Corrected",
